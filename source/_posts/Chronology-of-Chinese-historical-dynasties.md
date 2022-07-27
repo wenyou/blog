@@ -131,7 +131,23 @@ table.gridtable td {
         <td>屈原、宋玉、李悝、吴起、李冰(都江堰)、商鞅、乐毅、鬼谷子、张仪、苏秦、杨朱、墨子、孟子、庄子、孟尝君、荀子、韩非、廉颇、蔺相如等</td>
     </tr>
     <tr>
-        <td>秦</td>
+        <td rowspan="2">秦</td>
+        <td rowspan="2">前221年 \- 前207年</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
