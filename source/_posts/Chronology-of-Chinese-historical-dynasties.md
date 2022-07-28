@@ -1,15 +1,15 @@
 ---
 title: 中国历史朝代年表
 ---
-<table border="1">
-    <tr>
-        <th>名称</th> 
-        <th>时间（公元纪年）</th> 
-        <th>细分</th>
-        <th>细分时间</th>
-        <th>对应外国时期</th>
-        <th>注释</th>
-        <th>历史名人</th>
+<table cellpadding="5" cellspacing="1" bgcolor="#002EA6" border="0">
+    <tr bgcolor="#FFE78F" align="center">
+        <th bgcolor="#FFE78F">名称</th> 
+        <th bgcolor="#FFE78F">时间（公元纪年）</th> 
+        <th bgcolor="#FFE78F">细分</th>
+        <th bgcolor="#FFE78F">细分时间</th>
+        <th bgcolor="#FFE78F">对应外国时期</th>
+        <th bgcolor="#FFE78F">注释</th>
+        <th bgcolor="#FFE78F">历史名人</th>
     </tr>
     <tr>
         <td rowspan="5">史前时代（史前时期）</td>
