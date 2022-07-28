@@ -1,39 +1,15 @@
 ---
 title: 中国历史朝代年表
 ---
-<style type="text/css">
-table.gridtable {
-    font-family: verdana,arial,sans-serif;
-    font-size:11px;
-    color:#333333;
-    border-width: 1px;
-    border-color: #666666;
-    border-collapse: collapse;
-}
-table.gridtable th {
-    border-width: 1px;
-    padding: 8px;
-    border-style: solid;
-    border-color: #666666;
-    background-color: #dedede;
-}
-table.gridtable td {
-    border-width: 1px;
-    padding: 8px;
-    border-style: solid;
-    border-color: #666666;
-    background-color: #ffffff;
-}
-</style>
-<table class="gridtable">
+<table border="1">
     <tr>
-    <th>名称</th> 
-    <th>时间（公元纪年）</th> 
-    <th>细分</th>
-    <th>细分时间</th>
-    <th>对应外国时期</th>
-    <th>注释</th>
-    <th>历史名人</th>
+        <th>名称</th> 
+        <th>时间（公元纪年）</th> 
+        <th>细分</th>
+        <th>细分时间</th>
+        <th>对应外国时期</th>
+        <th>注释</th>
+        <th>历史名人</th>
     </tr>
     <tr>
         <td rowspan="5">史前时代（史前时期）</td>
@@ -169,7 +145,7 @@ table.gridtable td {
         <td>魏</td>
         <td>220-266</td>
         <td rowspan="3">* 波斯萨珊王朝（224年－651年） * 日本古坟时代 （250年－592年）</td>
-        <td rowspan="3">伟大的曹公(操)有一句诗词概况这一期的悲惨景象：“白骨露於野，千里无鸡鸣”！  黄巾起义(张角)、官渡之战、赤壁之战</td>
+        <td rowspan="3">伟大的曹公(操)有一句诗词概况这一时期的悲惨景象：“白骨露於野，千里无鸡鸣”！  黄巾起义(张角)、官渡之战、赤壁之战</td>
         <td rowspan="3">（曹魏建立之前曹操已死）、曹丕、曹植、诸葛亮、刘备、周瑜、孙权、竹林七贤(嵇康、阮籍、山涛、向秀、刘伶、王戎、阮咸)</td>
     </tr>
 	<tr>
