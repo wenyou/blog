@@ -91,11 +91,11 @@ donate:
   enable: true
   # 微信打赏
   wechatpay:
-    qrcode: images/donate/wechatpayimg.png
+    qrcode: images/donate/weixin.png
     title: 微信支付
   # 支付宝打赏
   alipay: 
-    qrcode: images/donate/alipayimg.png 
+    qrcode: images/donate/alipay.png
     title: 支付宝
 
 # Share
@@ -200,22 +200,22 @@ fb_app_id:
 profile:
   enabled: true # Whether to show profile bar
   articleSelfBlock: false # 关闭文章下方的自我介绍
-  avatar: images/avatar.jpg
+  avatar: images/avatar.png
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: 昵称
-  author_title: Web Developer & Designer
-  author_description: 个人简介。
-  location: Shenzhen, China
-  follow: https://github.com/cofess
+  author: Zeeny
+  author_title: Programmer & Designer
+  author_description: 我是一个程序员，业余小提琴爱好者，生活在合肥。
+  location: 合肥, 安徽
+  follow: https://weibo.com/80825745
   # Social Links
   social:
     links:
-      github: https://github.com/cofess
-      weibo: http://weibo.com/cofess
-      twitter: https://twitter.com/iwebued
+      github: https://github.com/wenyou
+      weibo: https://weibo.com/80825745
+      twitter: https://twitter.com/damingtb
       # facebook: /
       # dribbble: /
-      behance: https://www.behance.net/cofess
+      #behance: /
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
@@ -229,24 +229,24 @@ profile:
     平面设计: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/cofess
-    Blog: http://blog.cofess.com
-    微博: http://weibo.com/cofess
-    花瓣: http://huaban.com/cofess
-    Behance: https://www.behance.net/cofess
+    Github: https://github.com/wenyou
+    Blog: http://stkit.cn
+    微博: https://weibo.com/80825745
+    #花瓣: http://huaban.com/cofess
+    #Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
-    - 前端
-    - 前端开发
-    - 前端重构
-    - Web前端
-    - 网页重构
+    - 研发
+    - 生活
+    - 历史
+    - 旅游
+    - 艺术
   # My Personal Works
   works:
     name:
-      link: http://www.example.com
-      date: 2016
+      link: http://www.cnzxsoft.com
+      date: 2022
   # My Personal Projects
   projects:
-    cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
-    cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
+    #cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
+    #cofess/hexo-theme-pure: https://github.com/cofess/hexo-theme-pure
