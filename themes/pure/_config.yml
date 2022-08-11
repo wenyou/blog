@@ -123,7 +123,7 @@ comment:
   type: valine  # 启用哪种评论系统
   disqus:  # enter disqus shortname here
   youyan: 
-    uid: 1783844 # enter youyan uid 
+    uid: # enter youyan uid 
   livere:
     uid: # enter youyan uid 
   gitment:
@@ -221,13 +221,14 @@ profile:
     link_tooltip: true # enable the social link tooltip, options: true, false
   # My Skills 
   skills:
-    Git: ★★★☆☆
-    Gulp: ★★★☆☆
-    Javascript: ★★★☆☆
-    HTML+CSS: ★★★☆☆
-    Bootstrap: ★★★☆☆
-    ThinkPHP: ★★★☆☆
-    平面设计: ★★★☆☆
+    软件开发: ★★★★★
+    系统架构: ★★★★☆
+    数据库: ★★★★☆
+    大数据: ★★★★☆
+    网络安全: ★★★☆☆
+    前端技术: ★★★☆☆
+    平面设计: ★★☆☆☆
+    小提琴: ★★☆☆☆
   # My Personal Links
   links:
     #Github: https://github.com/wenyou
@@ -237,9 +238,10 @@ profile:
     #Behance: https://www.behance.net/cofess
   # My Personal Labels
   labels:
-    - 研发
-    - 生活
     - 历史
+    - 读书
+    - 生活
+    - 研发
     - 旅游
     - 艺术
   # My Personal Works
