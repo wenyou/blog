@@ -211,9 +211,9 @@ profile:
   # Social Links
   social:
     links:
-      github: https://github.com/wenyou
+      #github: https://github.com/wenyou
       weibo: https://weibo.com/80825745
-      twitter: https://twitter.com/damingtb
+      #twitter: https://twitter.com/damingtb
       # facebook: /
       # dribbble: /
       #behance: /
@@ -230,7 +230,7 @@ profile:
     平面设计: ★★★☆☆
   # My Personal Links
   links:
-    Github: https://github.com/wenyou
+    #Github: https://github.com/wenyou
     Blog: http://stkit.cn
     微博: https://weibo.com/80825745
     #花瓣: http://huaban.com/cofess
