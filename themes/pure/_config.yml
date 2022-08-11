@@ -244,11 +244,11 @@ profile:
     - 研发
     - 旅游
     - 艺术
-  # My Personal Works
-  works:
-    中新网安:
-      link: http://www.cnzxsoft.com
-      date: 2012 - 2022
+  # My Personal Works,个人作品
+  #works:
+  #  中新网安:
+  #    link: http://www.cnzxsoft.com
+  #    date: 2012 - 2022
   # My Personal Projects
   #projects:
     #cofess/gulp-startpro: https://github.com/cofess/gulp-startpro
