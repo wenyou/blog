@@ -205,8 +205,8 @@ profile:
   gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: Zeeny
   author_title: Programmer & Designer
-  author_description: 我是一个程序员，业余小提琴爱好者，生活在合肥。
-  location: 合肥, 安徽
+  author_description: 我是一个程序员，业余小提琴爱好者。
+  location: 中国, 世界
   follow: https://weibo.com/80825745
   # Social Links
   social:

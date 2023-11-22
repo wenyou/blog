@@ -1,5 +1,7 @@
 ---
 title: 中国历史朝代年表
+categories: 历史
+tag: 历史
 ---
 <table cellpadding="5" cellspacing="1" bgcolor="#002EA6" border="0">
     <tr bgcolor="#FFE78F" align="center">
