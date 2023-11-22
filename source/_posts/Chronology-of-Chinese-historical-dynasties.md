@@ -1,5 +1,7 @@
 ---
 title: 中国历史朝代年表
+date: 2022-06-15
+updated: 2023-11-21
 categories: 历史
 tag: 历史
 ---
