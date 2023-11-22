@@ -25,7 +25,8 @@ ps aux|grep hexo
 
 
 让hexo进入后台运行: https://blog.csdn.net/weixin_41256398/article/details/117989926
-pm2查看、重启服务和日志:https://blog.csdn.net/wzpmp20092009/article/details/122432243
+pm2查看、重启服务和日志:https://blog.csdn.net/wzp20092009/article/details/122432243
+
 
 
 Hexo 文档

@@ -7,7 +7,7 @@
 ```
 hexo g
 hexo d
-
+````
 
 ### 配置
 ```
@@ -18,6 +18,7 @@ npm install hexo-generator-feed --save
 npm install hexo-generator-sitemap --save
 npm install hexo-generator-baidu-sitemap --save
 
+生成、部署
 cd /home/myNode
 hexo generate / hexo g
 hexo deploy / hexo d
@@ -41,7 +42,4 @@ centos查看进程
 ps -elf|grep hexo
 或者：
 ps aux|grep hexo
-
-
-让hexo进入后台运行: https://blog.csdn.net/weixin_41256398/article/details/117989926
-pm2查看、重启服务和日志:https://blog.csdn.net/wzp20092009/article/details/122432243
+```
