@@ -37,7 +37,7 @@ site:
   copyright: true # 底部版权信息
   data:
     links:
-      我收集的中国传统色: http://hahafamily.com/Chinese-traditional-colors.html
+      ChineseTraditionalColors: http://hahafamily.com/Chinese-traditional-colors.html
 
 # config
 config:
