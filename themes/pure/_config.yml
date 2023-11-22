@@ -35,6 +35,9 @@ site:
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
   copyright: true # 底部版权信息
+  data:
+    links:
+      我收集的中国传统色: http://hahafamily.com/Chinese-traditional-colors.html
 
 # config
 config:
@@ -166,7 +169,7 @@ douban:
   user: zhangwenyou # 豆瓣用户名
   start: 0 # 从哪一条记录开始
   count: 100 # 获取豆瓣书单数据条数
-  apikey: # 豆瓣apikey
+  apikey: 0ac44ae016490db2204ce0a042db2916 # 豆瓣apikey
   
 # PV
 pv:
