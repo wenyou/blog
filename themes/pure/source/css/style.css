@@ -324,6 +324,10 @@ img {
   border-radius: 50%;
 }
 
+#avatar.img-circle {
+  border-radius: 30%;
+}
+
 hr {
   margin-top: 21px;
   margin-bottom: 21px;
@@ -5761,8 +5765,8 @@ body.no-sidebar .sidebar {
 }
 
 #avatar {
-  width: 64px;
-  height: 64px;
+  width: 120px;
+  height: 120px;
   display: inline-block;
 }
 
