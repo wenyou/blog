@@ -1,9 +1,20 @@
+启动命令:
 cd /home/myNode
-hexo generate / hexo g
+#生成静态页面
+hexo generate / hexo g  
 
+#清空静态文件（public目录）
+hexo clean   
+
+#部署
 hexo deploy / hexo d
+
+#生成静态页面 + 部署
 hexo generate --deploy / hexo g -d
+
+#启动hexo服务
 hexo server -p 80
+
 
 后台运行hexo 网站
 cd /home/myNode
@@ -30,7 +41,8 @@ pm2查看、重启服务和日志:https://blog.csdn.net/wzp20092009/article/deta
 
 
 Hexo 文档
-https://hexo.io/zh-cn/docs/
+  https://hexo.io/zh-cn/docs/
+  Hexo 搭建博客笔记: https://blog.csdn.net/Leatitia/article/details/103213578
 
 
 安装 Hexo
