@@ -35,9 +35,7 @@ site:
   favicon: /favicon.png
   board: <p>欢迎交流与分享经验!</p> # 站点公告
   copyright: true # 底部版权信息
-  data:
-    links:
-      ChineseTraditionalColors: http://hahafamily.com/Chinese-traditional-colors.html
+
 
 # config
 config:

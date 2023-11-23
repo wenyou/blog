@@ -6,6 +6,7 @@ categories: 计算机
 tags: [二进制,编码]
 author: Zeeny
 summary: 在计算机运算时，需要将负数编码至二进制形式,其所用的编码方法称为有符号数的表示。当前有四种方法，用于扩展二进制数字系统，来表示有符号数：原码（sign-and-magnitude）、反码（ones' complement）、补码（two's complement）以及移码（offset binary，excess-N）
+comments: false
 ---
 
 ​在计算机运算时，需要将负数编码至二进制形式,其所用的编码方法称为有符号数的表示。当前有四种方法，用于扩展二进制数字系统，来表示有符号数：原码（sign-and-magnitude）、反码（ones' complement）、补码（two's complement）以及移码（offset binary，excess-N）。

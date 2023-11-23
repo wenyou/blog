@@ -22,6 +22,6 @@ sidebar: custom
 ### 联系我
 ```
 新浪微博: @Zeenyou ​​​ ​https://weibo.com/80825745
-Email: 80825745@qq.com
+Email: stkits@126.com
 抖音：Zeeny  206424632
 ```

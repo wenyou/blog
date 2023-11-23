@@ -50,4 +50,5 @@ https://hexo.io/zh-cn/docs/
 
 Hexo写文章操作方法参考:
   如何用Hexo优雅的书写文章 https://blog.csdn.net/howareyou2104/article/details/106312703
+  使用hexo新建、编辑并预览文章 https://zhuanlan.zhihu.com/p/132823826
   
