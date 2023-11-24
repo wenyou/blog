@@ -5761,12 +5761,12 @@ body.no-sidebar .sidebar {
  */
 
 .profile-block {
-  padding: 20px 15px 10px 15px;
+  padding: 10px 15px 10px 15px;
 }
 
 #avatar {
   width: 120px;
-  height: 120px;
+  height: 70px;
   display: inline-block;
 }
 
@@ -8945,8 +8945,8 @@ body.okayNav-loaded {
 
 @media (max-width: 480px) {
   .header #avatar {
-    width: 24px;
-    height: 24px;
+    width: 34px;
+    height: 34px;
     margin-top: 3px;
     margin-left: 15px;
   }
@@ -9007,8 +9007,8 @@ body.okayNav-loaded {
   }
 
   .header #avatar {
-    width: 32px;
-    height: 32px;
+    width: 34px;
+    height: 34px;
   }
 
   .footer {
