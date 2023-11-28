@@ -17,7 +17,7 @@ summary: windows常用命令,windows common commands#
 systeminfo
 ```
 
-**例如： **
+**例如：**
 
 ​	&emsp;&emsp;如果不确定自己计算机的类型，请打开命令提示符或 PowerShell，并输入：
 
@@ -26,7 +26,7 @@ systeminfo | find "System Type"
 systeminfo | find "系统类型"
 ```
 
- 	&emsp;&emsp;**Caveat：** 在非英文版 Windows 上，你可能必须修改搜索文本，对“System Type”字符串进行翻译。 你可能还需要对引号进行转义来用于 find 命令。 例如，在中文版中使用 systeminfo | find "系统类型"。
+​	&emsp;&emsp;**Caveat：** 在非英文版 Windows 上，你可能必须修改搜索文本，对“System Type”字符串进行翻译。 你可能还需要对引号进行转义来用于 find 命令。 例如，在中文版中使用 systeminfo | find "系统类型"。
 
 
 

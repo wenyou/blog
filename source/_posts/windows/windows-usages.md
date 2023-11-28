@@ -24,7 +24,7 @@ summary: Windows使用记录，windows usages
 
 ## 1、清空临时文件
 
-  	win + R 键，调出“运行” ，输入 %temp% ，删除所有临时文件。
+​	&emsp;&emsp;win + R 键，调出“运行” ，输入 %temp% ，删除所有临时文件。
 
 
 
@@ -32,7 +32,7 @@ summary: Windows使用记录，windows usages
 
 ## 1、常用命令
 
-### 打开文件夹/目录命令:
+#### 打开文件夹/目录命令:
 
 ```
 # open the current directory in windows explorer

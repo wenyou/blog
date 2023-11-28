@@ -35,7 +35,7 @@ EG：netsh interface portproxy add v4tov4 9002 10.0.101.84 9002 127.0.0.1
 
 # 二、cmd静态路由设置方法
 
-__问题抛出__
+__问题抛出：__
 
 ​	&emsp;&emsp;现在是这种情况，我的windows电脑，IP地址如下所示：
 
