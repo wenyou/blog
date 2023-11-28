@@ -33,7 +33,7 @@ site:
     url: images/logo.png
   title: Zeeny's blog # 页面title
   favicon: /favicon.png
-  board: <p>欢迎交流与分享经验!</p> # 站点公告
+  board: <p>天已经黑了，欢迎交流与分享经验！</p> # 站点公告
   copyright: true # 底部版权信息
 
 
@@ -103,8 +103,8 @@ donate:
 # weibo,qq,qzone,wechat,tencent,douban,diandian,facebook,twitter,google,linkedin
 share:
   enable: true  # 是否启用分享
-  sites: weibo,qq,wechat,facebook,twitter  # PC端显示的分享图标
-  mobile_sites: weibo,qq,qzone  # 移动端显示的分享图标
+  sites: weibo,wechat,qq,qzone,twitter,facebook  # PC端显示的分享图标
+  mobile_sites: weibo,wechat,qzone  # 移动端显示的分享图标
 
 # Github
 # github: 
@@ -206,7 +206,7 @@ profile:
   author: Zeeny
   author_title: Programmer & Designer
   author_description: 我是一个程序员，业余小提琴爱好者。
-  location: 中国, 世界
+  location: hello cruel world! #中国, 世界
   follow: https://stkit.cn/
   # Social Links
   social:
