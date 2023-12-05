@@ -18,7 +18,9 @@ summary: PHP问题与错误处理，出错解决方案。静态方法和实例�
 
 ​	&emsp;&emsp;解决方法如下 :
 
-	error_reporting(E_ALL & ~(E_STRICT | E_NOTICE));
+```php
+error_reporting(E_ALL & ~(E_STRICT | E_NOTICE));
+```
 
 ​	&emsp;&emsp;静态方法和实例方法的小漏洞。
 
@@ -28,24 +30,28 @@ summary: PHP问题与错误处理，出错解决方案。静态方法和实例�
 
 ​	&emsp;&emsp;我们先看一个例子：
 
-	error_reporting(E_ALL);
-	class A {
-		public static function staticFunc() {
-			echo "static";
-		}
-		public function instanceFunc() {
-			echo "instance";
-		}
+```php
+error_reporting(E_ALL);
+class A {
+	public static function staticFunc() {
+		echo "static";
 	}
-	A::instanceFunc(); // instance
-	$a = new A();
-	$a ->staticFunc(); // static
+	public function instanceFunc() {
+		echo "instance";
+	}
+}
+A::instanceFunc(); // instance
+$a = new A();
+$a ->staticFunc(); // static
+```
 
 ​	&emsp;&emsp;上面的代码静态的调用了实例方法，程序输出了instance，实例调用静态方法也会正确输出static，这说明这两种方法本质上并没有却别。唯一不同的是他们被调用的上下文环境，例如通过实例方法调用方法则上下文中将会有$this这个特殊变量，而在静态调用中将无法使用$this变量。
 
 ​	&emsp;&emsp;不过实际上Zend引擎是考虑过这个问题的，将error_reporting的级别增加E_STRICT，将会出出现E_STRICT错误:
 
-	Strict Standards: Non-static method A::instanceFunc() should not be called statically
+```html
+Strict Standards: Non-static method A::instanceFunc() should not be called statically
+```
 
 ​	&emsp;&emsp;这只是不建议将实例方法静态调用，而对于实例调用静态方法没有出现E_STRICT错误，有人说：某些事情可以做并不代表我们要这样做。
 
@@ -62,14 +68,16 @@ summary: PHP问题与错误处理，出错解决方案。静态方法和实例�
 
 ​	&emsp;&emsp;例如：
 
-	$audit_http_list = $this->dbo->query($sql);
-	
-	ob_start();
-	include template(‘listhttp’,STK_M,”,false);
-	$list = ob_get_contents();
-	ob_end_clean();
-	
-	echo str_replace(array(‘\n’,'\t’,'\r’), ”,json_encode(array($pages,$list)));
+```php
+$audit_http_list = $this->dbo->query($sql);
+
+ob_start();
+include template(‘listhttp’,STK_M,”,false);
+$list = ob_get_contents();
+ob_end_clean();
+
+echo str_replace(array(‘\n’,'\t’,'\r’), ”,json_encode(array($pages,$list)));
+```
 
 
 
@@ -80,24 +88,28 @@ summary: PHP问题与错误处理，出错解决方案。静态方法和实例�
 
 ​	&emsp;&emsp;如果确定所有的中文都用一个编码格式如：*gb2312*，则可以用以下解决方案：
 
-	<?php
-	    foreach ($data_list as $key=>$val) {
-	        $data_list[$key]['name'] = urlencode(iconv(‘gb2312′,’utf-8′,		$val['name']));
-	    }
-	    
-	    echo json_encode($data_list);
-	?>
+```php
+<?php
+    foreach ($data_list as $key=>$val) {
+        $data_list[$key]['name'] = urlencode(iconv(‘gb2312′,’utf-8′,		$val['name']));
+    }
+    
+    echo json_encode($data_list);
+?>
+```
 
 ​	&emsp;&emsp;客户端 js 处理：
 
-	var data=eval(json);
-	var html = ‘<select>’;
-	
-	$.each(data, function(k) {
-		html = ‘<option value=”‘+data[k]['id']+’”>’+ decodeURIComponent/decodeURI(json[k]['name'])+’</option>’;
-	});
-	
-	html  =”</select>”;
+```js
+var data = eval(json);
+var html = ‘<select>’;
+
+$.each(data, function(k) {
+	html = ‘<option value=”‘+data[k]['id']+’”>’+ decodeURIComponent/decodeURI(json[k]['name'])+’</option>’;
+});
+
+html  =”</select>”;
+```
 
 ​	&emsp;&emsp;就可以了。
 
@@ -107,10 +119,12 @@ summary: PHP问题与错误处理，出错解决方案。静态方法和实例�
 
 ​	&emsp;&emsp;可以用下面这种方案，例如我给公司做OA系统的方案：
 
-	foreach($audit_http_list as $k=>$v){
-		$audit_http_list[$k]['title'] = urlencode($v['title']);
-		$audit_http_list[$k]['url'] = urlencode($v['url']);
-	}
+```php
+foreach($audit_http_list as $k=>$v){
+	$audit_http_list[$k]['title'] = urlencode($v['title']);
+	$audit_http_list[$k]['url'] = urlencode($v['url']);
+}
+```
 
 ​	&emsp;&emsp;这里只需把含有中文的地方 *urlencode* 一下，不管它有没有乱码还是什么编码。
 
@@ -118,21 +132,27 @@ summary: PHP问题与错误处理，出错解决方案。静态方法和实例�
 
 ​	&emsp;&emsp;然后json_encode 一下：
 
-	$data_json = json_encode(array($pages,$list))；
+```php
+$data_json = json_encode(array($pages,$list))；
+```
 
 ​	&emsp;&emsp;最后再 *urldecode* 一下：
 
-	echo urldecode($data_json);
+```php
+echo urldecode($data_json);
+```
 
 ​	&emsp;&emsp;客户端，就不需要 *decodeURI* 了。
 
 ​	&emsp;&emsp;javascript:
 
-	$.get(uri, function(json){
-		var data = eval(json);
-		$(‘#content_list’).html(data[1]);
-		$(‘#pages’).html(data[0]);
-	});
+```javascript
+$.get(uri, function(json){
+	var data = eval(json);
+	$(‘#content_list’).html(data[1]);
+	$(‘#pages’).html(data[0]);
+});
+```
 
 
 
@@ -146,37 +166,41 @@ summary: PHP问题与错误处理，出错解决方案。静态方法和实例�
 
 ​	&emsp;&emsp;*checkcode.php* 显示验证码图片文件的代码如下：
 
-	require dirname(__FILE__).’/includes/common.inc.php’;
-	//这里省略N多生成图片的代码。。。。
-	//这里省略N多生成图片的代码。。。。
-	//output to browser
-	ob_clean();
-	header(“content-type:image/png\r\n”);
-	imagepng($im);
-	imagedestroy($im);
+```php
+require dirname(__FILE__).’/includes/common.inc.php’;
+//这里省略N多生成图片的代码。。。。
+//这里省略N多生成图片的代码。。。。
+//output to browser
+ob_clean();
+header(“content-type:image/png\r\n”);
+imagepng($im);
+imagedestroy($im);
+```
 
 ​	&emsp;&emsp;在 **common.inc.php** 文件的开头（或入口文件的开头）加上 “**ob_start();**”。
 ​	&emsp;&emsp;common.inc.php 代码如下：
 
-	ob_start();
-	
-	define(‘IN_SCF’, TRUE);
-	error_reporting(E_ALL);//E_ALL
-	define(‘DS’,DIRECTORY_SEPARATOR);
-	define(‘S_ROOT’, substr(__FILE__,0,-24).DS);
-	$_CONFIG = $_SGLOBAL =array();
-	$_CONFIG = parse_ini_file(S_ROOT.’config.ini’);
-	date_default_timezone_set($_CONFIG['timezone_set']);
-	$_start = explode(” “, microtime());
-	$_SGLOBAL['timestamp'] =$timestamp = $_start[1];
-	$_SGLOBAL['app_starttime'] = $_SGLOBAL['timestamp'] + $_start[0];
-	set_include_path(S_ROOT.’includes’.DS);
-	require_once ‘global.func.php’;
-	ini_set(“magic_quotes_runtime”,0);
-	define(‘DATA_PATH’,S_ROOT.’data’.DS);
-	define(‘MAGIC_QUOTES_GPC’, get_magic_quotes_gpc());
-	!defined(‘CURSCRIPT’) && define(‘CURSCRIPT’, ”);
-	….
-	….
+```php
+ob_start();
+
+define(‘IN_SCF’, TRUE);
+error_reporting(E_ALL);//E_ALL
+define(‘DS’,DIRECTORY_SEPARATOR);
+define(‘S_ROOT’, substr(__FILE__,0,-24).DS);
+$_CONFIG = $_SGLOBAL =array();
+$_CONFIG = parse_ini_file(S_ROOT.’config.ini’);
+date_default_timezone_set($_CONFIG['timezone_set']);
+$_start = explode(” “, microtime());
+$_SGLOBAL['timestamp'] =$timestamp = $_start[1];
+$_SGLOBAL['app_starttime'] = $_SGLOBAL['timestamp'] + $_start[0];
+set_include_path(S_ROOT.’includes’.DS);
+require_once ‘global.func.php’;
+ini_set(“magic_quotes_runtime”,0);
+define(‘DATA_PATH’,S_ROOT.’data’.DS);
+define(‘MAGIC_QUOTES_GPC’, get_magic_quotes_gpc());
+!defined(‘CURSCRIPT’) && define(‘CURSCRIPT’, ”);
+….
+….
+```
 
 ​	&emsp;&emsp;这样处理后，验证码就会正常显示了。

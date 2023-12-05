@@ -12,14 +12,18 @@ summary: PHP问题与错误处理，出错解决方案。PHP调用gpg加密命�
 # PHP调用gpg加密命令不执行
 ​	&emsp;&emsp;PHP调用gpg加密命令不执行，在命令行下可以执行。exec返回值是2。
 
-	php:
-		exec('gpg --recipient zhxxxx@cnzxsoft.com --output /tmp/test.en.txt --encrypt /tmp/test.txt', $output, $resultval);
+```php
+php:
+	exec('gpg --recipient zhxxxx@cnzxsoft.com --output /tmp/test.en.txt --encrypt /tmp/test.txt', $output, $resultval);
+```
 
 
 ​	&emsp;&emsp;*$resultval* 返回值为：2，*$output* 为空，不能加密文件。
 
-	#shell:
-		gpg --recipient zhxxxx@cnzxsoft.com --output /tmp/test.en.txt --encrypt /tmp/test.txt
+```shell
+#shell:
+	gpg --recipient zhxxxx@cnzxsoft.com --output /tmp/test.en.txt --encrypt /tmp/test.txt
+```
 
 ​	&emsp;&emsp;*shell* 命令行下可以执行。
 
@@ -38,40 +42,46 @@ summary: PHP问题与错误处理，出错解决方案。PHP调用gpg加密命�
 #### 方法如下：
 ​	&emsp;&emsp;**1、**新建C程序文件 gpgen.c ，代码如下：
 
-	#include <stdio.h>
-	#include <stdlib.h>
-	#include <sys/types.h>
-	#include <unistd.h>
-	
-	int main(int argc, char* argv[])	{
-	    uid_t uid, euid;
-	    uid = getuid();
-	    euid = geteuid();
-	    if(setreuid(euid, uid))
-	            perror("setreuid");
-	    
-	    char s[256] = {0};
-	    sprintf(s,"gpg --recipient %s --output %s --encrypt %s", argv[1], argv[2], argv[3]); 
-	    
-	    system(s);
-	    
-	    //system("whoami > /tmp/who.txt"); //查看一下用户是不是root
-	    
-	    return 0;
-	}
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/types.h>
+#include <unistd.h>
+
+int main(int argc, char* argv[])	{
+    uid_t uid, euid;
+    uid = getuid();
+    euid = geteuid();
+    if(setreuid(euid, uid))
+            perror("setreuid");
+    
+    char s[256] = {0};
+    sprintf(s,"gpg --recipient %s --output %s --encrypt %s", argv[1], argv[2], argv[3]); 
+    
+    system(s);
+    
+    //system("whoami > /tmp/who.txt"); //查看一下用户是不是root
+    
+    return 0;
+}
+```
 
 ​	&emsp;&emsp;**2、**把上面的文件生成可执行程序：
 
-	#shell:
-	gcc -o gpgen -Wall gpgen.c
-	chmod u+s gpgen
+```shell
+#shell:
+gcc -o gpgen -Wall gpgen.c
+chmod u+s gpgen
+```
 
 ​	&emsp;&emsp;**3、**再用PHP调用这个生成的可执行程序，代替直接调用gpg命令：
 
-	php:
-		putenv("GNUPGHOME=/root/.gnupg"); //这个也要加上，指定GNUPGHOME，要不gpg还是查不到公钥所在的位置。
-		
-	    exec("./gpgen zhxxxxx@cnzxsoft.com /tmp/test.en.txt /tmp/test.txt", $output, $resultval);
+```php
+php:
+	putenv("GNUPGHOME=/root/.gnupg"); //这个也要加上，指定GNUPGHOME，要不gpg还是查不到公钥所在的位置。
+	
+    exec("./gpgen zhxxxxx@cnzxsoft.com /tmp/test.en.txt /tmp/test.txt", $output, $resultval);
+```
 
 ​	&emsp;&emsp;这样就可以解决问题了。
 
@@ -98,7 +108,7 @@ I fixed this issue on my server (running PHP 5.3.3 on Fedora 14) by removing the
 ## 		原因二：/etc/resolv.conf  PHP用户没有这个文件的访问权限
 
 ​	&emsp;&emsp;给 */etc/resolv.conf* 设置访问权限：
-```
+```shell
 chmod 755 /etc/resolv.conf
 ```
 

@@ -26,7 +26,7 @@ summary: PHP笔记
 2. ab
 3. siege
 
-```
+```shell
 ab -n 1000 -c 5 http://172.37.37.12/login
 
 http_load -p 100 -s 10 http://172.37.37.12/login
@@ -49,7 +49,7 @@ http_load -r 5 -s 300 urls.txt
 
 
 
-```
+```shell
 siege -c 300 -r 100 -f url.txt
 ```
 
@@ -71,7 +71,7 @@ siege -c 300 -r 100 -f url.txt
 
 #### chr, ord
 
-```
+```php
 function addbom($str) {
 	return chr(239).chr(187).chr(191).$str;
 }
@@ -89,7 +89,7 @@ function addbom($str) {
 
 ​	&emsp;&emsp;比如:
 
-```
+```php
 ini_set(”max_execution_time”, ”180”); //设置php的脚本超时时间为180秒 
 ini_set(“asp_tags”,”On”); //打开asp脚本标记的支持 比如：<% echo “aaa”%>
 ini_set(“display_errors”,”On”); //打印脚本错误信息
@@ -108,7 +108,7 @@ ini_set(“display_errors”,”On”); //打印脚本错误信息
 
 ​	&emsp;&emsp;我的应用为，有一个二维数组，我要按照其中二个元素的值的大小，把这个二维数组中的第一维从大到小排序。
 
-```
+```php
 $all_list = array_merge((array)$this->dbo->query($sql_1),(array)$this->dbo->query($sql_2));
 
 foreach ($all_list as $key => $row) {
@@ -132,7 +132,7 @@ array_multisort($bs_orgin, SORT_DESC, $packets, SORT_DESC, $all_list);
 
 ​	&emsp;&emsp;启动命令后马上返回，得到此命令的pid:
 
-```
+```php
 exec("/opt/monitor.sh > /dev/null 2>&1 & echo $!", $output, $retval);
 ```
 
@@ -144,7 +144,7 @@ exec("/opt/monitor.sh > /dev/null 2>&1 & echo $!", $output, $retval);
 
 ​	&emsp;&emsp;启动命令，命令发出exit指令后就返回:
 
-```
+```php
 exec("/opt/monitor.sh > /dev/null 2>&1", $output, $retval);
 ```
 
