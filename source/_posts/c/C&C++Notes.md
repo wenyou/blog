@@ -2,7 +2,7 @@
 title: C&C++笔记
 author: Zeeny
 comments: false
-date: 2014-04-13
+date: 2007-04-13
 updated: 2014-04-13
 tags: [C,C++]
 categories: [C,C++]
