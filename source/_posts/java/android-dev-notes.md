@@ -2,7 +2,7 @@
 title: Android开发笔记
 author: Zeeny
 comments: false
-date: 2014-05-30
+date: 2014-01-27
 updated: 2014-05-30
 tags: [Android]
 categories: [Java,Android]
@@ -44,3 +44,6 @@ summary: Android开发笔记
 		return (int)(pxValue / scale + 0.5f);
 	} 
 ```
+
+## Activity 调用顺序
+* 当一个Activity启动并进入活动状态的时候，调用顺序是onCreate、onStart、onResume；退居后台的时候，调用顺序是 onPause、onStop；重新回到活动状态的时候，调用顺序是 onRestart、onStart、onResume；销毁的时候，调用顺序是 onPause、onStop、onDestroy。

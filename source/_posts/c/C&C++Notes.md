@@ -13,10 +13,10 @@ summary: C C++笔记
 
 ## 编译C++
 
-```sh
-   g++ hello.cpp -o hello   [c++ hello.cpp -o help]
-   gcc hello.cpp -lstdc++ -o hello
-   g++ hello.cpp  => ./a.out
+```
+g++ hello.cpp -o hello   [c++ hello.cpp -o help]
+gcc hello.cpp -lstdc++ -o hello
+g++ hello.cpp  => ./a.out
 ```
 
   
