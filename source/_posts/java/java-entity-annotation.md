@@ -1,12 +1,12 @@
 ---
-title: @Entity注解
+title: Entity注解
 author: Zeeny
 comments: false
 date: 2017-05-14
 updated: 2017-05-14
 tags: [Java]
 categories: Java
-summary: @Entity注解
+summary: Entity注解
 ---
 
 
