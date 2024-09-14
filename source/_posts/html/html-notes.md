@@ -42,7 +42,7 @@ abbr {font-style: italic;  font-weight: 100;}
 
 ![alt text](/images/html-abbr-image.png)
 
-[<abbr>: The Abbreviation element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
+[`<abbr>`: The Abbreviation element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
 
 
 # required属性和autofocus属性，labels属性
