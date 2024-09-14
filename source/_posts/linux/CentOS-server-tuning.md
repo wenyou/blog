@@ -90,5 +90,15 @@ vi /etc/sysctl.conf
 	`/sbin/sysctl -p`
 ```
 
-### 网站最大并发连接数、新建数配置调优.md
-[text](../java/website-configuration-tuning.md)
+### 查看当前服务器系统资源
+
+```
+可以通过下面这条命令来查看一个进程可以打开的文件数量
+ulimit -a 或者 ulimit -n
+
+上面只是对用户级别的限制，其实还有个是对系统的总限制，查看系统总线制：
+cat /proc/sys/fs/file-max
+```
+
+### 网站最大并发连接数、新建数配置调优
+[网站最大并发连接数、新建数配置调优](/2015/11/java/website-configuration-tuning)
