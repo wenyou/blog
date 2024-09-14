@@ -25,7 +25,8 @@ summary: HTML笔记
  <ruby> 明 日 <rp>(</rp><rt>ming ri</rt><rp>)</rp> </ruby>
  <ruby> 汉 <rt>Hàn</rt> 字 <rt>Zì</rt> </ruby>
 ```
-![alt text](html-hanzi-image.png)
+![alt text](/images/html-hanzi-image.png)
+![alt text](../../images/html-hanzi-image.png)
 
 
 # `<abbr>` 标签
