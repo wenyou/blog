@@ -17,7 +17,7 @@ summary: centos nginx 配置https 配置SSL证书
 
 * 使用aliyun 免费ssl证书
 
-![alt text](nginx-ssl-ca-image.png)
+![alt text](/images/nginx-ssl-ca-image.png)
 
 
 ## 2、检查nginx SSL模块是否支持 

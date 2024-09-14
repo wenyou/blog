@@ -26,7 +26,7 @@ summary: HTML笔记
  <ruby> 汉 <rt>Hàn</rt> 字 <rt>Zì</rt> </ruby>
 ```
 ![alt text](/images/html-hanzi-image.png)
-![alt text](../../images/html-hanzi-image.png)
+
 
 
 # `<abbr>` 标签
@@ -40,7 +40,7 @@ css:
 abbr {font-style: italic;  font-weight: 100;}
 ```
 
-![alt text](html-abbr-image.png)
+![alt text](/images/html-abbr-image.png)
 
 [<abbr>: The Abbreviation element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
 
