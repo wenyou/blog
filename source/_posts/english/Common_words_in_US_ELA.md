@@ -142,4 +142,3 @@ summary: Common words in U.S. elementary ELA textbooks, Frequent words in Americ
 * summit  /ˈsʌmɪt/  n.（政府间的）首脑会议，峰会；山顶，顶峰；（成就的）顶点，最高点；最高阶层 adj.最高级的，政府首脑的 v.登上（顶峰）
 * soar  /sɔːr/ v.（数量、价值、水平、规模等）急升，猛涨；高飞，翱翔；升空，升腾；（精神或希望）高涨；(树木、建筑等）高耸，屹立；升至（很高的高度），高达；（音乐）升高，增强  n.高飞；高涨
 
-
