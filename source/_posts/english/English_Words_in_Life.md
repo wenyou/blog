@@ -9,11 +9,20 @@ categories: [English]
 summary: English Words in Life
 ---
 
-# Common elementary ELA vocabulary
+# Common words and phrases in daily life
 
 ---
 * jewelry  /ˈdʒuːəlri/  n.珠宝，首饰
-
+* household chores 家务事;      household  /ˈhaʊshoʊld/  n.家庭，一家人；家务 adj.家用的，家务的；全家人的；  chores  /tʃɔːrz/ n.杂务；零工；困难的工作（chore /tʃɔːr/ 的复数）
+* wipe  /waɪp/  v.（用布、手等）擦干净，抹掉；擦掉（液体、污垢、印迹）；把（某物）擦干净；消除，抹去  n.（湿）抹布，纸巾；擦，拭，擦净；划变
+* dishwasher  /ˈdɪʃwɔːʃər/  n.洗碗工；洗碟机
+* mop  /mɑːp/  n.拖把；蓬乱浓密的头发；清扫；洗碗刷；雇工市场；鬼脸  v.用拖把拖；擦掉，抹掉；结束，完成；扮鬼脸
+* dust  /dʌst/  n.沙尘；灰尘；粉末；尘雾；除尘，掸灰； v.擦去……的灰尘；把粉末撒于；
+* stove  /stoʊv/  n.（取暖或烹饪用的）炉子，火炉；厨灶，炉头；窑；
+* sweep  /swiːp/  v.打扫，清除；（迅猛地）带走，卷走； n.打扫，清扫；挥动；巡行，扫荡；
+* furniture  /ˈfɜːrnɪtʃər/  n.家具；装置；惯常的见解；贮藏物，内容；步枪底托；
+* rake  /reɪk/  n.耙子，靶状物；耙集，耙平  v.（用耙子）耙，耙平；（树枝或手指甲）刮擦，抓；扫视，扫射；（用手）搜寻；
+* tidy  /ˈtaɪdi/  adj.整洁的，有条理的；（人）爱整洁的，爱整齐的； v.使整洁，整理  n.盛零碎物品的容器；
 
 
 
