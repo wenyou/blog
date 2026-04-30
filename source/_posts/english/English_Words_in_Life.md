@@ -33,7 +33,9 @@ summary: English Words in Life
 * tidbit  /ˈtɪdbɪt/  n.小栏报导；珍闻（等于 titbit）  Ex: cultural tidbits  文化趣闻
 * quote  /kwoʊt/ v.引用，引述；举例说明；将......描述为；开价，报价；  n.引文，引语；报价，开价；（股票）报价，牌价；报价单；引号（quotes）  Ex: Quote of the day 每日一句
 * nonprofit  /ˌnɑːnˈprɑːfɪt/ adj.非营利的；不以营利为目的
-
+* Ultra  /ˈʌltrə/  adj.极端的，偏激的  adv.很，非常  n.（尤指政治上的）过激分子，极端主义者；超级马拉松（ultramarathon的简称）
+* Pro  /proʊ/  n.<非正式>专业人士，职业选手；<非正式>（网球或高尔夫球俱乐部的）专职教练；<非正式>老手（=old pro）；好处， 赞成的论点；赞成者，支持者； adj.<美，非正式>职业性的，专业的  prep.支持，赞成  adv.正面地，赞成地
+* career  /kəˈrɪr/  n.职业，事业；职业生涯；  adj.就业的，职业的；终身从事的 v.猛冲
 
 
 ---
