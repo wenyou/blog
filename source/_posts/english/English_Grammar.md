@@ -20,6 +20,11 @@ summary: English Grammar
 * verb  /vɜːrb/  n.动词；动词词性；动词性短语或从句
 * adverb  /ˈædvɜːrb/  n.副词  adj.副词的
 * conjunction  /kənˈdʒʌŋkʃ(ə)n/ 连词   n.结合，同时发生；连词；（占星术中两个天体的）相合
-* interjection  /ˌɪntərˈdʒekʃ(ə)n/   n.感叹词；插入语；突然的发声
+* interjection  /ˌɪntərˈdʒekʃ(ə)n/   n.感叹词；插入语；突然的发声。  缩写： int. 
+* vi. ： abbr. 不及物动词（intransitive verb）
+* intransitive  /ɪnˈtrænzətɪv/  adj.不及物的  n.不及物动词
+* abbr. ： n.缩写词 abbreviation  adj.缩写的 abbreviated
+* abbreviation  /əˌbriːviˈeɪʃn/  n.缩略词，缩写形式；缩略，缩写
+* abbreviated  /əˈbriːvieɪtɪd/  adj.简短的；小型的；服装超短的   v.缩写；节略（abbreviate 的过去分词）
 * part of speech 词性, Ex: What part of speech is this word?
 ![word class](/images/parts-of-speech.jpg "parts of speech")

@@ -1,15 +1,15 @@
 ---
-title: C语言学习笔记
+title: C语言笔记
 author: Zeeny
 comments: false
-date: 2014-05-13
+date: 2010-05-13
 updated: 2014-05-13
 tags: [C,C++]
 categories: [C,C++]
 summary: C语言学习笔记
 ---
 
-# C语言学习笔记
+# C语言笔记
 ## 一、参考资源
 
 * [中文版：Linux C/C++编程一站式学习](http://songjinshan.com/akabook/zh/index.html)
