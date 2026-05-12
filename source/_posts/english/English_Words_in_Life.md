@@ -13,6 +13,8 @@ summary: English Words in Life
 
 
 * jewelry  /ˈdʒuːəlri/  n.珠宝，首饰
+* fountain  /ˈfaʊnt(ə)n/  n.喷泉；喷射；天然泉；源泉；（纹章）银蓝相间波状纹圆盾  v.喷射，喷流
+* net  /net/ 网兜  n.网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；  adj.净得的；净重的；最后的，最终的;  v.净赚，净得；设法获得，巧妙地做；（用网）捕捉；
 
 **household chores**
 * household chores 家务事;      household  /ˈhaʊshoʊld/  n.家庭，一家人；家务 adj.家用的，家务的；全家人的；  chores  /tʃɔːrz/ n.杂务；零工；困难的工作（chore /tʃɔːr/ 的复数）
@@ -25,6 +27,7 @@ summary: English Words in Life
 * furniture  /ˈfɜːrnɪtʃər/  n.家具；装置；惯常的见解；贮藏物，内容；步枪底托；
 * rake  /reɪk/  n.耙子，靶状物；耙集，耙平  v.（用耙子）耙，耙平；（树枝或手指甲）刮擦，抓；扫视，扫射；（用手）搜寻；
 * tidy  /ˈtaɪdi/  adj.整洁的，有条理的；（人）爱整洁的，爱整齐的； v.使整洁，整理  n.盛零碎物品的容器；
+* broom  /bruːm/  n.扫帚；金雀花
 
 
 **others**
@@ -41,6 +44,39 @@ summary: English Words in Life
 * libs  /libs/   ① 口语缩写 = libraries 复数（图书馆；库）； ② 美式网络政治梗（高频）libs = liberals 缩写，自由派、白左（美国保守派对自由派的戏称，带调侃 / 贬义）
 * liberals  /ˈlɪbərəlz/ n.自由主义者（liberal  /ˈlɪbərəl/ 的复数），liberal n.思想开明的人；自由主义者，支持变革的人；（加拿大、英国等国的）自由党党员，自由党支持者 adj.思想开明的；自由主义的，支持变革的；（加拿大、英国等国）自由党的；
 * tig  /tɪɡ/  n.轻拍，触摸；捉人（儿童游戏）（同 tag）;   v.触摸，轻碰；戏弄；（在捉人游戏中）用手触碰而抓获（同 tag）
+* absolutely  /ˌæbsəˈluːtli/  adv.绝对地，完全地；确实地，极其；（强调同意或允许）当然，对极了；专制地，独裁地
+* restoration  /ˌrestəˈreɪʃn/  n.（对艺术品、建筑等的）修复；（做法、权利、惯例或情况的）恢复，重新实施；归还，返还；（软件程序的）恢复，还原；（牙科）修补；
+* dignity /ˈdɪɡnəti/  n.尊严，自尊；庄严，端庄，庄重；尊贵，高贵，高尚；高位，显职
+* ordinary  /ˈɔːrd(ə)neri/   adj.普通的，平常的；平淡无奇的，平庸的； n.常见的人（或事物）（the ordinary）；
+* wealth  /welθ/  n.财富；富有；大量;   wealthy  /ˈwelθi/  adj.富有的，丰富的   n.富人（the wealthy）
+* affluent  /ˈæfluənt/  adj.富裕的，富足的；<古>（水）畅流，滔滔流动；丰富的   n.富人；<古>支流
+* wealthy、 affluent 区别： wealthy 侧重：个人身家、资产雄厚、真有钱;   affluent 侧重：生活富足、收入稳定、消费水平高
+	> Example: 
+	> a wealthy businessman 富豪商人
+	> wealthy family 豪门 / 有钱世家
+	> an affluent neighborhood 高档小区
+	> an affluent society 富足社会
+	> 层级对比（由低到高）: well-off（小康宽裕） < affluent（富足中产） < wealthy（富豪有钱人）
+	> 常用 wealthy: wealthy person / family / investor / elite
+	> 常用 affluent: affluent life / lifestyle / area / society / middle class
+	> wealthy：家底厚、身家有钱，是真富豪;  affluent：日子过得好、生活优渥，是富足中产
+	> He is wealthy — he owns three mansions. 他很有钱（身家高，有三套豪宅）。    She lives an affluent life with a high salary. 她薪资很高，生活富足优渥。
+	> 英语里很多人不喜欢直接说 rich。 所以会说：fairly well-off; quite well-off  听起来更自然、更有教养。
+	> Ex: Her parents are quite well-off.   They’re not rich, but they’re comfortable and well-off.    He’s well-off.
+* well-off  /ˌwel ˈɔːf/   adj.富裕的；顺利的，走运的；繁荣昌盛的
+* mansion  /ˈmænʃ(ə)n/  n.大厦，宅邸；<英>公寓楼
+* necessarily  /ˌnesəˈserəli/  adv.必定，必然；必要地
+* prosperity  /prɑːˈsperəti/  n.繁荣，成功
+* prosperous  /ˈprɑːspərəs/  adj.繁荣的，富足的;   强调“繁荣、兴旺”  不是单纯“个人有钱”。  a prosperous society  繁荣社会。 The city became prosperous.  They dreamed of a more prosperous life.
+* financially  /faɪˈnænʃəli/ adv.财政上，金融上
+* involution  /ˌɪnvəˈluːʃən/  n.（年老或长期不用时，如生育期后的子宫）衰退，退化；（数）对合；<正式>卷入，错综复杂
+  > Living hand-to-mouth 仅够糊口
+  > Spinning your wheels / Involution   瞎忙 / 内卷
+  > The working poor  忙忙碌碌却没钱  
+  > Hardworking but not affluent  勤劳而不富裕
+* struggling /ˈstrʌɡlɪŋ/  adj.艰难奋斗的，苦苦挣扎的;  v.奋斗，努力；搏斗，扭打；争夺，争抢 （struggle 的现在分词形式）
+* struggle  /ˈstrʌɡ(ə)l/   v.奋斗，努力；搏斗，扭打，挣扎脱身；争夺，争抢；奋力前进，艰难行进; n.奋斗，斗争；难事；搏斗，扭打
+
 
 
 ---

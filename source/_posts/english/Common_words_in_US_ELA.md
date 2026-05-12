@@ -86,9 +86,21 @@ summary: Common words in U.S. elementary ELA textbooks, Frequent words in Americ
 * stick /stɪk/  n.枯枝，枝条；条状物，棍状物； v.粘，贴；刺，戳，插；  walking stick  竹节虫 （手杖；拐杖）
 * squirrel  /ˈskwɜːrəl/  n.松鼠；松鼠的毛皮   v.贮藏（供以后使用）；不停（或不安）地探寻
 * burrow  /ˈbɜːroʊ/  n.（兔子等动物掘的）地洞，地道;  v.掘地洞，挖地道 ；偎依，钻到……下面；（在……里）搜寻；挖穿
+* baker  /ˈbeɪkər/  n.面包师，糕点师；专用轻便烤箱；面包店（=baker's）
+* bakery  /ˈbeɪkəri/  n.面包店；烘焙食品（如面包，蛋糕）
+* dentist  /ˈdentɪst/  n.牙科医生；牙医诊所
+* kitten  /ˈkɪt(ə)n/  n.小猫；（某些其他动物）幼崽（如兔和海狸）；一种灰白色舟蛾 v.（猫、某些其他动物）产仔
+* broom  /bruːm/  n.扫帚；金雀花
+* fountain  /ˈfaʊnt(ə)n/  n.喷泉；喷射；天然泉；源泉；（纹章）银蓝相间波状纹圆盾  v.喷射，喷流
+* net  /net/ 网兜  n.网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；  adj.净得的；净重的；最后的，最终的;  v.净赚，净得；设法获得，巧妙地做；（用网）捕捉；
+* dip  /dɪp/  v.浸，蘸；下降，下沉；伸进，伸入； n.游一游，泡一泡；减少，下降；调味酱；凹陷处，低洼处；药浴液；
+* fruit bars  /ˈfruːt bɑːrz/  水果棒、水果条、果糕、水果能量棒   candy bar 糖果巧克力棒（含糖高）   fruit bar 纯水果制成的水果条（更健康）
+* cans  /kænz/  n.金属罐，罐（can 的复数）；易拉罐；耳机；头戴受话器
+* digger  /ˈdɪɡər/  n.挖掘机；挖掘者；矿工；以色相骗钱的女人；扒手
+* dig  /dɪɡ/   v.搜寻，寻找；<非正式，旧>喜欢；挖，掘     n.挖苦，嘲讽；（用手指或肘部）轻碰，轻戳；考古发掘
+* digging  /dɪɡɪŋ/  n.挖掘，采掘;  v.挖掘，发掘（dig 的现在分词形式）;  dug  /dʌɡ/  v.搜寻，寻找；挖，掘（dig 的过去式和过去分词）
 
 
-* digging  /dɪɡɪŋ/  n.挖掘，采掘   v.挖掘，发掘（dig 的现在分词形式）, dig: /dɪɡ/  v.搜寻，寻找；挖，掘  n.挖苦，嘲讽；(用手指或肘部）轻碰，轻戳；考古发掘。   dug  /dʌɡ/  v.搜寻，寻找；挖，掘（dig 的过去式和过去分词）
 * barn  /bɑːrn/  n.畜棚，谷仓；空荡荡的大建筑；
 * pen  n.笔，钢笔；（圈养动物用的）围栏，圈； Ex: in the pen 在围栏里, Look in the pen 朝围栏里看,看看围栏里的情况
 * vet  /vet/  n. 兽医；兽医诊所（vet's）  v.仔细检查；彻底审查（某人）；诊疗；作兽医
@@ -102,8 +114,6 @@ summary: Common words in U.S. elementary ELA textbooks, Frequent words in Americ
 * hug   /hʌɡ/  v.拥抱；抱住，抱在胸前；紧靠，紧挨； n.拥抱，紧抱；
 * firehouse  n.消防站；消防队 , firefighter  /ˈfaɪərfaɪtər/  n.消防队员
 * librarian  /laɪˈbreriən/  n.图书馆馆长，图书馆管理员
-* bakery  /ˈbeɪkəri/  n.面包店；烘焙食品（如面包，蛋糕）
-* baker  /ˈbeɪkər/  n.面包师，糕点师；专用轻便烤箱；面包店（=baker's）
 * rolls  /roʊlz/  n.滚动（roll 的复数）；面包卷；捆；卷轴；辊碎机  roll  /roʊl/ v.（使）翻滚，滚动；（使）翻身，翻转；行驶，开动；（机器）转动，运转； n.卷，卷轴；卷状食品；赘肉，肥肉；名单，花名册；一管；滚动，翻滚；
 * carrier  /ˈkæriər/   n.搬运人，运输工具；航空公司；军车，运输舰；购物袋；（自行车等的）置物架，载重架；带菌者，病毒携带者，病媒；通讯公司；载体
 * Zebra  /ˈziːbrə/  n.斑马；斑马纹蝶；
@@ -165,7 +175,7 @@ summary: Common words in U.S. elementary ELA textbooks, Frequent words in Americ
 * glue  /ɡluː/  n.胶水；凝聚力 v.胶合，粘贴；
 * melted  /ˈmeltɪd/ adj.融化的；溶解的  v.融化；溶解（melt 的过去式）。 melt /melt/ v.（使）熔化，融化；（逐渐）减少，消失；（使）软化，变得温柔；变成，融入  n.融化，融合；熔化的金属，熔化物；一次的熔化量；
 * bathtub  /ˈbæθtʌb/  n.<美>澡盆，浴缸
-* dentist  /ˈdentɪst/  n.牙科医生；牙医诊所
+
 
 
 ---
