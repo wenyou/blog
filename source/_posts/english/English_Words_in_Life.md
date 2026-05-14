@@ -29,6 +29,11 @@ summary: English Words in Life
 * tidy  /ˈtaɪdi/  adj.整洁的，有条理的；（人）爱整洁的，爱整齐的； v.使整洁，整理  n.盛零碎物品的容器；
 * broom  /bruːm/  n.扫帚；金雀花
 
+**profession**
+* correspondent /ˌkɔːrəˈspɑːndənt/  n.（尤指从某一国家发回专题报道的）记者，通讯员；通信者，写信人
+* the pool:记者团(特定场合); pool：此处特指白宫记者团（press pool），非普通 “泳池”。  pool /puːl/  n.游泳池；池塘，水坑；一小片（液体或光）；（河的）深水处，深潭；后备人员，备用物品；共用的资源（或资金）；（有相同职业或共同从事某项活动的）人群；赌球（或其他体育比赛），赌注；  Example: President Trump didn’t answer multiple questions from the pool on if he and President Xi talked about Taiwan. 特朗普总统没有回答记者团提出的多个问题，即他和习近平主席是否谈及了台湾问题。
+* press  /pres/  n.新闻工作者，新闻界，报刊（the press）；新闻报道；新闻舆论，媒体评论；印刷机；出版社，印刷厂；印刷；按，压，熨；压平器，熨烫机；人群，拥挤； v.压，挤，推，贴；按，揿；困扰，严重影响；挤着走；敦促，逼迫；坚持，竭力要求；压平，熨平；压榨，榨汁；
+* on if：口语化表达，书面常用 about whether（是否）
 
 **others**
 * warm-up /ˈwɔːrm ʌp/  n.热身赛；预热；准备运动
@@ -76,6 +81,20 @@ summary: English Words in Life
   > Hardworking but not affluent  勤劳而不富裕
 * struggling /ˈstrʌɡlɪŋ/  adj.艰难奋斗的，苦苦挣扎的;  v.奋斗，努力；搏斗，扭打；争夺，争抢 （struggle 的现在分词形式）
 * struggle  /ˈstrʌɡ(ə)l/   v.奋斗，努力；搏斗，扭打，挣扎脱身；争夺，争抢；奋力前进，艰难行进; n.奋斗，斗争；难事；搏斗，扭打
+* soul mate 
+* PTSD: post‐traumatic stress disorder，PTSD;  创伤后应激障碍
+* incredible  /ɪnˈkredəb(ə)l/  adj.不可思议的，难以置信的；惊人的，极大的，极多的；了不起的，极好的
+* disembarks v．下船；下飞机；下车：指从船、飞机、火车等交通工具上离开。 disembark /ˌdɪsɪmˈbɑːrk/  vi.登陆，下车；上岸
+* Hotwire 热线  adj.热线式的，热电阻线的;  v.热线发动，短路点火（汽车引擎）
+* meanwhile  /ˈmiːnwaɪl/   adv.与此同时；在此期间；另一方面;  n.其间，其时
+
+
+
+---
+* intake  /ˈɪnteɪk/  n.（食物、饮料、空气等的）摄取量，吸入量；摄入，吸入；（一定时期内）纳入的人数；入口，进口；
+* incidence  /ˈɪnsɪdəns/  n.发生率；入射
+* waive  /weɪv/  v.放弃（权利、要求等）；不强制执行（规定、限制），免除（费用）
+* heel  /hiːl/  n.脚后跟；鞋后跟；高跟鞋；手掌根；
 
 
 
