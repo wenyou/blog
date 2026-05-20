@@ -29,11 +29,162 @@ summary: English Words in Life
 * tidy  /ˈtaɪdi/  adj.整洁的，有条理的；（人）爱整洁的，爱整齐的； v.使整洁，整理  n.盛零碎物品的容器；
 * broom  /bruːm/  n.扫帚；金雀花
 
+**Food**
+* Minced Codfish in Seafood Soup 海鲜鳕鱼汤
+* codfish /ˈkɑːdfɪʃ/ n.鳕，鳕鱼。
+* mince  /mɪns/  v.（用机器）切碎，绞碎； n.<英>绞碎的肉，肉末（尤指牛肉）（=ground beef）。 minced /mɪnst/ adj.切碎的；切成末的；v.剁碎；细分；
+* seafood  /ˈsiːfuːd/  n.海鲜；海味；海产食品； 
+
+* Crispy and Stir-Fried Lobster Balls 香脆龙虾球
+* crispy  /ˈkrɪspi/  adj.（食物的外皮）松脆的；生气勃勃的
+* stir-fried  adj.炒的  v.炒（stir-fry 的过去分词）;  stir-fry  /ˈstɜːr fraɪ/ v.翻炒，用旺火爆炒; adj.爆炒的; n.（一盘）炒菜
+* lobster  /ˈlɑːbstər/  n.龙虾；（食用）龙虾肉；
+* Lobster in Tomato Soup   番茄龙虾汤
+* Crispy Beef Ribs  脆皮牛肋排
+* rib  /rɪb/  n.肋骨；排骨（肉），肋条（肉）；肋骨状物;   ribs /rɪbz/ n.肋骨；排骨（rib 的复数）
+
+* Pan-Seared Beef Fillet Stuffed with Morel Mushrooms  香煎牛柳酿羊肚菌
+* Pan-Seared 煎的;  seared /sɪrd/ 烧焦（seared 是 sear 的过去式和过去分词）; sear /sɪr/ vt.烤焦；使……枯萎; vi.干枯；烧焦；凋谢; adj.枯萎的；烤焦的; n.烙印；烧焦痕迹
+* fillet  /fɪˈleɪ/  n.鱼片；头带；平边；饰线;  vt.用带缚；把……切成片; 
+* stuffed  /stʌft/  adj.（人）吃饱的，吃撑的；填制的，填充以保持形状的；（被鼻涕）塞住的; v.塞进，填进；填满，装满；填作料，填馅（stuff 的过去式和过去分词）; 
+* stuff  /stʌf/   n.东西，物品；基本特征，特质，根本； v.塞进，填进；填满，装满；填作料，填馅；
+* morel  /məˈrel/  n.草笠竹；龙葵;   Ex: morel mushroom 羊肚菌
+* mushroom  /ˈmʌʃrʊm/  n.蘑菇，伞菌；蘑菇形物；淡褐色，棕灰色；暴发户; v.迅速成长，大量涌现；采蘑菇；（子弹击中目标时）开花扩散; adj.蘑菇形的；蘑菇的；迅速生长的 
+
+* Kung Pao Chicken and Scallops 宫保鸡丁配扇贝
+* scallop  /ˈskæləp/  n.扇贝，干贝;  vt.使成扇形;  vi.拾扇贝
+
+* Braised Seasonal Greens, Bamboo Shoots, Mushrooms, and Beans  红烧时蔬竹笋蘑菇豆角(红烧时令蔬菜、竹笋、蘑菇和豆类)
+* braised  /breɪzd/  adj.炖熟的；焖熟的；用文火炖到全熟的;  v.用文火炖（braise 的过去分词）;  braise /breɪz/ vt.炖；蒸; n.文火炖熟的肉；赤鲷
+* seasonal  /ˈsiːzən(ə)l/  adj.季节性的，随季节变化的；节令性的，适应节日需要的
+* Greens 绿叶蔬菜
+* bamboo  /ˌbæmˈbuː/  n.竹，竹子； adj.竹制的
+* shoot /ʃuːt/  n.嫩芽，新枝；拍摄；狩猎，射猎场，射击比赛； v.开（枪），射击；射杀，射伤；狩猎，打猎；投（球），射门；拍摄；
+* shoots  /ʃuːts/  n.嫩枝；拍摄（shoot 的复数）; Ex: Bamboo Shoots 竹笋
+
+* Stewed Beef in a Bun  牛肉包
+* stewed  /stuːd/  adj.焦虑不安的；烂醉的；炖煮的;  v.用文火慢慢煨炖；使……焦虑不安（stew 的过去分词）; 
+* stew  /stuː/ n.炖煮的菜肴； v.炖，煨；
+* bun   /bʌn/  n.小圆面包，小长面包；小圆甜蛋糕，小圆甜饼；圆发髻；
+
+* Pan-Fried Pork Bun  煎猪肉包
+
+* Steamed Pork and Shrimp Dumpling  鲜虾猪肉饺
+* steamed  /stiːmd/  adj.蒸熟的，蒸的; v.蒸发，散发；冒热气；用蒸汽驱动（steam 的过去分词）
+* shrimp   /ʃrɪmp/  n.虾，小虾； v.捕虾;  adj.与虾有关的；有虾的，虾制的
+
+* Kung Pao Shrimp  宫保虾球 （宫保虾仁）
+
+* Chocolate Brownie 巧克力布朗尼   /ˈtʃɔːklət/
+* brownie  /ˈbraʊni/  n.巧克力蛋糕，核仁巧克力饼；
+
+* banquet /ˈbæŋkwɪt/  n.宴会，盛宴；筵席，宴席； v.宴请；参加宴会； Ex: State Banquet Menu  国宴菜单
+* Cold Dishes  冷菜
+
+* Drunken Chicken with Hua Diao Wine   花雕醉鸡 （花雕酒醉鸡）
+* drunken  /ˈdrʌŋkən/   adj.醉酒的，酗酒的；酒醉引起的，与酒醉有关的;
+
+* Glutinous Rice with Osmanthus  桂花糖藕（桂花糯米饭）
+* glutinous  /ˈɡluːtənəs/  adj.黏的，胶质的
+* osmanthus  /ɑːzˈmænθəs/  n.木犀属植物 
+
+* Spiced Beef  五香牛肉（辣牛肉）
+* spiced  /spaɪst/  adj.五香的；调过味的；含香料的
+
+* Jellyfish with Cucumber  海暂头拌黄瓜 (黄瓜海蜇) 
+* jellyfish /ˈdʒelifɪʃ/  n.水母，海蜇；
+* cucumber  /ˈkjuːkʌmbər/  n.黄瓜；胡瓜
+
+* Double-boiled Chicken Soup with Matsutake and Bamboo Fungus  松茸竹荪炖土鸡 (松茸竹笋炖鸡汤)
+* matsutake  /ˌmɑːtsəˈtɑːki/   松茸
+* fungus /ˈfʌŋɡəs/   n.真菌，真菌类植物；霉菌；  Ex: bamboo fungus 竹荪
+
+* Hot Dishes  热菜
+* Roasted Beijing Duck  北京烤鸭
+* Beijing Roast Duck 北京烤鸭
+* roasted  /ˈroʊstɪd/   adj.烤的   v.热煨（roast 的过去分词）
+* roast  /roʊst/  v.炙，烘（食物，尤指肉）； 烘干，烘焙；焙，炒（坚果、豆子等）；  n.（大块）烤肉，待烤的肉；户外烧烤野餐；烤，炙，烘（尤指咖啡）；
+
+* Steamed Spotted Garoupa  清蒸东星斑 （清蒸斑石斑鱼）
+* spotted  /ˈspɑːtɪd/  adj.有斑点的，有圆点装饰的；满是污渍的;  v.看见，注意到；发现，挖掘（某人有天赋）；使有斑点，使有污迹（spot 的过去式和过去分词）
+* spot  /spɑːt/  n.地点，场所；点，斑点；污点，污渍；丘疹，疱疹；  v.看见，注意到；让分，让步；飘了几滴雨；
+* garoupa  /ɡəˈruːpə/   石斑鱼;   Ex: red garoupa 红石斑鱼   spotted garoupa 东星斑
+
+* Braised Sea Cucumber with Scallion  葱烧辽参 （葱烧海参）
+* scallion  /ˈskæliən/  n.青葱，冬葱；韭葱
+* sea cucumber  /ˌsiː ˈkjuːkʌmbə(r)/   海参
+
+* Diced Beef Tenderloin with Black Pepper Sauce   黑椒牛柳粒 (黑椒牛柳丁)
+* diced  /daɪst/   adj.切粒的;  v.掷骰子；切成小方块；碎成细粒（dice 的过去分词）
+* dice  /daɪs/  n.骰子；掷骰游戏；小块食物;  v.把（食物）切成小块；玩掷骰子游戏；  
+* tenderloin  /ˈtendərlɔɪn/   n.腰部嫩肉   
+* pepper  /ˈpepər/   n.胡椒粉；辣椒，甜椒，灯笼椒；胡椒；辣椒粉；   v.（在食物上）撒胡椒粉；连续射击；在……上撒，使布满； 
+* sauce  /sɔːs/  n.酱，调味汁；  v.加酱汁于，用酱汁调味；使增加趣味；
+
+* Slow-Cooked Salmon in Mustard Sauce  芥末慢炖三文鱼
+* salmon  /ˈsæmən/  n.鲑鱼，三文鱼，大麻哈鱼；鲑鱼肉，三文鱼肉；  adj.浅橙色的
+* mustard  /ˈmʌstərd/  n.芥末酱；芥末黄，深黄色；芥菜；强烈的兴趣
+
+* Sautéed Seasonal Vegetables    时令蔬菜
+* sautéed  /soʊˈteɪd/ v.油煎；腌制（sauté的过去分词）adj. 煸炒的；快炒的；煎香的; v. 快炒；嫩煎；煸（少油旺火短时翻炒）
+* 烹饪区别
+> sauté：少油、大火、快速翻炒 / 煎香，锁住鲜味     /ˈsəʊteɪ/  /səʊˈteɪ/
+> fry：油炸，用油多    /fraɪ/
+> stir-fry： 中式爆炒  /ˈstɜːr fraɪ/
+>> sautéed garoupa 香煎石斑鱼
+>> sautéed vegetables 清炒时蔬
+>> sautéed beef 滑炒牛肉
+>> sautéed shrimp 油焖 / 清炒虾仁
+>> Sautéed garoupa tastes great. 香煎石斑鱼味道超赞。
+* Stewed Seasonal Vegetables  时蔬炖菜
+
+* Staple Food  主食
+* staple  /ˈsteɪp(ə)l/  n.（某国的）主要产品，支柱产品；主食；主要部份，重要内容；  adj.主要生产的，大量生产的；主要的，常用的; v.用订书钉订住；把……分级
+
+* Fried Rice Yangzhou Style  扬州炒饭
+* fried  /fraɪd/   adj.油炸的；  v.油炸（fry 的过去分词形式）;   fry: /fraɪ/  v.油煎，油炸； n.<美>炸薯条（=french fry）；鱼苗，鱼秧；油煎食品；
+
+* dessert   /dɪˈzɜːrt/  n.（正餐后的）甜点
+* Almond Tofu   杏仁豆腐
+* almond  /ˈɑːmənd/  n.杏仁，扁桃仁；杏树，扁桃树
+
+* Seasonal Fruit Platter  时令水果盘 (时令水果拼盘)
+* platter  /ˈplætər/   n.大浅盘；唱片；唱机转盘
+
+* Hors d’Oeuvres  /ɔːr ˈdɜːrvz/  开胃菜 (开胃小点； 开胃小食；冷盘前菜；法式开胃菜)；  单数：hors d’œuvre
+> hors d’oeuvres： 酒席 / 宴会开场小食，一口一个，餐前垫肚子
+> appetizer  /ˈæpɪtaɪzər/  日常餐厅开胃菜（通用口语）  n.（餐前的）开胃小吃；（一顿饭的）第一道菜，前菜
+> snack /snæk/ 零食小吃;   n.零食，点心，小吃；快餐；   v.吃点心，吃零食
+> cold hors d’oeuvres 冷盘开胃菜
+> seafood hors d’oeuvres 海鲜前菜
+
+* Trumpet Shell-Shaped Pastry  喇叭形酥皮点心 (奶油号角酥 / 法螺酥 / 号角酥)
+* trumpet  /ˈtrʌmpɪt/  n.小号，喇叭；喇叭形物； v.鼓吹，大肆宣扬；（尤指大象）吼叫；吹喇叭，吹小号  
+* pastry  /ˈpeɪstri/  n.油酥面团；酥皮糕点
+* cream horn  奶油角；  horn  /hɔːrn/ n.角；角质；号角；喇叭；角状物
+* cornetto  /kɔːrˈnetoʊ/（意大利，牛角 / 小号）   n.小铜喇叭
+* cannoli  /kəˈnəʊli/（西西里，奶油卷）  n.奶油甜馅煎饼卷 
+
+* Tiramisu  /ˌtɪrəˈmiːsuː/  提拉米苏
+
+* Fruits and Ice Cream  水果和冰淇淋
+
+
 **profession**
 * correspondent /ˌkɔːrəˈspɑːndənt/  n.（尤指从某一国家发回专题报道的）记者，通讯员；通信者，写信人
 * the pool:记者团(特定场合); pool：此处特指白宫记者团（press pool），非普通 “泳池”。  pool /puːl/  n.游泳池；池塘，水坑；一小片（液体或光）；（河的）深水处，深潭；后备人员，备用物品；共用的资源（或资金）；（有相同职业或共同从事某项活动的）人群；赌球（或其他体育比赛），赌注；  Example: President Trump didn’t answer multiple questions from the pool on if he and President Xi talked about Taiwan. 特朗普总统没有回答记者团提出的多个问题，即他和习近平主席是否谈及了台湾问题。
 * press  /pres/  n.新闻工作者，新闻界，报刊（the press）；新闻报道；新闻舆论，媒体评论；印刷机；出版社，印刷厂；印刷；按，压，熨；压平器，熨烫机；人群，拥挤； v.压，挤，推，贴；按，揿；困扰，严重影响；挤着走；敦促，逼迫；坚持，竭力要求；压平，熨平；压榨，榨汁；
 * on if：口语化表达，书面常用 about whether（是否）
+
+
+**science and technology**
+* starship /ˈstɑːrʃɪp/  n.星际飞船
+* vehicle  /ˈviːəkl; ˈviːhɪkl/  n.交通工具，车辆；（实现目的的）工具，媒介；
+* effort  /ˈefərt/   n.努力，艰难的尝试；力气，精力；有组织的活动；努力的结果，成就
+* technician  /tekˈnɪʃ(ə)n/  n.技师，技术人员；（体育、艺术等方面）技巧精湛者，精于技巧者
+* revolutionary  /ˌrevəˈluːʃəneri/   adj.革命的；革命性的，突破性的  n.革命者，革命家
+* capability /ˌkeɪpəˈbɪləti/  n.能力，才能；（国家的）军事力量；计算机性能
+
 
 **others**
 * warm-up /ˈwɔːrm ʌp/  n.热身赛；预热；准备运动
@@ -87,15 +238,12 @@ summary: English Words in Life
 * disembarks v．下船；下飞机；下车：指从船、飞机、火车等交通工具上离开。 disembark /ˌdɪsɪmˈbɑːrk/  vi.登陆，下车；上岸
 * Hotwire 热线  adj.热线式的，热电阻线的;  v.热线发动，短路点火（汽车引擎）
 * meanwhile  /ˈmiːnwaɪl/   adv.与此同时；在此期间；另一方面;  n.其间，其时
-
-
-
----
+* demand  /dɪˈmænd/  v.强烈要求；需要，需求; n.坚决的要求；需求，需求量；（困难的）要求。  in-demand 非常受欢迎或需要的：被许多人需要或想要的。
+* wrap  /ræp/  v.包，裹，包装; 用（手臂、指头或腿）围紧，用……绕住；绕……走；完成拍摄，杀青 ；（使文字）换行。 n.披肩，围巾； 包裹（或包装）材料；拍摄（或录音）结束，停机；  Ex: that's a wrap 圆满结束了,完成了; That’s a wrap on China.关于中国的报道到此结束。
 * intake  /ˈɪnteɪk/  n.（食物、饮料、空气等的）摄取量，吸入量；摄入，吸入；（一定时期内）纳入的人数；入口，进口；
 * incidence  /ˈɪnsɪdəns/  n.发生率；入射
 * waive  /weɪv/  v.放弃（权利、要求等）；不强制执行（规定、限制），免除（费用）
 * heel  /hiːl/  n.脚后跟；鞋后跟；高跟鞋；手掌根；
-
 
 
 ---
