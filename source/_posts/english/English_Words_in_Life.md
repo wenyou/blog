@@ -244,6 +244,8 @@ summary: English Words in Life
 * incidence  /ˈɪnsɪdəns/  n.发生率；入射
 * waive  /weɪv/  v.放弃（权利、要求等）；不强制执行（规定、限制），免除（费用）
 * heel  /hiːl/  n.脚后跟；鞋后跟；高跟鞋；手掌根；
+* partnership  /ˈpɑːrtnərʃɪp/   n.合伙（关系），合股；合伙企业；合伙人；
+* demonstrate  /ˈdemənstreɪt/   v.证明；示范，演示；表露；游行，示威
 
 
 ---
