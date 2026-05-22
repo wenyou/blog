@@ -180,11 +180,22 @@ summary: Common words in U.S. elementary ELA textbooks, Frequent words in Americ
 * flapjack  /ˈflæpdʒæk/  n.小粉盒；烙饼，大薄煎饼；
 * gulp  /ɡʌlp/  v.狼吞虎咽，匆匆吞下；大口呼吸；（因害怕或惊讶而）倒吸气；n.大口吞食，大口啜饮；一大口（饮入物）；一大口（吸入的空气）；吞咽，吸入；
 * babe  /beɪb/  n.婴儿，小孩；女孩；天真幼稚的人；
+> baby  /ˈbeɪbi/  本义：婴儿、小宝宝； 语气：可爱、亲昵、正式一点； 称呼：情侣 / 家人通用，温柔稳重； baby 复数：babies /ˈbeɪbiz/
+> babe  /beɪb/  本义：美人、甜心； 语气：性感、宠溺、口语时髦； 称呼：情侣专属，偏暧昧、撩人； babe 复数：babes /beɪbz/
+> 叫小孩、宝宝 → 只用 baby
+> 叫对象、爱人 → babe /baby 都能用
+> babe 不能用来称呼婴儿
+> Good night, baby. 晚安宝贝
+> Hey babe! 嘿甜心～
 * glue  /ɡluː/  n.胶水；凝聚力； v.胶合，粘贴；
 * stayed  /steɪd/  v.停留，制止（stay 的过去分词形式）；
 * melted  /ˈmeltɪd/ adj.融化的；溶解的；  v.融化；溶解（melt 的过去式）； melt /melt/ v.（使）熔化，融化；（逐渐）减少，消失；（使）软化，变得温柔；变成，融入； n.融化，融合；熔化的金属，熔化物；一次的熔化量；
 * bathtub  /ˈbæθtʌb/  n.<美>澡盆，浴缸；
 * thirsty  /ˈθɜːrsti/  adj.渴的，口渴的；渴望的，渴求的；（植物或土地）缺水的，干旱的；
+* in no time at all: 非常快地、立刻; 立刻马上；转瞬之间；一眨眼功夫；
+> 同义: in a snap / right away
+> snap /snæp/；  in a snap  轻而易举、很快搞定；  a snap  小事一桩；轻而易举；易如反掌；
+> Ex: She finished it in no time at all. 她转眼就做完了。
 * met  /met/ v.遇见（meet 的过去式和过去分词）；
 * wet  /wet/  adj.湿的，潮湿的；（天气）下雨的，多雨的； n.雨，雨天（the wet）；湿气，水分，液体； Ex: wet vet 浑身湿透的兽医；
 * van  /væn/  n.（厢式）小型货车；<美>面包车；<英>（铁路上运送包裹、邮件等的）车厢；<英>拖车；先锋；
@@ -206,7 +217,6 @@ summary: Common words in U.S. elementary ELA textbooks, Frequent words in Americ
 * part  /pɑːrt/  （角色的）台词和动作，角色； 
 > part n.部分；某物的部分（局部）；（书、戏剧、电视剧等的）部，篇，集；（动植物的）器官，部位；部件，零件；成员，参与人员；（世界、国家或城镇等的）区域，地区；（头发的）分缝；（角色的）台词和动作，角色；（在活动或事件中的）作用；（乐器或声音的）声部，音部；（等）份； v.（使）分开，（使）分离；分别；分手；放弃，移交；给（头发）分缝；adv.既有……又有……（part sth., part sth.）；不完全地，部分地； adj.部分的，不完全的；
 * lines  /laɪnz/  n.线；台词；航线（line 的复数）；
-* snap /snæp/；  in a snap  轻而易举、很快搞定；   a snap  小事一桩；轻而易举；易如反掌；
 * upset  /ˌʌpˈset/  v.使心烦意乱，使生气；打乱，搅乱；打翻，使倾覆；翻倒；意外击败（强对手）；使（肠胃）不适；制造麻烦，破坏某人的计划；adj.不高兴的，心烦意乱的；（肠胃）不适的； n.烦恼，失望；肠胃不适；爆冷门；混乱，麻烦；翻倒，颠覆；
 * by heart 熟记，背诵；牢记；凭记忆；熟记于心；
 * stage  /steɪdʒ/  n.阶段，时期；旅程（或赛跑中）的一段；舞台；戏剧，戏剧表演；（尤指政治）舞台，活动领域；vt.上演，演出；主办，举行；使发生；成功做成（某事）；
