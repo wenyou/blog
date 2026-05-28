@@ -16,7 +16,8 @@ summary: English Words in Life
 * fountain  /ˈfaʊnt(ə)n/  n.喷泉；喷射；天然泉；源泉；（纹章）银蓝相间波状纹圆盾  v.喷射，喷流
 * net  /net/ 网兜  n.网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；  adj.净得的；净重的；最后的，最终的;  v.净赚，净得；设法获得，巧妙地做；（用网）捕捉；
 
-**household chores**
+---
+## Household chores
 * household chores 家务事;      household  /ˈhaʊshoʊld/  n.家庭，一家人；家务 adj.家用的，家务的；全家人的；  chores  /tʃɔːrz/ n.杂务；零工；困难的工作（chore /tʃɔːr/ 的复数）
 * wipe  /waɪp/  v.（用布、手等）擦干净，抹掉；擦掉（液体、污垢、印迹）；把（某物）擦干净；消除，抹去  n.（湿）抹布，纸巾；擦，拭，擦净；划变
 * dishwasher  /ˈdɪʃwɔːʃər/  n.洗碗工；洗碟机
@@ -29,7 +30,8 @@ summary: English Words in Life
 * tidy  /ˈtaɪdi/  adj.整洁的，有条理的；（人）爱整洁的，爱整齐的； v.使整洁，整理  n.盛零碎物品的容器；
 * broom  /bruːm/  n.扫帚；金雀花
 
-**Food**
+---
+## Food
 * Minced Codfish in Seafood Soup 海鲜鳕鱼汤
 * codfish /ˈkɑːdfɪʃ/ n.鳕，鳕鱼。
 * mince  /mɪns/  v.（用机器）切碎，绞碎； n.<英>绞碎的肉，肉末（尤指牛肉）（=ground beef）。 minced /mɪnst/ adj.切碎的；切成末的；v.剁碎；细分；
@@ -169,15 +171,15 @@ summary: English Words in Life
 
 * Fruits and Ice Cream  水果和冰淇淋
 
-
-**profession**
+---
+## Profession
 * correspondent /ˌkɔːrəˈspɑːndənt/  n.（尤指从某一国家发回专题报道的）记者，通讯员；通信者，写信人
 * the pool:记者团(特定场合); pool：此处特指白宫记者团（press pool），非普通 “泳池”。  pool /puːl/  n.游泳池；池塘，水坑；一小片（液体或光）；（河的）深水处，深潭；后备人员，备用物品；共用的资源（或资金）；（有相同职业或共同从事某项活动的）人群；赌球（或其他体育比赛），赌注；  Example: President Trump didn’t answer multiple questions from the pool on if he and President Xi talked about Taiwan. 特朗普总统没有回答记者团提出的多个问题，即他和习近平主席是否谈及了台湾问题。
 * press  /pres/  n.新闻工作者，新闻界，报刊（the press）；新闻报道；新闻舆论，媒体评论；印刷机；出版社，印刷厂；印刷；按，压，熨；压平器，熨烫机；人群，拥挤； v.压，挤，推，贴；按，揿；困扰，严重影响；挤着走；敦促，逼迫；坚持，竭力要求；压平，熨平；压榨，榨汁；
 * on if：口语化表达，书面常用 about whether（是否）
 
-
-**science and technology**
+---
+## science and technology
 * starship /ˈstɑːrʃɪp/  n.星际飞船
 * vehicle  /ˈviːəkl; ˈviːhɪkl/  n.交通工具，车辆；（实现目的的）工具，媒介；
 * effort  /ˈefərt/   n.努力，艰难的尝试；力气，精力；有组织的活动；努力的结果，成就
@@ -185,8 +187,122 @@ summary: English Words in Life
 * revolutionary  /ˌrevəˈluːʃəneri/   adj.革命的；革命性的，突破性的  n.革命者，革命家
 * capability /ˌkeɪpəˈbɪləti/  n.能力，才能；（国家的）军事力量；计算机性能
 
+---
+## Education
+* Course Calendar 课程表
 
-**others**
+* lecture  /ˈlektʃər/  n.讲座，讲课，演讲；训斥，告诫； v.（尤指在大学里）开讲座，讲课；训斥，告诫；
+> Lecture /ˈlektʃər/ n. 大课；讲座课（多人听课、老师主讲）
+> Seminar /ˈsemɪnɑːr/ 研讨课（小班互动）
+
+* Elective /ɪˈlektɪv/ n. 选修课
+> 反：Required class / Mandatory class 必修课
+> Ex：I picked an art elective. 我选了一门美术选修课。
+
+* Office hours /ˈɔːfɪs ˈaʊərz/ 教授答疑时间（学生找老师问问题、聊作业）
+> Ex：Go to his office hours if you have questions. 有问题就去他的答疑时间咨询。
+
+* Skip class /skɪp klæs/   翘课、逃课（口语）
+> Ex：Don’t skip class too often. 别总翘课。
+
+* Pop quiz /pɑːp kwɪz/  突击小测、随堂抽查（不提前通知）
+
+* Assignment /əˈsaɪnmənt/ n. 作业、任务（通用正式）； Homework 日常作业（偏中小学）
+
+* Essay /ˈeseɪ/  n. 短文；论文（文科常用）
+* Paper /ˈpeɪpər/ 课程论文（大学高频）
+
+* Curve /kɜːrv/  n. 分数调分、正态拉分（老师为平衡整体成绩调整分数）
+> Ex：The professor uses a curve. 这位教授会调分。
+
+* GPA /ˌdʒiː piː ˈeɪ/  平均学分绩点（Grade Point Average）
+> Ex：I want to keep my GPA high. 我想保持高绩点。
+
+* Pass / Fail   /pæs/  /  /feɪl/   及格 / 不及格
+> Ex：I hope I don’t fail the test. 希望我考试别挂科。
+
+* Cheat /tʃiːt/  v. 作弊
+> Cheat sheet 小抄、作弊纸条
+
+* Semester /səˈmestər/ n. 学期（美式主流，一学年两学期）
+> Ex：This semester is really tough. 这学期课业很难。
+
+* midterm  /ˈmɪdtɜːrm/  n.中期；期中考试；  adj.中期的；学期中间的；
+> Midterms /ˈmɪdtɜːrmz/  n. 期中考试
+> Ex：I’m busy preparing for midterms. 我在忙着准备期中。
+
+* Final Exam /ˈfaɪnl ɪɡˈzæm/ 期末考试
+> Finals /ˈfaɪnlz/  n. 期末考试（复数，日常最常用） 
+> Ex：Finals are coming soon. 期末考快到了。
+
+* Spring Break  /ˌsprɪŋ ˈbreɪk/  春假
+> Break /breɪk/ n. 假期；休假
+> Spring break 春假； Winter break 寒假
+> Ex：We’ll have a long break after finals. 考完期末就放长假啦。
+
+* RRR Week  （美国大学 “备考周”）
+> RRR = Reading, Review, Recitation
+> 中文常叫：复习周 / 备考周，学生私下戏称 Dead Week（死亡周）。
+> 时间：学期课程全部结束 → 期末考试开始 之间的一周。
+> 校方定位：无新课、无小测、无作业，只用来 阅读、复习、背诵。
+> 学生感受：压力极大、熬夜爆肝，所以叫 Dead Week。
+> 同义表达: Dead Week（学生口语，最常用） ； Reading Week（部分学校叫法）； Finals Prep Week（直白说法）
+> Ex:  We have RRR Week next week, then finals. 下周是复习周，然后就期末考。  Everyone’s stressed during Dead Week. 死亡周大家压力都很大。
+>> Orientation Week / Freshman Week（新生迎新周）  时间：开学前 1 周（秋学期最隆重）
+>> Undergraduate Research Week（本科生研究周） 
+>> Honors Week（荣誉周）
+>> Finals Week（考试周） 时间：RRR Week 之后，学期最后 1 周； 学生口语：“Hell Week”（地狱周）
+>> Reading Period / Exam Preparation Period（阅读 / 备考期）
+>> Science Week / Engineering Week（学科主题周）
+>> Midterm Week（期中考试周）
+
+* recitation  /ˌresɪˈteɪʃ(ə)n/  n.背诵，朗诵；背诵的诗；讲述，陈述；
+
+* stressed /strest/  adj.焦虑的，紧张的；（物体）受重压的，受应力的；有重音的，重读的；v.强调，着重；重读；焦虑，紧张（stress 的过去式和过去分词）；
+* stress /stres/  n.精神压力，紧张；压力，应力；强调，重要性；（单词）重音，重读，（音乐）加强音；压强；v.强调，着重；重读；焦虑，紧张；使受压力，使受重压；
+
+* Drop period /drɑːp ˈpɪriəd/   退课窗口期（开学后可免费退课的一段时间）
+
+* Cram /kræm/ v. 临时抱佛脚、考前突击背书
+> Ex：I have to cram tonight. 我今晚得熬夜突击复习。
+
+* Pull an all-nighter /pʊl ən ɔːl ˈnaɪtər/   通宵熬夜（学习 / 赶作业）
+> Ex：We pulled an all-nighter for the paper. 我们为写论文熬了一整夜。
+
+* Burn out /bɜːrn aʊt/   身心透支、学习倦怠
+> Ex：Many students burn out during finals. 很多学生期末学到疲惫不堪。
+
+* Freshman / Sophomore / Junior / Senior
+> 大学四年年级：
+> Freshman /ˈfreʃmən/ 大一新生
+> Sophomore /ˈsɑːfəmɔːr/ 大二学生
+> Junior /ˈdʒuːniər/ 大三学生
+> Senior /ˈsiːniər/ 大四学生
+
+* Major /ˈmeɪdʒər/  n. 专业；主修科目
+> Ex：Her major is English. 她的专业是英语。
+* Minor /ˈmaɪnər/ 辅修专业
+
+* campus /ˈkæmpəs/   n.（大学或学院的）校园；大学生活；大学（学校、医院等机构的）场地; 
+* On campus 在校园里
+* Off campus 在校外
+* Group project 小组作业
+* Deadline /ˈdedlaɪn/ 截止日期
+> Ex：The deadline is tomorrow. 明天就是截止日期了。
+
+* BS   abbr.英国标准（British Standard）；理学士（Bachelor of Science）
+> Ex: BS in Math with Computer Science   数学与计算机科学双学士学位
+* PhD  Ph.D.    abbr.博士学位；哲学博士学位（Doctor of Philosophy）    abbr.哲学博士（Philosophiae Doctor）
+> Ex:  PhD in Computer Science, 2026 (expected)  计算机科学博士学位，预计于 2026 年获得
+
+* scholar  /ˈskɒlə(r)/  /ˈskɑːlər/   n.学者；有学问的人；奖学金获得者；
+
+* academic /ˌækəˈdemɪk/  adj.学业的，学术的；学校的，学院的； n.大学教师，学者；（学校或学院的）课程；大学生；
+
+
+
+---
+## others
 * warm-up /ˈwɔːrm ʌp/  n.热身赛；预热；准备运动
 * vocabulary  /vəˈkæbjəleri/   n.全部词汇；词汇；专业词汇，术语；词汇表；表现形式，表达手段
 * tidbit  /ˈtɪdbɪt/  n.小栏报导；珍闻（等于 titbit）  Ex: cultural tidbits  文化趣闻
@@ -246,6 +362,17 @@ summary: English Words in Life
 * heel  /hiːl/  n.脚后跟；鞋后跟；高跟鞋；手掌根；
 * partnership  /ˈpɑːrtnərʃɪp/   n.合伙（关系），合股；合伙企业；合伙人；
 * demonstrate  /ˈdemənstreɪt/   v.证明；示范，演示；表露；游行，示威
+* peasant  /ˈpez(ə)nt/  n.（旧时或贫穷国家的）农民，佃农；<非正式>没教养的人，粗人
+> peasant 有贬义，使用farmer称呼农民更合适。
+* censored  /ˈsensərd/  adj.被设限的；被检查过的；v.审查；删掉（censor 的过去式和过去分词）；
+* censor  /ˈsensər/  n.检查员，审查官；潜意识抑制力； v.审查，删改（书、电影、信件等）；
+* gifted  /ˈɡɪftɪd/  adj.有天赋的，有才华的；聪慧的，有特长的； v.赠送；（无意中）让（对手）获得（gift 的过去式和过去分词形式）；  
+> the Gifted Young 天才少年
+> gilded youth /ˈɡɪldɪd juːθ/  纨绔子弟
+> gilded /ˈɡɪldɪd/  adj.镀金的，装饰的；富有的； v.给……镀金（gild 的过去分词）；  gild /ɡɪld/  vt.镀金；虚饰；供给钱；
+> youth /juːθ/ n.青少年时期；早期，初期；小伙子；（总称）青年人；青春，朝气；
+> young /jʌŋ/  adj.幼小的，年轻的；存在不久的，新成立的；（显得）年轻的，（显得）岁数不大的；适合年轻人的；由年轻人（或儿童）构成的，青少年的，平均年龄小的； n.年轻人（the young）；幼崽，雏鸟；
+* announcement  /əˈnaʊnsmənt/  n.公告；（报纸上的）布告；宣布；
 
 
 ---
