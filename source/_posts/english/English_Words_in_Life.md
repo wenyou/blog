@@ -1,23 +1,19 @@
 ---
 title: English Words in Life
+subtitle: Every day actions vocabulary
 author: Zeeny
 comments: false
 date: 2026-04-24 15:25
 updated: 2026-04-24 15:30
 tags: [English]
 categories: [English]
-summary: English Words in Life
+summary: English Words in Life,Every day actions vocabulary
 ---
 
 # Common words and phrases in daily life
 
 
-* jewelry  /ˈdʒuːəlri/  n.珠宝，首饰
-* fountain  /ˈfaʊnt(ə)n/  n.喷泉；喷射；天然泉；源泉；（纹章）银蓝相间波状纹圆盾  v.喷射，喷流
-* net  /net/ 网兜  n.网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；  adj.净得的；净重的；最后的，最终的;  v.净赚，净得；设法获得，巧妙地做；（用网）捕捉；
-
----
-## Household chores
+## Household Chores Vocabulary List
 * household chores 家务事;      household  /ˈhaʊshoʊld/  n.家庭，一家人；家务 adj.家用的，家务的；全家人的；  chores  /tʃɔːrz/ n.杂务；零工；困难的工作（chore /tʃɔːr/ 的复数）
 * wipe  /waɪp/  v.（用布、手等）擦干净，抹掉；擦掉（液体、污垢、印迹）；把（某物）擦干净；消除，抹去  n.（湿）抹布，纸巾；擦，拭，擦净；划变
 * dishwasher  /ˈdɪʃwɔːʃər/  n.洗碗工；洗碟机
@@ -29,9 +25,11 @@ summary: English Words in Life
 * rake  /reɪk/  n.耙子，靶状物；耙集，耙平  v.（用耙子）耙，耙平；（树枝或手指甲）刮擦，抓；扫视，扫射；（用手）搜寻；
 * tidy  /ˈtaɪdi/  adj.整洁的，有条理的；（人）爱整洁的，爱整齐的； v.使整洁，整理  n.盛零碎物品的容器；
 * broom  /bruːm/  n.扫帚；金雀花
+* lamp  /læmp/  n.灯，光源；（用于医疗和科研的）发热灯，照射器；灵感的源泉； v.照明，照亮；<文>发光；
+
 
 ---
-## Food
+## Food Vocabulary List
 * Minced Codfish in Seafood Soup 海鲜鳕鱼汤
 * codfish /ˈkɑːdfɪʃ/ n.鳕，鳕鱼。
 * mince  /mɪns/  v.（用机器）切碎，绞碎； n.<英>绞碎的肉，肉末（尤指牛肉）（=ground beef）。 minced /mɪnst/ adj.切碎的；切成末的；v.剁碎；细分；
@@ -172,14 +170,14 @@ summary: English Words in Life
 * Fruits and Ice Cream  水果和冰淇淋
 
 ---
-## Profession
+## Profession Vocabulary List
 * correspondent /ˌkɔːrəˈspɑːndənt/  n.（尤指从某一国家发回专题报道的）记者，通讯员；通信者，写信人
 * the pool:记者团(特定场合); pool：此处特指白宫记者团（press pool），非普通 “泳池”。  pool /puːl/  n.游泳池；池塘，水坑；一小片（液体或光）；（河的）深水处，深潭；后备人员，备用物品；共用的资源（或资金）；（有相同职业或共同从事某项活动的）人群；赌球（或其他体育比赛），赌注；  Example: President Trump didn’t answer multiple questions from the pool on if he and President Xi talked about Taiwan. 特朗普总统没有回答记者团提出的多个问题，即他和习近平主席是否谈及了台湾问题。
 * press  /pres/  n.新闻工作者，新闻界，报刊（the press）；新闻报道；新闻舆论，媒体评论；印刷机；出版社，印刷厂；印刷；按，压，熨；压平器，熨烫机；人群，拥挤； v.压，挤，推，贴；按，揿；困扰，严重影响；挤着走；敦促，逼迫；坚持，竭力要求；压平，熨平；压榨，榨汁；
 * on if：口语化表达，书面常用 about whether（是否）
 
 ---
-## science and technology
+## Science and Technology  Vocabulary List
 * starship /ˈstɑːrʃɪp/  n.星际飞船
 * vehicle  /ˈviːəkl; ˈviːhɪkl/  n.交通工具，车辆；（实现目的的）工具，媒介；
 * effort  /ˈefərt/   n.努力，艰难的尝试；力气，精力；有组织的活动；努力的结果，成就
@@ -188,7 +186,7 @@ summary: English Words in Life
 * capability /ˌkeɪpəˈbɪləti/  n.能力，才能；（国家的）军事力量；计算机性能
 
 ---
-## Education
+## Education Vocabulary List
 * Course Calendar 课程表
 
 * lecture  /ˈlektʃər/  n.讲座，讲课，演讲；训斥，告诫； v.（尤指在大学里）开讲座，讲课；训斥，告诫；
@@ -299,10 +297,42 @@ summary: English Words in Life
 
 * academic /ˌækəˈdemɪk/  adj.学业的，学术的；学校的，学院的； n.大学教师，学者；（学校或学院的）课程；大学生；
 
+* contest  /ˈkɑːntest/  n.比赛，竞赛；争夺，竞争；争论，争执； v.争辩，提出异议；争取赢得，角逐；
 
+* Highest level of education completed  所完成的最高教育程度
+* doctorate  /ˈdɑːktərət/  n.博士（学位）
+* Master's or professional degree  硕士学位或专业学位
+* Bachelor's degree  学士学位
+> bachelor /ˈbætʃələr/  n.未婚男子，单身汉；学士；尚未交配的雄鸟
+* Associate degree  副学士学位：一种学位，通常在大学或学院完成两年的学习后获得。
+> associate  /əˈsoʊsieɪt; əˈsoʊʃieɪt/   adj.副的，准的，非正式的；联合的，有关连的； n.同事，伙伴；副学士，准学士；副职，副手；准会员；联想； v.联想，联系；支持，同意；交往，（尤指）混在一起；
+* Secondary/high school  中学/高中 
+> secondary  /ˈsekənderi/  adj.（教育）中等的，中学的；次要的，第二位的；（疾病、感染）继发性的，第二期的；间接的；（化学反应）副的；（有机化合物）二代的；（主要指胺）仲的；（电）次级的； n.副手，下属；第二防线；<英>中学（secondary school 的简称）；（鸟）次级飞羽（secondary feather 的简称）；（变压器中的）次级线圈；
+* Junior secondary/junior high/middle school  初中/初级中学/中学校
+> junior  /ˈdʒuːniər/  adj.年龄较小的；地位（或级别）低的，资历较浅的；（体育运动）青少年的；  n.较年幼者，年少者；地位（或级别）较低者，下属；青少年运动员；
+* No formal education 没有接受过正规教育
+* Other education 其他教育
+
+* certificate   /sərˈtɪfɪkət/  n.证明，证书；文凭，成绩合格证书；电影放映许可证；   v.发证书给……，用证书证明；
+
+* audit  /ˈɔːdɪt/  n.审计，查……的账目；审查，审核；审计报告；  v.审计，查账；<美>旁听
+> Audit this course = 旁听这门课 / 不修学分听课  （美国大学常用）
+> I decided to audit this course instead of taking it for credit. 我决定旁听这门课，不修学分。
+> Can I audit your class? 我可以旁听你的课吗？
+
+* proof  /pruːf/  n.证明，证据；检验，证实；（数学）验算，验证；校样，样张； adj.防……的，耐……的；试印的；  v.保护……免受影响（或损害）；印……的校样；校对；
+> No proof of completion   无完成证明 / 无结业凭证 / 无法提供完成记录
+> No proof of completion：最常见于教育 / 培训 / 系统提示，表示：没有材料能证明你完成了这门课 / 任务 / 项目
+> Audit students receive no proof of completion. → 旁听生不发结业证明 / 不提供完成凭证
+> 没做完作业 / 考试 → No proof of completion will be issued. → 不予颁发结业证书
+> “We cannot approve your request; no proof of completion was provided.” → 未提供完成证明，无法批准
+> No completion certificate 无结业证书
 
 ---
-## others
+## Others Vocabulary List
+* jewelry  /ˈdʒuːəlri/  n.珠宝，首饰
+* fountain  /ˈfaʊnt(ə)n/  n.喷泉；喷射；天然泉；源泉；（纹章）银蓝相间波状纹圆盾  v.喷射，喷流
+* net  /net/ 网兜  n.网，网状物；因特网；球网，球门网；广播网，通讯网；安全网；捕鱼总量；净赚，纯利；  adj.净得的；净重的；最后的，最终的;  v.净赚，净得；设法获得，巧妙地做；（用网）捕捉；
 * warm-up /ˈwɔːrm ʌp/  n.热身赛；预热；准备运动
 * vocabulary  /vəˈkæbjəleri/   n.全部词汇；词汇；专业词汇，术语；词汇表；表现形式，表达手段
 * tidbit  /ˈtɪdbɪt/  n.小栏报导；珍闻（等于 titbit）  Ex: cultural tidbits  文化趣闻
@@ -373,6 +403,21 @@ summary: English Words in Life
 > youth /juːθ/ n.青少年时期；早期，初期；小伙子；（总称）青年人；青春，朝气；
 > young /jʌŋ/  adj.幼小的，年轻的；存在不久的，新成立的；（显得）年轻的，（显得）岁数不大的；适合年轻人的；由年轻人（或儿童）构成的，青少年的，平均年龄小的； n.年轻人（the young）；幼崽，雏鸟；
 * announcement  /əˈnaʊnsmənt/  n.公告；（报纸上的）布告；宣布；
+* lack  /læk/   n.缺乏，不足； v.缺乏，不足；需要；
+* sense  /sens/   n.感觉官能（即视、听、嗅、味、触五觉）；（对某物的）感觉；道理，合理性；见识，良好的判断；理智，理性；理解力，判断力；意义，含义；（数，物理）指向，方向； v.感觉到，觉察到；（机器）检测出； adj.（遗传）有意义的；
+* impotence  /ˈɪmpətəns/   n.[泌尿][中医]阳萎；虚弱；无效（等于 impotency）；  
+* impotency  /'ɪmpətənsɪ/  n.无力；无效；无法可想；性无能；
+* helplessness  /ˈhelpləsnəs/  n.无能为力；无可奈何状态；
+* powerlessness  /ˈpaʊərləsnəs/  n.无力；无能为力；无力量；
+* futility  /fjuːˈtɪləti/   n.无用；徒劳；无价值；
+> helplessness：遇事没办法、求助无门的无助
+> powerlessness：客观没能力改变现状的无力
+> futility：所有付出都是徒劳，最丧的无力
+* curve  /kɜːrv/  n.曲线，弧线；转弯，弯道；图表曲线；曲线球；（身体的）曲线； v.（使）弯曲，（使）呈曲线形； adj.弯曲的，曲线形的；
+> Forgetting curve  遗忘曲线，用于表述记忆中的中长期记忆的遗忘率的一种曲线。
+* sticky /ˈstɪki/ adj.黏性的，涂有黏性物质的；（皮肤因热而）黏湿的；（天气）湿热的，闷热的； n.告事贴；置顶留言；
+> sticky notes  便利贴
+
 
 
 ---
