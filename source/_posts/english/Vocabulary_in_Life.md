@@ -23,9 +23,23 @@ summary: English Words in Daily Life
 
 
 
-# Animal Vocabulary List
+# Animal & Plant Vocabulary List
+**Animals**
 * donkey  /ˈdɑːŋki/  n.驴；<非正式>蠢人，傻瓜；
 
+
+**Plants**
+* wheat  /wiːt/  n.小麦（植物），小麦（籽实）；<美>小麦面包；小麦色；
+* lotus /ˈloʊtəs/  n.莲属植物；莲（花）饰；落拓枣，忘忧果； lotus flower 莲花；
+
+
+# 
+
+# Common Adverb Vocabulary List 
+* adverb  /ˈædvɜːrb/  n.副词； adj.副词的；
+> adverbial  /ædˈvɜːrbiəl/  adj.副词的，状语的； n.状语；
+* otherwise  /ˈʌðərwaɪz/  adv.否则，不然；除此以外，在其他方面；不同地，另外地；以其他方式，用别的方法； adj.不是那样的，另外情况下的；
+* hence /hens/ adv.因此；之后；
 
 
 # Others
@@ -37,4 +51,5 @@ summary: English Words in Daily Life
 * in-person  /ɪn ˈpɜːrsn/  亲自，当面
 * blend  /blend/  n.混合物；交融，融合；混合词； v.（使）混合，调和；（使）协调，融合；调制，配制；
 * proof  /pruːf/  n.证明，证据；检验，证实；（数学）验算，验证；校样，样张；（酒的）标准酒精度； adj.防……的，耐……的；试印的； v.保护……免受影响（或损害）；印……的校样；校对；
+
 

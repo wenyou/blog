@@ -38,11 +38,23 @@ summary: English Words in Mathematics
 * vector  /ˈvektər/  向量  n.矢量，向量； v.引导（飞机）
 * matrix  /ˈmeɪtrɪks/ 矩阵（单数）  n.矩阵；模型；社会环境；
 * matrices  /ˈmeɪtrɪsiːz/  矩阵（复数） n.[数]矩阵；模型；[生物][地质]基质；母岩（matrix 的复数）
+> matrice /ˈmeɪtrɪs/ n.矩阵；真值表；母式;
 * real number 实数
 * imaginary number  虚数，  imaginary /ɪˈmædʒɪneri/ adj.想象的，虚构的；虚数的
 * rational number  有理数  rational /ˈræʃ(ə)nəl/ n.有理数  adj.（想法、决定等）合理的，基于理性的；（人）理性的，理智的；富有理性的；（数）有理的，有理数的
 * irrational number  无理数   irrational  /ɪˈræʃən(ə)l/  n.无理数  adj.非理性的，不合逻辑的，荒谬的；无理的
 * complex number 复数
+* Norm /nɔːrm/ 范数；  
+> Frobenius范数：  frobenius  /frəʊˈbiːniəs/  弗罗贝尼乌斯（专有名词（德裔数学家姓氏））；  Frobenius Norm（F 范数） 弗罗贝尼乌斯范数；
+> H-infinity范数；  H-infinity：H-无穷大； infinity  /ɪnˈfɪnəti/   n.（时、空、距离）无限，无穷；大量，大宗； 
+> norm  /nɔːrm/  n.社会准则，行为规范；标准，平均水平；常态，平常事物；模方；
+* parallel  /ˈpærəlel/  adj.平行的；相似的，同时发生的；（计算机）并行的；并联的； n.（人或事物的）相似的手法，共同点；相似的人（或物）；（地球的）纬线，纬圈；（印刷）平行符号； v.与……相似；与……同时发生；与……并行；与……相当，比得上； adv.与……平行
+* mathematician /ˌmæθəməˈtɪʃn/ n.数学家
+* generalize  /ˈdʒen(ə)rəlaɪz/  v.概括，归纳；推广，普及；笼统地表达; 
+* slope /sloʊp/ n.斜坡，斜面；山坡；滑雪斜坡；斜度，坡度；（电子）斜率；扛枪姿势； v.倾斜，成斜坡；歪斜；悄悄地走，溜；
+* prime  /praɪm/  质数，素数
+> prime :  adj.主要的，首要的；优质的，第一流的；最可能的，最适合的；最理想的，最典型的；最初的，原始的；素（或质）数的（如2，3，5，7，11）；互为素或质数的； v.事先指点，使（某人）做好准备；把（某事物）准备好，使备用；给（表面）涂上底色； n.盛年，壮年时期；质数，素数；上标符号（'），（数字后）分钟（或英尺）符号；
+
 
 
 
