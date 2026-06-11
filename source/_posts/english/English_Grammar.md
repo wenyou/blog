@@ -28,6 +28,12 @@ summary: English Grammar
 * abbr. ： n.缩写词 abbreviation  adj.缩写的 abbreviated
 * abbreviation  /əˌbriːviˈeɪʃn/  n.缩略词，缩写形式；缩略，缩写
 * abbreviated  /əˈbriːvieɪtɪd/  adj.简短的；小型的；服装超短的   v.缩写；节略（abbreviate 的过去分词）
+
+* plural  /ˈplʊrəl/  n.复数（形式）； adj.复数的，复数形式的；多样的，多元的；多数的，多种的；
+> separate  /ˈseprət/  adj.单独的，分开的；不同的，不相关的； v.（使）分离；（把……）分成不同部分；隔开，阻隔；（夫妻）分居，（同居情侣）分手；区分，区别； n.可搭配穿着的单件衣服（separates）；独立音响设备（separates）；（按照颗粒大小、矿物组成等标准的）土壤划分（separates）；
+> individual  /ˌɪndɪˈvɪdʒuəl/ adj.单独的，个别的；个人的；独特的，与众不同的； n.个人，个体；与众不同的人，有个性的人；某种类型的人；
+
+
 * part of speech 词性, Ex: What part of speech is this word?
 ![word class](/images/parts-of-speech.jpg "parts of speech")
 

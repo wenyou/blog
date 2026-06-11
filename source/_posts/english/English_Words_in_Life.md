@@ -169,6 +169,12 @@ summary: English Words in Life,Every day actions vocabulary
 
 * Fruits and Ice Cream  水果和冰淇淋
 
+* spaghetti pie  意大利面派
+> spaghetti  /spəˈɡeti/  n.意大利式细面条
+> pie  /paɪ/  n.馅饼，果馅饼；肉馅饼，蔬菜馅饼；
+
+
+
 ---
 ## Profession Vocabulary List
 * correspondent /ˌkɔːrəˈspɑːndənt/  n.（尤指从某一国家发回专题报道的）记者，通讯员；通信者，写信人
