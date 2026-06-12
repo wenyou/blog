@@ -56,3 +56,7 @@ summary: English Words in Education
 * humanity  /hjuːˈmænəti/  n.人类（总称）；人性，人的属性；人道，仁慈；（历史、哲学、文学等）人文学科;
 * mathematics  /ˌmæθəˈmætɪks/   n.数学；数学运算；
 * trending  /ˈtrendɪŋ/  n.[统计]趋势；  v.伸向；趋向（trend 的 ing 形式）
+* theory  /ˈθiːəri/  n.学说，理论；（某一学科基于的）理论，原理；观点，见解；
+* principle  /ˈprɪnsəp(ə)l/  n.（行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素；
+* gynocentrism  /ˌɡaɪnoʊˈsentrɪzəm/  n. 女性中心主义；唯女主义； 女本位主义；
+
