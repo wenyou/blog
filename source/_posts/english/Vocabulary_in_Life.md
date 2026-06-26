@@ -22,7 +22,6 @@ summary: English Words in Daily Life
 > Analects /ˌænəˈlekts/  n.《论语》
 
 
-
 # Animal & Plant Vocabulary List
 **Animals**
 * donkey  /ˈdɑːŋki/  n.驴；<非正式>蠢人，傻瓜；
@@ -33,25 +32,64 @@ summary: English Words in Daily Life
 * lotus /ˈloʊtəs/  n.莲属植物；莲（花）饰；落拓枣，忘忧果； lotus flower 莲花；
 
 
-
 # Common Adverb Vocabulary List 
 * adverb  /ˈædvɜːrb/  n.副词； adj.副词的；
 > adverbial  /ædˈvɜːrbiəl/  adj.副词的，状语的； n.状语；
 * otherwise  /ˈʌðərwaɪz/  adv.否则，不然；除此以外，在其他方面；不同地，另外地；以其他方式，用别的方法； adj.不是那样的，另外情况下的；
 * hence /hens/ adv.因此；之后；
 
+# Some abbreviations
+**NPC**   /ˌen piː ˈsiː/   非玩家角色
+> 1. 游戏 / 流行文化（最常用）
+> 全称：Non-Player Character   中文：非玩家角色
+>
+> 1)、原始定义：
+>> 电子游戏、剧本杀、沉浸式景区里，不由真人玩家操控，由程序 / 工作人员扮演的角色。
+>> 功能：发布任务、交易道具、推动剧情、填充场景
+>> 特征：固定台词、固定行动路线，行为被预设，无自主意志
+>> 例子：网游主城商人、景区古风互动真人、单机里问路村民
+> 2)、网络引申梗（现实形容人）
+>> 分两种用法：
+>> ① 自嘲温和版：NPC 人格，平时不主动社交，别人搭话才会回应，像游戏路人角色
+>> ② 略带贬义：形容人缺乏独立思考，只会复述大众话术、随波逐流，行为模式僵化，像程序设定好的角色
+>> 例句：Don’t just be an NPC in your own life. 别活成自己人生里没有主见的路人。
+> 3)、衍生场景：文旅真人 NPC
+>> 开封万岁山、葛仙村等景区工作人员扮演古装角色，和游客互动对诗、接任务，属于线下延伸用法。
+> 
+> 2. 国内政治专有名词
+> 全称：the National People's Congress 全国人民代表大会
+>> The NPC holds its annual session every March. 全国人大每年三月召开全体会议。
+>
+> 3. 医学 / 专业领域缩写 
+> Nasopharyngeal Carcinoma  鼻咽癌（医学论文高频缩写）
+> Nuclear Pore Complex 核孔复合体（细胞生物学）
+> Nominal Protection Coefficient 名义保护系数（经济学）
 
 # Others
+* lottery  /ˈlɑːtəri/ n.抽彩给奖法，博彩；<美>抽签法，随机选择；碰运气的事；
+
+* realized  /ˈriːəlaɪzd/  adj.实现的；已实现的（realised 的美式拼写）； v.意识到，认识到，理解；实现；（所担心的事）发生；变卖，变现；以......价格卖出；把（概念等）具体表现出来（realize 的过去式和过去分词）
+> realize  /ˈriːəlaɪz/  v.了解，意识到；（所担心的事）发生，产生（be realized）；实现（目标、梦想等）；（充分）发挥出自己的潜力； 把（概念等）具体表现出来；用（语言特征）表达；对（记谱不全的乐曲）做完整兑谱改编；获得（金钱，利润）；变现，变卖（资产）;
+
+
 * enroll  /ɪnˈroʊl/  vt.登记；使加入；把……记入名册；使入伍；   vi.参加；登记；注册；记入名册；
+
 * trailer  /ˈtreɪlər/ n.拖车，挂车；（卡车或货车的）载货挂车；<美>旅行拖车，活动房屋；（电影或电视节目的）预告片；无篷大车；运船平底驳船；拖尾物，蔓生物（尤指蔓生植物）；追踪者； v.预告（电影，节目）；用拖车运输；乘拖车式活动房屋旅行；
 > Trailer 预告片
+
 * lifelong  /ˈlaɪflɔːŋ/  adj.终身的
 > Professional and Lifelong Learning
+
 * in-person  /ɪn ˈpɜːrsn/  亲自，当面
+
 * blend  /blend/  n.混合物；交融，融合；混合词； v.（使）混合，调和；（使）协调，融合；调制，配制；
+
 * proof  /pruːf/  n.证明，证据；检验，证实；（数学）验算，验证；校样，样张；（酒的）标准酒精度； adj.防……的，耐……的；试印的； v.保护……免受影响（或损害）；印……的校样；校对；
+
 * awesome  /ˈɔːsəm/   adj.让人惊叹的，令人敬畏的；非常棒的，极佳的；
+
 * indeed  /ɪnˈdiːd/  adv.确实，的确；实际上；真正地；<非正式> 真的吗（表示惊讶或觉得某事物荒谬）；
+
 * occupy /ˈɑːkjupaɪ/  v.使用（房屋、建筑），居住；占据（空间，时间）；使忙于（做某事）；使一直在想；（军事）占领，占据；（尤指为表示抗议而）非法强占（建筑物）；任职，位居；
 >  Occupy Wall Street 占领华尔街
 
@@ -83,12 +121,12 @@ summary: English Words in Daily Life
 
 * turbo  /ˈtɜːrboʊ/  n.涡轮增压发动机汽车；涡轮增压发动机（turbocharger 的简称）；
 > turbocharger  /ˈtɜːrboʊtʃɑːrdʒər/  n.涡轮增压器
- 
+
 * economic   /ˌiːkəˈnɑːmɪk; ˌekəˈnɑːmɪk/   adj.经济的，经济学的；有利可图的；节约的；
 
 * utility  /juːˈtɪləti/  n.（煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；（博弈论，经济学）效用； adj.有用的，多功能的；（体育运动）多面手的；实用的；
 
-* disposability  /ˌdɪˌspoʊzəˈbɪləti/   n. 一次性；可丢弃性；可处置性
+**disposability**  /ˌdɪˌspoʊzəˈbɪləti/   n. 一次性；可丢弃性；可处置性
 > dispose /dɪˈspəʊz/ v. 处理、丢弃 
 > disposable adj. 一次性的；可丢弃的（高频形容词）
 > disposability 对应名词，侧重属性、特性
@@ -104,8 +142,17 @@ summary: English Words in Daily Life
 > disposal n. 处置、清理
 >> waste disposal 垃圾处理
 
-* 
+* bio  /ˈbaɪoʊ/  n.个人简历，小传;   Ex: short bio 简要介绍
 
+**peek** /piːk/  v.偷看，窥视；微露出，探出； n.一瞥，偷偷地一看；（计算机）读取数据；
+> Take a peek  偷偷看一眼、瞄一下、悄悄瞥一眼；
+> 同义替换：
+>> have a peek（更常用英式口语）
+>> sneak a peek 偷偷瞄一眼（强调刻意藏起来看）
+> Example:
+>> Can I take a peek at your gift? 我能偷偷看一眼你的礼物吗？
+>> I took a peek at the answer sheet.我悄悄瞄了一眼答题卡。
+>> Take a peek inside the box! 快看看盒子里面！
 
 
 **look**
@@ -140,18 +187,19 @@ summary: English Words in Daily Life
 >> thrill  /θrɪl/   n.兴奋，激动；使人兴奋的事物，令人激动的事；一阵强烈的感觉；（医）震颤；追求的快感；性快感； v.使（某人）非常兴奋，非常激动；（情感，感觉）颤抖，振动；<文>颤动，跳动；
 
 
-**Basic vs Native** 
+
+# Basic vs Native*
 ![Basic vs Native](/images/BasicvsNative.jpg "基础表达 vs 母语者口语对照表")
 > 这些母语者表达大多是非正式用法，适合和朋友、同事日常聊天；写邮件、正式考试时，还是用基础表达更稳妥。
 > 像 ya、yep 这类词，只出现在口语 / 短信里，正式写作中不要使用。
 > 比如 That sucks 这类带吐槽的表达，注意场合，别在严肃 / 正式场合用哦。
 
 
-**Basic vs Fluent English**
+# Basic vs Fluent English
 ![Basic vs Fluent English](/images/BasicvsFluentEnglish.jpg "基础英语 vs 流利英语")
 
 
-**body organ*
+# Body organ
 ![Body organ](/images/body_organ.jpg "身体器官")
 * brain  /breɪn/  n.脑；聪明的人，智者；（供食用的）动物脑髓； v. <非正式>猛击……的头部
 * heart  /hɑːrt/  n.心，心脏；内心，感情；胸前；重点，核心；中心，中央；信心，勇气；（表示爱的）心形物；红桃牌，红心牌；菜心；同情，怜悯；爱情，情爱； v.<非正式>喜爱，深爱；
@@ -194,7 +242,7 @@ summary: English Words in Daily Life
 * diaphragm  /ˈdaɪəfræm/  n.隔膜；快门，[摄] 光圈；横隔膜；隔板；
 
 
-**More everyday Action**
+# More everyday Action
 ![More everyday Action](/images/MoreeverydayAction.jpg "日常行动")
 * lather  /ˈlæðər/  n.肥皂泡；激动； vt.涂以肥皂泡；使紧张；狠狠地打； vi.起泡沫；
 * rinse  /rɪns/  v.（用清水）冲洗；（用其他液体）洗；把（肥皂、污垢等）洗掉（rinse sth. off/out）；漱（口）；染发；n.冲洗；头发定型剂，染发剂；（清洗用的）液体；
@@ -214,7 +262,7 @@ summary: English Words in Daily Life
 * scoop  /skuːp/  n.勺，球形勺；铲，铲斗；一勺，一铲斗（的量）；舀的动作，铲的动作； v.用勺舀，用铲子铲；挖出，挖空；（急速地）捡起，抱起；
 * hang  /hæŋ/  v.悬挂，吊；（使）挂在墙上；垂下，垂落；悬浮；绞死；贴，糊（墙纸）；安装（门）； n.悬挂方式；下垂，低垂；（画展中画作的）陈列，布局；
 
-**Closing vocabulary**
+# Closing vocabulary
 ![Types of closing](/images/typesofclosing.jpg "闭合词汇、关闭类型")
 * shut  /ʃʌt/  v.关闭，合上；把……关在；<英>（使）停止运作，（使）停止营业；禁止通行，封闭； adj.关闭的，关上的；<英>打烊的，停止营业的； n.关闭；
 > close completely
