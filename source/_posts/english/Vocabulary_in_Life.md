@@ -124,6 +124,22 @@ summary: English Words in Daily Life
 
 * economic   /ˌiːkəˈnɑːmɪk; ˌekəˈnɑːmɪk/   adj.经济的，经济学的；有利可图的；节约的；
 
+* pressure  /ˈpreʃər/  n.压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张；催促，要求；气压；  v.对……施加压力，强迫；使……增压；
+> I’m in love with this sentence: “Pressure is a privilege. It means things are expected of you.”  我爱这句话：“压力是一种特权，意味着人们对你有所期待。”
+> privilege  /ˈprɪvəlɪdʒ/   n.特权，特殊待遇；荣幸，光荣；（富人或上层阶级的）权势；（律师、医生及其他专业人士的）保密权；言行免责权（尤指议员的权利）； v.<正式> 给予特权，特别优待；特免，免除（某人）;
+> expected  /ɪkˈspektɪd/  adj.预料的，预期的； v.期待；预计；要求，指望（expect 的过去式和过去分词）；
+> expect /ɪkˈspekt/  v.期待；预计；要求，指望；认为；怀孕；
+
+* fear  /fɪr/  v.害怕，畏惧；担心，忧虑；敬畏；  n.恐惧；担心；（坏事发生的）可能性；敬畏；
+
+* mankind  /mænˈkaɪnd/  n.人类；<古>男人，男子；
+> I wished for a bright future for all mankind.  我祝愿全人类拥有光明的未来。
+
+* malice  /ˈmælɪs/ n.恶意，怨恨；（尤指加重某些罪行的）恶谋；
+> be full of malice toward sb  对某人充满恶意、心存歹念
+
+
+
 * utility  /juːˈtɪləti/  n.（煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；（博弈论，经济学）效用； adj.有用的，多功能的；（体育运动）多面手的；实用的；
 
 **disposability**  /ˌdɪˌspoʊzəˈbɪləti/   n. 一次性；可丢弃性；可处置性
