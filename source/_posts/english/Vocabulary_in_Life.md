@@ -23,14 +23,14 @@ summary: English Words in Daily Life
 
 
 # Animal & Plant Vocabulary List
-**Animals**
+## Animals
 * donkey  /ˈdɑːŋki/  n.驴；<非正式>蠢人，傻瓜；
 * pigeon  /ˈpɪdʒɪn/  n.鸽子；<非正式，美>（容易）上当受骗的人；<英>（自己的）责任，分内之事；<俚>己方飞机；
 * falcon  /ˈfælkən/  n.隼，猎鹰；
 
 
 
-**Plants**
+## Plants
 * wheat  /wiːt/  n.小麦（植物），小麦（籽实）；<美>小麦面包；小麦色；
 * lotus /ˈloʊtəs/  n.莲属植物；莲（花）饰；落拓枣，忘忧果； lotus flower 莲花；
 
@@ -38,11 +38,14 @@ summary: English Words in Daily Life
 # Common Adverb Vocabulary List 
 * adverb  /ˈædvɜːrb/  n.副词； adj.副词的；
 > adverbial  /ædˈvɜːrbiəl/  adj.副词的，状语的； n.状语；
+
 * otherwise  /ˈʌðərwaɪz/  adv.否则，不然；除此以外，在其他方面；不同地，另外地；以其他方式，用别的方法； adj.不是那样的，另外情况下的；
+
 * hence /hens/ adv.因此；之后；
 
+
 # Some abbreviations
-**NPC**   /ˌen piː ˈsiː/   非玩家角色
+* **NPC**   /ˌen piː ˈsiː/   非玩家角色
 > 1. 游戏 / 流行文化（最常用）
 > 全称：Non-Player Character   中文：非玩家角色
 >
@@ -51,11 +54,13 @@ summary: English Words in Daily Life
 >> 功能：发布任务、交易道具、推动剧情、填充场景
 >> 特征：固定台词、固定行动路线，行为被预设，无自主意志
 >> 例子：网游主城商人、景区古风互动真人、单机里问路村民
+>
 > 2)、网络引申梗（现实形容人）
 >> 分两种用法：
 >> ① 自嘲温和版：NPC 人格，平时不主动社交，别人搭话才会回应，像游戏路人角色
 >> ② 略带贬义：形容人缺乏独立思考，只会复述大众话术、随波逐流，行为模式僵化，像程序设定好的角色
 >> 例句：Don’t just be an NPC in your own life. 别活成自己人生里没有主见的路人。
+>
 > 3)、衍生场景：文旅真人 NPC
 >> 开封万岁山、葛仙村等景区工作人员扮演古装角色，和游客互动对诗、接任务，属于线下延伸用法。
 > 
@@ -68,7 +73,8 @@ summary: English Words in Daily Life
 > Nuclear Pore Complex 核孔复合体（细胞生物学）
 > Nominal Protection Coefficient 名义保护系数（经济学）
 
-**VO**
+
+* **VO**
 * Visa Officer 签证官
 > 场景：美签、加签论坛 / 攻略通用缩写
 > The VO asked me about my research plan. 签证官询问了我的研究计划。
@@ -90,6 +96,7 @@ summary: English Words in Daily Life
 > **Happy Pride!**  骄傲节快乐！
 > Pride 完整指代 Pride Parade / Pride Month     即同志骄傲游行、骄傲月，每年六月是全球 LGBTQ + 群体的骄傲月。
 >> 口号核心含义：接纳多元性别与性取向，不再因自身身份自卑，坦然为自己感到骄傲。 
+>
 > 适用场景:  六月骄傲月祝福、游行标语、社交文案。  完整常用句：Happy Pride Month! 骄傲月快乐！
 >> 背景:  Pride（骄傲运动）起源于平权抗议，如今演变为庆祝多元、呼吁包容的活动，标志性符号是彩虹旗。 日常口语单独说 Happy Pride! 简洁通用，不分地区。
 
@@ -98,12 +105,16 @@ summary: English Words in Daily Life
 > Lesbian、Gay、Bisexual、Transgender、Queer/Questioning 五个单词首字母缩写
 > L = Lesbian 女同性恋 (生理女性，情感、浪漫、性吸引只指向女性。)    
 >> lesbian /ˈlezbiən/  adj.女同性恋的； n.女同性恋者
+>
 > G = Gay 男同性恋 (生理男性，情感、浪漫、性吸引只指向男性；广义也可泛指全体同性恋。)
 >> gay  /ɡeɪ/ n.同性恋者（尤指男性）； adj.同性恋的；
+>
 > B = Bisexual 双性恋 (对男性、女性两种性别都会产生爱慕与吸引。)
 >> bisexual  /ˌbaɪˈsekʃuəl/  adj.两性的；雌雄同体的；
+>
 > T = Transgender 跨性别者  (性别认同和出生时被分配的生理性别不一致。 例：生理男内心认同女性（跨女 MTF）；生理女内心认同男性（跨男 FTM）。 ) 前三者是性取向，T 是性别认同，二者概念不同。
 >> transgender /trænzˈdʒendər；trænsˈdʒendər/  adj.跨性别的（同 transgendered）; n.跨性别者；
+>
 > Q 两种含义（二合一）
 >> Queer（酷儿）：早年是贬义，如今被群体重新接纳，泛指所有不被传统性别、性取向框架束缚的人；
 >> Questioning（疑性恋 / 探索中）：暂时不确定自己的性取向、性别认同，还在自我探索的人。
@@ -116,6 +127,7 @@ summary: English Words in Daily Life
 >> +：代表泛性恋、非二元性别等所有没写进缩写里的多元身份，包容一切小众性别取向。
 >
 > 标志性符号: 彩虹旗（Rainbow Flag）是全球 LGBTQ 群体通用象征
+
 
 * sin  /sɪn/  n.（违背宗教或道德的）罪，罪恶；过错，过失；   v.犯戒律，犯过失；亵渎，冒犯（上帝，人，原则）（sin against）；   abbr.正弦（sine 的缩写）
 * sine /saɪn/ n.正弦；  prep.（尤指拉丁词语或法律用语）缺少，没有；
@@ -131,7 +143,7 @@ summary: English Words in Daily Life
 * trailer  /ˈtreɪlər/ n.拖车，挂车；（卡车或货车的）载货挂车；<美>旅行拖车，活动房屋；（电影或电视节目的）预告片；无篷大车；运船平底驳船；拖尾物，蔓生物（尤指蔓生植物）；追踪者； v.预告（电影，节目）；用拖车运输；乘拖车式活动房屋旅行；
 > Trailer 预告片
 
-* lifelong  /ˈlaɪflɔːŋ/  adj.终身的
+* lifelong  /ˈlaɪflɔːŋ/  adj.终身的；
 > Professional and Lifelong Learning
 
 * in-person  /ɪn ˈpɜːrsn/  亲自，当面
@@ -197,7 +209,7 @@ summary: English Words in Daily Life
 
 * utility  /juːˈtɪləti/  n.（煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；（博弈论，经济学）效用； adj.有用的，多功能的；（体育运动）多面手的；实用的；
 
-**disposability**  /ˌdɪˌspoʊzəˈbɪləti/   n. 一次性；可丢弃性；可处置性
+* **disposability**  /ˌdɪˌspoʊzəˈbɪləti/   n. 一次性；可丢弃性；可处置性
 > dispose /dɪˈspəʊz/ v. 处理、丢弃 
 > disposable adj. 一次性的；可丢弃的（高频形容词）
 > disposability 对应名词，侧重属性、特性
@@ -210,23 +222,25 @@ summary: English Words in Daily Life
 > disposable adj. 一次性的
 >> disposable chopsticks 一次性筷子
 >> disposable products 一次性用品
+>
 > disposal n. 处置、清理
 >> waste disposal 垃圾处理
 
 * bio  /ˈbaɪoʊ/  n.个人简历，小传;   Ex: short bio 简要介绍
 
-**peek** /piːk/  v.偷看，窥视；微露出，探出； n.一瞥，偷偷地一看；（计算机）读取数据；
+* **peek** /piːk/  v.偷看，窥视；微露出，探出； n.一瞥，偷偷地一看；（计算机）读取数据；
 > Take a peek  偷偷看一眼、瞄一下、悄悄瞥一眼；
 > 同义替换：
 >> have a peek（更常用英式口语）
 >> sneak a peek 偷偷瞄一眼（强调刻意藏起来看）
+>
 > Example:
 >> Can I take a peek at your gift? 我能偷偷看一眼你的礼物吗？
 >> I took a peek at the answer sheet.我悄悄瞄了一眼答题卡。
 >> Take a peek inside the box! 快看看盒子里面！
 
 
-**look**
+* **look**
 > how can i achieve this look?  怎么做出这种效果 / 打造这种风格？  / 我该如何实现这种风格？
 > look /lʊk/ n. （整体）风格、造型、样貌、视觉效果（高频美妆 / 穿搭 / 摄影 / 设计用语）
 > achieve  /əˈtʃiːv/   v.（经努力）达到，取得，实现；获得成功；
@@ -237,18 +251,22 @@ summary: English Words in Daily Life
 > How do I get this look?（最口语，外网首选）
 > How to recreate this style? 如何复刻这个风格？
 
-**elated**
+* **elated**
 > elated  /ɪˈleɪtɪd/   adj.兴高采烈的；得意洋洋的；  v.使兴奋（elate 的过去式和过去分词）；
 > elated 语气强于 happy，指因喜事感到极度开心、振奋。
+>
 > **派生词**
 > elate  /ɪˈleɪt/  vt.使……欢欣；使……兴高采烈；  adj.得意的；
 > elation  /ɪˈleɪʃn/  n. 喜悦，兴高采烈，得意洋洋
+>
 > **常用搭配**
 > * be elated (at/by sth)
 > She was elated by the good news. 听到好消息，她欣喜万分。
 > We were elated.
+>
 > * feel elated
 > I feel elated after passing the exam. 考完试顺利通过，我满心欢喜。
+>
 > **近义词区分**
 > happy：通用，普通开心
 > joyful：愉悦，偏书面；  /ˈdʒɔɪfl/  adj. 高兴的，令人愉快的
@@ -337,11 +355,15 @@ summary: English Words in Daily Life
 ![Types of closing](/images/typesofclosing.jpg "闭合词汇、关闭类型")
 * shut  /ʃʌt/  v.关闭，合上；把……关在；<英>（使）停止运作，（使）停止营业；禁止通行，封闭； adj.关闭的，关上的；<英>打烊的，停止营业的； n.关闭；
 > close completely
+
 * seal  /siːl/  n.印章，图章；表示确认的事物；密封装置，密封物；密封，密封状态；水止，水封；封蜡，火漆；封蜡模（印），封铅模（印）；海豹；海豹皮；装饰性的背面涂胶水的邮票（印花）； v.封上（信封）；密封（容器）；确定，使成定局；给……涂上保护层；（给文件）加封，盖印；封锁；快速煎炸；猎捕海豹；
 > close securely
+
 * snap  /snæp/  v.（使咔嚓）断裂，绷断；（使啪地）打开，关上，移动；厉声说，怒气冲冲地说；突然失控，精神崩溃；拍照，摄影；噼啪地响；打响指； n.喀嚓声，啪嗒声；快照，照片； adj.突然的，仓促的；
 > close quickly
+
 * latch  /lætʃ/  n.门闩，窗闩；<英>碰锁，碰簧锁；（电子）门闩线路，锁存器； v.闩上（门），用弹簧锁锁住（门等）；（电子）（装置）状态恒定；占有，抓住；
 > close with a catch
+
 * clamp  /klæmp/  v.（用夹具）夹紧，夹住；紧紧抓住，牢牢固定住；<英>给（车辆）上夹钳；保持（电信号）电压极限在规定水平； n.夹具，夹钳；车轮固定夹；钳位电路；
 > close tightly by pressing

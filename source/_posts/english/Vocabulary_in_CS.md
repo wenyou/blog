@@ -72,12 +72,14 @@ summary: Vocabulary in Computer Science
 >> 用于举例 = for example
 >> 后面必须加逗号
 >> 缩写必须带点：e.g.
+>
 > Ex: I like fruits, e.g., apples, bananas. 我喜欢水果，例如苹果、香蕉。
 > **e.g. vs i.e.**
 > e.g. = 举例（for example）
 > i.e. = 解释、换句话说（that is）
 >> I love fruits, e.g., apples. 我爱水果，比如苹果。
 >> I love fruits, i.e., plant foods. 我爱水果，也就是植物性食物。
+>
 > e.g. = 举例
 > i.e. = 解释
 

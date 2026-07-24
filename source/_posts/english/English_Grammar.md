@@ -11,7 +11,7 @@ summary: English Grammar
 
 # grammar
 
-**parts of speech**
+## parts of speech
 * noun  /naʊn/  n.名词
 
 * pronoun  /ˈproʊnaʊn/  n.代词；
@@ -56,10 +56,10 @@ summary: English Grammar
 * part of speech 词性, Ex: What part of speech is this word?
 ![word class](/images/parts-of-speech.jpg "parts of speech")
 
-**others**
-* tone   /toʊn/    n.语气，腔调，口吻；气氛，基调，风格；（尤指乐器或电子音响设备的）音质，音色；色调，明暗；  v.使强健，使结实；与……协调，与……相配；变色；用某种调子说
+## others
+* tone   /toʊn/    n.语气，腔调，口吻；气氛，基调，风格；（尤指乐器或电子音响设备的）音质，音色；色调，明暗；  v.使强健，使结实；与……协调，与……相配；变色；用某种调子说；
 > Tone
 >> Neutral/Formal    中性/正式     /ˈnuːtrəl/   /ˈfɔːrm(ə)l/
 >> Economic/Serious   经济/严重的    /ˌiːkəˈnɑːmɪk/   /ˈsɪriəs/
 >> Modern/Critical   现代/批判性的  /ˈmɑːdərn/  /ˈkrɪtɪk(ə)l/
->> Idiomatic  /ˌɪdiəˈmætɪk/ adj.（语言）自然地道的；与（某时期、人或团体的艺术或音乐风格）相合的，特点一致的
+>> Idiomatic  /ˌɪdiəˈmætɪk/ adj.（语言）自然地道的；与（某时期、人或团体的艺术或音乐风格）相合的，特点一致的；
