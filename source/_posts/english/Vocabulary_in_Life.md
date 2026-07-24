@@ -25,6 +25,9 @@ summary: English Words in Daily Life
 # Animal & Plant Vocabulary List
 **Animals**
 * donkey  /ˈdɑːŋki/  n.驴；<非正式>蠢人，傻瓜；
+* pigeon  /ˈpɪdʒɪn/  n.鸽子；<非正式，美>（容易）上当受骗的人；<英>（自己的）责任，分内之事；<俚>己方飞机；
+* falcon  /ˈfælkən/  n.隼，猎鹰；
+
 
 
 **Plants**
@@ -65,12 +68,63 @@ summary: English Words in Daily Life
 > Nuclear Pore Complex 核孔复合体（细胞生物学）
 > Nominal Protection Coefficient 名义保护系数（经济学）
 
+**VO**
+* Visa Officer 签证官
+> 场景：美签、加签论坛 / 攻略通用缩写
+> The VO asked me about my research plan. 签证官询问了我的研究计划。
+> 配套缩写：AP = 行政审查、DS160 = 签证申请表
+> visa  /ˈviːzə/  n.签证；  v.签发签证；
+> officer  /ˈɑːfɪsər/  n.军官；（政府或大机构的）官员，高级职员；警察，警官；船长；某一荣誉等级中的一分子;  v.配备军官；指挥;
+
+
+
 # Others
+* alien /ˈeɪliən/  adj.陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）； n.外国人，侨民；外星人（或生物）；（植物或动物种类）外国引进品种；   v.让渡，转让；
+> adj. 陌生的；格格不入的, alien to sth  Example:  This idea is alien to me. 这种想法我完全无法认同 / 和我的观念格格不入。
+> adj. 外国的；异域的（书面）  alien culture 异域文化
+> adj. 相异的，不相容的   alien customs 迥异的风俗
+> n. 外星人（日常最常用） alien movie 外星题材电影；  Example: Area 51 is rumored to hold alien bodies.  传闻 51 区存有外星人遗体。
+> n. 外国人（法律 / 官方正式用语，区别 citizen 公民）   resident alien 外籍居民； illegal alien 非法外籍居留者
+
+* pride   /praɪd/  n.自豪（感）；自尊（心）；傲慢，自负；<文>最佳状态，全盛期；狮群；引以为傲的人（或事物）；  v.以……自豪（pride oneself on/upon）
+> **Happy Pride!**  骄傲节快乐！
+> Pride 完整指代 Pride Parade / Pride Month     即同志骄傲游行、骄傲月，每年六月是全球 LGBTQ + 群体的骄傲月。
+>> 口号核心含义：接纳多元性别与性取向，不再因自身身份自卑，坦然为自己感到骄傲。 
+> 适用场景:  六月骄傲月祝福、游行标语、社交文案。  完整常用句：Happy Pride Month! 骄傲月快乐！
+>> 背景:  Pride（骄傲运动）起源于平权抗议，如今演变为庆祝多元、呼吁包容的活动，标志性符号是彩虹旗。 日常口语单独说 Happy Pride! 简洁通用，不分地区。
+
+
+* **LGBTQ 性少数群体统称**
+> Lesbian、Gay、Bisexual、Transgender、Queer/Questioning 五个单词首字母缩写
+> L = Lesbian 女同性恋 (生理女性，情感、浪漫、性吸引只指向女性。)    
+>> lesbian /ˈlezbiən/  adj.女同性恋的； n.女同性恋者
+> G = Gay 男同性恋 (生理男性，情感、浪漫、性吸引只指向男性；广义也可泛指全体同性恋。)
+>> gay  /ɡeɪ/ n.同性恋者（尤指男性）； adj.同性恋的；
+> B = Bisexual 双性恋 (对男性、女性两种性别都会产生爱慕与吸引。)
+>> bisexual  /ˌbaɪˈsekʃuəl/  adj.两性的；雌雄同体的；
+> T = Transgender 跨性别者  (性别认同和出生时被分配的生理性别不一致。 例：生理男内心认同女性（跨女 MTF）；生理女内心认同男性（跨男 FTM）。 ) 前三者是性取向，T 是性别认同，二者概念不同。
+>> transgender /trænzˈdʒendər；trænsˈdʒendər/  adj.跨性别的（同 transgendered）; n.跨性别者；
+> Q 两种含义（二合一）
+>> Queer（酷儿）：早年是贬义，如今被群体重新接纳，泛指所有不被传统性别、性取向框架束缚的人；
+>> Questioning（疑性恋 / 探索中）：暂时不确定自己的性取向、性别认同，还在自我探索的人。
+>>> queer /kwɪr/   n.<非正式>同性恋者；伪造的货币；
+>>> questioning  /ˈkwestʃənɪŋ/  v.（尤指正式地）询问；怀疑；对……提出异议（question 的现在分词）； n.盘问，询问； adj.询问的；表示怀疑的
+> 
+> 延伸拓展写法: LGBTQIA+（更全面、主流）
+>> I = Intersex 间性人 / 双性人：先天生殖器官、染色体、性激素不符合典型男女二元划分； 
+>> A = Asexual 无性恋：不会对任何人产生性吸引；
+>> +：代表泛性恋、非二元性别等所有没写进缩写里的多元身份，包容一切小众性别取向。
+>
+> 标志性符号: 彩虹旗（Rainbow Flag）是全球 LGBTQ 群体通用象征
+
+* sin  /sɪn/  n.（违背宗教或道德的）罪，罪恶；过错，过失；   v.犯戒律，犯过失；亵渎，冒犯（上帝，人，原则）（sin against）；   abbr.正弦（sine 的缩写）
+* sine /saɪn/ n.正弦；  prep.（尤指拉丁词语或法律用语）缺少，没有；
+
+
 * lottery  /ˈlɑːtəri/ n.抽彩给奖法，博彩；<美>抽签法，随机选择；碰运气的事；
 
 * realized  /ˈriːəlaɪzd/  adj.实现的；已实现的（realised 的美式拼写）； v.意识到，认识到，理解；实现；（所担心的事）发生；变卖，变现；以......价格卖出；把（概念等）具体表现出来（realize 的过去式和过去分词）
 > realize  /ˈriːəlaɪz/  v.了解，意识到；（所担心的事）发生，产生（be realized）；实现（目标、梦想等）；（充分）发挥出自己的潜力； 把（概念等）具体表现出来；用（语言特征）表达；对（记谱不全的乐曲）做完整兑谱改编；获得（金钱，利润）；变现，变卖（资产）;
-
 
 * enroll  /ɪnˈroʊl/  vt.登记；使加入；把……记入名册；使入伍；   vi.参加；登记；注册；记入名册；
 
@@ -138,6 +192,7 @@ summary: English Words in Daily Life
 * malice  /ˈmælɪs/ n.恶意，怨恨；（尤指加重某些罪行的）恶谋；
 > be full of malice toward sb  对某人充满恶意、心存歹念
 
+* buddy   /ˈbʌdi/  n.<非正式>朋友；<美，非正式>老兄，兄弟；伙伴，搭档；  v.与……成为朋友，与……结交；  adj.讲述友情的；
 
 
 * utility  /juːˈtɪləti/  n.（煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；（博弈论，经济学）效用； adj.有用的，多功能的；（体育运动）多面手的；实用的；

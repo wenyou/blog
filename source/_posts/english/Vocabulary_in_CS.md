@@ -22,6 +22,27 @@ summary: Vocabulary in Computer Science
 > tiny： /ˈtaɪni/  adj.极小的，微小的；  n.<非正式>幼童；
 > TinyML = Tiny Machine Learning：在MCU 单片机（微控制器）本地跑 AI 推理，硬件通常只有KB 级内存、MHz 主频、mW 毫瓦级功耗，不靠 GPU、不靠云端、离线本地运算。
 
+*  PLC 
+> abbr.可编程逻辑控制器（Programmable Logic Controller）；
+
+* AGI 
+> Artificial General Intelligence   通用人工智能，也叫强人工智能
+> 一种拥有和人类同等、甚至超越人类的全方位通用认知能力的人工智能，能像正常人一样搞定所有类型脑力任务，举一反三、自主适应完全陌生的场景。目前全球还没有真正实现 AGI，属于理论目标。
+> artificial  /ˌɑːrtɪˈfɪʃ(ə)l/   adj.人造的，人工的；人为的；不真挚的，矫揉造作的；
+> general  /ˈdʒen(ə)rəl/   adj.总体的，普遍的；一般的，常规的；大致的，大概的；综合的，广泛的；首席的，总管的；  
+> intelligence  /ɪnˈtelɪdʒəns/   n.智力，才智；智能；情报，谍报；情报机构；
+* ANI  弱人工智能
+> Artificial Narrow Intelligence  狭义人工智能 / 弱人工智能
+> 现在所有产品：ChatGPT、文心一言、人脸识别、AlphaGo、推荐算法，全都是 ANI（弱 AI）
+> 目前唯一真正实现、所有商用 AI 都属于 ANI，AGI 只是理论目标。
+
+* FOMO  
+> abbr.错失恐惧症（fear of missing out）
+> 口语：怕错过、社交焦虑、跟风焦虑 
+> FOMO情绪，一种持续焦虑：总担心别人在拥有精彩、有利的事，唯独自己被落下，忍不住攀比、恐慌、盲目跟风。
+> 反义词：JOMO , Joy Of Missing Out  享受独处、安心接受错过，不攀比，自得其乐（与 FOMO 相反）。
+
+
 * deploy  /dɪˈplɔɪ/  v.部署，调度；利用； deploying  /dɪˈplɔɪɪŋ/  v.部署（deploy 的现在分词）；配置；展开； n.分发；
 
 * establishing  /ɪˈstæblɪʃɪŋ; əˈstæblɪʃɪŋ/  v.建立，设立；证实，确定；发现，找出（establish 的现在分词）；
@@ -133,3 +154,7 @@ summary: Vocabulary in Computer Science
 > with an emphasis on Rust code analysis.  重点在于 Rust 代码分析。
 
 * truncate  /ˈtrʌŋkeɪt/   v.截断，删节；把……截成平面；  adj.（叶、羽毛等）截形的；截短的；
+
+* anonymously
+> Load anonymously
+> Load normally
