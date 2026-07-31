@@ -19,6 +19,18 @@ summary: English Words in Education
 * online /distance education 远程教育
 * blended learning 混合式授课（线上 + 线下）
 
+* elementary /ˌelɪˈmentri/  adj.简单的，基本的；基础的，初级的；小学的；单一元素的，非化合物的;
+
+* intermediate  /ˌɪntərˈmiːdiət/   adj.居中的，中间的；中等程度的，中级的； n.中级水平者，中级学生；中间事物；（化合物）中间体； v.充当调解人，斡旋；
+> pre-intermediate  n.预备中级； 初中级；预备中级（英语等级）
+> 语言学习常见阶梯：A1 入门 → A2 初级 elementary → Pre-intermediate（预备中级，介于 A2～B1）→ B1 Intermediate（中级）→ B2 Upper-intermediate（中高级）；
+
+* advanced  /ədˈvænst/  adj.先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未被广泛接受）的； v.行进；发展，进步；预付（advance 的过去式和过去分词形式）；
+
+* proficiency  /prəˈfɪʃ(ə)nsi/  n.熟练，精通；
+
+
+
 # Institutions and Academic System (Institutions & Academic Calendar)
 * elementary school 小学｜middle school 初中｜high school 高中
 * college（学院）｜university（综合性大学）

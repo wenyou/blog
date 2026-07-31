@@ -25,6 +25,7 @@ summary: English Grammar
 * verb  /vɜːrb/  n.动词；动词词性；动词性短语或从句；
 > Verb tense : 动词时态
 > tense  /tens/  n.（动词的）时态；    adj.紧张的，焦虑的；（气氛或局势）令人紧张的，引发恐慌的；（身体或肌肉）僵直的，绷紧的；（金属丝等）拉紧的，绷紧的；（语音，尤指元音）紧的；   v.（使）（身体或肌肉）绷紧，（使）变得僵直；变得神经紧张；
+> verbs  /vɜːrbz/   n.[语]动词（verb 的复数）
 
 * adverb  /ˈædvɜːrb/  n.副词  adj.副词的；
 
@@ -55,6 +56,15 @@ summary: English Grammar
 
 * part of speech 词性, Ex: What part of speech is this word?
 ![word class](/images/parts-of-speech.jpg "parts of speech")
+
+
+## phrasal verbs
+* phrasal  /ˈfreɪzl/  adj.短语的，词组的；
+> phrasal verbs  短语动词
+
+* Sort out
+> To organize or solve a problem.
+> Example: I will sort out the files and send them to you.
 
 ## others
 * tone   /toʊn/    n.语气，腔调，口吻；气氛，基调，风格；（尤指乐器或电子音响设备的）音质，音色；色调，明暗；  v.使强健，使结实；与……协调，与……相配；变色；用某种调子说；

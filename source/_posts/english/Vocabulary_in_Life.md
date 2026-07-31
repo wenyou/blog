@@ -34,6 +34,15 @@ summary: English Words in Daily Life
 * wheat  /wiːt/  n.小麦（植物），小麦（籽实）；<美>小麦面包；小麦色；
 * lotus /ˈloʊtəs/  n.莲属植物；莲（花）饰；落拓枣，忘忧果； lotus flower 莲花；
 
+* **百合**
+* lily  /ˈlɪli/  n.百合；睡莲（water lily）；鸢尾花形的纹章； adj.纯洁的，洁白的；
+> lilium /ˈlɪlɪəm/  n.百合属植物； 百合的学名。
+> 百合: 二次元 / 网络含义，源自日语：百合「ゆり / Yuri」。 泛指**女性与女性之间的爱慕、暧昧情愫**，多用于动漫、小说、游戏等虚构作品。 爱好者称呼：**百合控**。
+>> 词源: 1971 年日本杂志《蔷薇族》，用 “蔷薇” 代指男同性题材，对应创造 “百合族” 代指女性同性情感，之后在 ACGN 圈传播开来。
+>
+> 花卉百合：**lily**  ; 二次元百合题材：**Yuri**（海外动漫圈通用词）
+
+
 
 # Common Adverb Vocabulary List 
 * adverb  /ˈædvɜːrb/  n.副词； adj.副词的；
@@ -82,25 +91,6 @@ summary: English Words in Daily Life
 > visa  /ˈviːzə/  n.签证；  v.签发签证；
 > officer  /ˈɑːfɪsər/  n.军官；（政府或大机构的）官员，高级职员；警察，警官；船长；某一荣誉等级中的一分子;  v.配备军官；指挥;
 
-
-
-# Others
-* alien /ˈeɪliən/  adj.陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）； n.外国人，侨民；外星人（或生物）；（植物或动物种类）外国引进品种；   v.让渡，转让；
-> adj. 陌生的；格格不入的, alien to sth  Example:  This idea is alien to me. 这种想法我完全无法认同 / 和我的观念格格不入。
-> adj. 外国的；异域的（书面）  alien culture 异域文化
-> adj. 相异的，不相容的   alien customs 迥异的风俗
-> n. 外星人（日常最常用） alien movie 外星题材电影；  Example: Area 51 is rumored to hold alien bodies.  传闻 51 区存有外星人遗体。
-> n. 外国人（法律 / 官方正式用语，区别 citizen 公民）   resident alien 外籍居民； illegal alien 非法外籍居留者
-
-* pride   /praɪd/  n.自豪（感）；自尊（心）；傲慢，自负；<文>最佳状态，全盛期；狮群；引以为傲的人（或事物）；  v.以……自豪（pride oneself on/upon）
-> **Happy Pride!**  骄傲节快乐！
-> Pride 完整指代 Pride Parade / Pride Month     即同志骄傲游行、骄傲月，每年六月是全球 LGBTQ + 群体的骄傲月。
->> 口号核心含义：接纳多元性别与性取向，不再因自身身份自卑，坦然为自己感到骄傲。 
->
-> 适用场景:  六月骄傲月祝福、游行标语、社交文案。  完整常用句：Happy Pride Month! 骄傲月快乐！
->> 背景:  Pride（骄傲运动）起源于平权抗议，如今演变为庆祝多元、呼吁包容的活动，标志性符号是彩虹旗。 日常口语单独说 Happy Pride! 简洁通用，不分地区。
-
-
 * **LGBTQ 性少数群体统称**
 > Lesbian、Gay、Bisexual、Transgender、Queer/Questioning 五个单词首字母缩写
 > L = Lesbian 女同性恋 (生理女性，情感、浪漫、性吸引只指向女性。)    
@@ -129,9 +119,25 @@ summary: English Words in Daily Life
 > 标志性符号: 彩虹旗（Rainbow Flag）是全球 LGBTQ 群体通用象征
 
 
+
+# Others
+* alien /ˈeɪliən/  adj.陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）； n.外国人，侨民；外星人（或生物）；（植物或动物种类）外国引进品种；   v.让渡，转让；
+> adj. 陌生的；格格不入的, alien to sth  Example:  This idea is alien to me. 这种想法我完全无法认同 / 和我的观念格格不入。
+> adj. 外国的；异域的（书面）  alien culture 异域文化
+> adj. 相异的，不相容的   alien customs 迥异的风俗
+> n. 外星人（日常最常用） alien movie 外星题材电影；  Example: Area 51 is rumored to hold alien bodies.  传闻 51 区存有外星人遗体。
+> n. 外国人（法律 / 官方正式用语，区别 citizen 公民）   resident alien 外籍居民； illegal alien 非法外籍居留者
+
+* pride   /praɪd/  n.自豪（感）；自尊（心）；傲慢，自负；<文>最佳状态，全盛期；狮群；引以为傲的人（或事物）；  v.以……自豪（pride oneself on/upon）
+> **Happy Pride!**  骄傲节快乐！
+> Pride 完整指代 Pride Parade / Pride Month     即同志骄傲游行、骄傲月，每年六月是全球 LGBTQ + 群体的骄傲月。
+>> 口号核心含义：接纳多元性别与性取向，不再因自身身份自卑，坦然为自己感到骄傲。 
+>
+> 适用场景:  六月骄傲月祝福、游行标语、社交文案。  完整常用句：Happy Pride Month! 骄傲月快乐！
+>> 背景:  Pride（骄傲运动）起源于平权抗议，如今演变为庆祝多元、呼吁包容的活动，标志性符号是彩虹旗。 日常口语单独说 Happy Pride! 简洁通用，不分地区。
+
 * sin  /sɪn/  n.（违背宗教或道德的）罪，罪恶；过错，过失；   v.犯戒律，犯过失；亵渎，冒犯（上帝，人，原则）（sin against）；   abbr.正弦（sine 的缩写）
 * sine /saɪn/ n.正弦；  prep.（尤指拉丁词语或法律用语）缺少，没有；
-
 
 * lottery  /ˈlɑːtəri/ n.抽彩给奖法，博彩；<美>抽签法，随机选择；碰运气的事；
 
@@ -206,7 +212,6 @@ summary: English Words in Daily Life
 
 * buddy   /ˈbʌdi/  n.<非正式>朋友；<美，非正式>老兄，兄弟；伙伴，搭档；  v.与……成为朋友，与……结交；  adj.讲述友情的；
 
-
 * utility  /juːˈtɪləti/  n.（煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；（博弈论，经济学）效用； adj.有用的，多功能的；（体育运动）多面手的；实用的；
 
 * **disposability**  /ˌdɪˌspoʊzəˈbɪləti/   n. 一次性；可丢弃性；可处置性
@@ -274,7 +279,6 @@ summary: English Words in Daily Life
 > thrilled：激动不已（口语高频） ； 
 >> thrilled  /θrɪld/ adj.非常兴奋，极为激动；v.使（某人）非常兴奋，非常激动；（情感，感觉）颤抖，振动；<文>颤动，跳动（thrill 的过去式和过去分词形式）；
 >> thrill  /θrɪl/   n.兴奋，激动；使人兴奋的事物，令人激动的事；一阵强烈的感觉；（医）震颤；追求的快感；性快感； v.使（某人）非常兴奋，非常激动；（情感，感觉）颤抖，振动；<文>颤动，跳动；
-
 
 
 # Basic vs Native*
@@ -367,3 +371,43 @@ summary: English Words in Daily Life
 
 * clamp  /klæmp/  v.（用夹具）夹紧，夹住；紧紧抓住，牢牢固定住；<英>给（车辆）上夹钳；保持（电信号）电压极限在规定水平； n.夹具，夹钳；车轮固定夹；钳位电路；
 > close tightly by pressing
+
+
+# At the restaurant
+* chef  /ʃef/  n.厨师，主厨
+
+* host /hoʊst/  n.主人；主持人；主办者，东道主；寄主，宿主；接受移植组织（或器官）的受体；主机；（某种特别生物的）生存地；许多人（或物）；<古>军队；（圣餐仪式中的）圣饼，圣体； v.主办，做……的东道主；做节目主持人；作为主人组织（聚会），做东；（通常收费在与互联网连接的计算机上）存储网站；
+> host stand
+
+* waiter
+
+* waitress
+
+* table
+
+* menu
+
+* knife
+
+* fork
+
+* napkin
+
+* booth
+
+* high chair
+
+* wine glass
+
+* candle
+
+* cash regist
+
+* receipt
+
+
+# At home
+* bathroom  n.浴室，盥洗室；<美>卫生间，厕所；
+* bedroom 卧室
+* living room  客厅
+* hall /hɔːl/  n.礼堂，大厅；门厅；走廊，过道；
