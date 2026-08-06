@@ -160,3 +160,63 @@ summary: Vocabulary in Computer Science
 * anonymously
 > Load anonymously
 > Load normally
+
+* rational  /ˈræʃ(ə)nəl/  adj.（想法、决定等）合理的，基于理性的；（人）理性的，理智的；富有理性的；（数）有理的，有理数的； n.有理数；
+> rational decisions  理性决策
+> computational rationality  计算合理性
+
+* utility  /juːˈtɪləti/ 效用； n.(煤气、水、电等的）公共服务，公用事业；（供电、供水等的）公用事业单位；应用程序，实用程序；实用，有用；（博弈论，经济学）效用； adj.有用的，多功能的；（体育运动）多面手的；实用的；
+> Maximize your expected utility.
+
+* prediction  /prɪˈdɪkʃn/  n.预言之事，预报之事；预测（行为）
+* decision  /dɪˈsɪʒ(ə)n/   n.决定，抉择；判决，裁定；果断，决断力；作决定，决策； 
+
+* agent /ˈeɪdʒənt/  n.（人工智能领域）智能体；代理人，代理商；（艺术界的）经纪人；间谍，特工；原动力，动因；剂；（语法）施动者；（美国某些政府部门的）官员；
+> An agent is an entity that perceives（认知） and acts（行动）.
+> perceive  /pərˈsiːv/  vt.认为，理解；察觉，注意到；意识到；
+
+* percept   /ˈpɜːrsept/  n.认知，认知的对象；
+
+* sensor  /ˈsensər/  n.（探测光、热、压力等的）传感器，敏感元件，探测设备；
+
+* actuator  /ˈæktʃueɪtər/  n.[自] 执行机构；激励者；促动器；致动器；  
+
+* reflex  /ˈriːfleks/  n.（对刺激的）本能反应；反射（作用）；反映物；反映形式；反射光； adj.本能反应的；（角）大于180度的；（光）被反射的；反折的；反省的；
+
+* optimal  /ˈɑːptɪməl/   adj.最佳的，最适的；
+
+* mastermind  /ˈmæstərmaɪnd/   n.优秀策划者；才子；幕后操纵者；   v.策划，组织，操纵；
+
+* replanning  n.重新规划； v.重新计划（replan 的 ing 形式）；
+> replan  vt.再计划，重新计划;
+
+* successor  /səkˈsesər/   n.继承者，接替的事物；（组织、机器等的）接替物；
+> a successor function.
+
+* fringe  /frɪndʒ/   n.穗，流苏；<英>刘海儿；（地区、组织或活动范围的）边缘，外围；偏激的人，极端的活动；干扰条纹，散乱边纹；（动物的）缘缨，（植物的）毛缘；（工资外的）补贴，附加福利； v.在……上装以缘饰，加穗于；形成……的边缘； adj.次要的，非主流的；
+
+* expansion  /ɪkˈspænʃ(ə)n/   n.扩大，扩张；扩充，展开；扩张物；膨胀；
+
+* strategy  /ˈstrætədʒi/  n.（尤指为获得某物制定长期的）策略，行动计划；战略，战略学;
+
+* exploration  /ˌekspləˈreɪʃ(ə)n/  n.勘探，勘察；研究，探究;
+> exploration strategy  搜索策略
+
+* pseudo  /ˈsuːdoʊ/  adj.假的，伪装的； n.<非正式>假冒者，不真诚的人；
+> pseudo-code 伪代码
+
+* maze  /meɪz/   n.迷宫；走迷宫（一种儿童游戏）；错综复杂的事物；纵横交错的小街（或小道等）；迷惑，糊涂； v.使发昏，使迷惑；
+
+* criteria  /kraɪˈtɪriə/   n.（评判或做决定的）标准，准则，尺度 （criterion 的复数）；
+> criterion  /kraɪˈtɪriən/  n.尺度，标准，准则；
+
+* breadth  /bredθ/  n.宽度，幅度；广度，广泛性；
+> breadth-first search
+
+* portion  /ˈpɔːrʃ(ə)n/   n.（某物的）一部分；（尤指餐馆中食物的）一份，一客；（责任、过失、职责等的）一份，一部分；<法律>（根据法律赠与或遗留给继承人的）一份财产； v.分配；
+* incomplete  /ˌɪnkəmˈpliːt/  adj.不完整的，不完全的；不完善的，未完成的； n.<美>（学业成绩评分）未修毕，未完成；
+> This portion is incomplete.  Time to write code!
+
+
+
+
