@@ -21,13 +21,12 @@ summary: English Words in Daily Life
 > The Master said, I was not born with knowledge but, being fond of antiquity, I am quick to seek it.   --Analects (《论语・述而》7.20)
 > Analects /ˌænəˈlekts/  n.《论语》
 
-
+---
 # Animal & Plant Vocabulary List
 ## Animals
 * donkey  /ˈdɑːŋki/  n.驴；<非正式>蠢人，傻瓜；
 * pigeon  /ˈpɪdʒɪn/  n.鸽子；<非正式，美>（容易）上当受骗的人；<英>（自己的）责任，分内之事；<俚>己方飞机；
 * falcon  /ˈfælkən/  n.隼，猎鹰；
-
 
 
 ## Plants
@@ -42,8 +41,7 @@ summary: English Words in Daily Life
 >
 > 花卉百合：**lily**  ; 二次元百合题材：**Yuri**（海外动漫圈通用词）
 
-
-
+---
 # Common Adverb Vocabulary List 
 * adverb  /ˈædvɜːrb/  n.副词； adj.副词的；
 > adverbial  /ædˈvɜːrbiəl/  adj.副词的，状语的； n.状语；
@@ -52,7 +50,7 @@ summary: English Words in Daily Life
 
 * hence /hens/ adv.因此；之后；
 
-
+---
 # Some abbreviations
 * **NPC**   /ˌen piː ˈsiː/   非玩家角色
 > 1. 游戏 / 流行文化（最常用）
@@ -119,8 +117,11 @@ summary: English Words in Daily Life
 > 标志性符号: 彩虹旗（Rainbow Flag）是全球 LGBTQ 群体通用象征
 
 
-
+---
 # Others
+* passion  /ˈpæʃ(ə)n/  n.爱恋，情欲；激情，热情；酷爱，热衷的爱好（或活动等）；盛怒，激愤；耶稣的受难（the Passion）；
+
+
 * alien /ˈeɪliən/  adj.陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）； n.外国人，侨民；外星人（或生物）；（植物或动物种类）外国引进品种；   v.让渡，转让；
 > adj. 陌生的；格格不入的, alien to sth  Example:  This idea is alien to me. 这种想法我完全无法认同 / 和我的观念格格不入。
 > adj. 外国的；异域的（书面）  alien culture 异域文化
@@ -256,6 +257,7 @@ summary: English Words in Daily Life
 > How do I get this look?（最口语，外网首选）
 > How to recreate this style? 如何复刻这个风格？
 
+
 * **elated**
 > elated  /ɪˈleɪtɪd/   adj.兴高采烈的；得意洋洋的；  v.使兴奋（elate 的过去式和过去分词）；
 > elated 语气强于 happy，指因喜事感到极度开心、振奋。
@@ -281,17 +283,18 @@ summary: English Words in Daily Life
 >> thrill  /θrɪl/   n.兴奋，激动；使人兴奋的事物，令人激动的事；一阵强烈的感觉；（医）震颤；追求的快感；性快感； v.使（某人）非常兴奋，非常激动；（情感，感觉）颤抖，振动；<文>颤动，跳动；
 
 
+---
 # Basic vs Native*
 ![Basic vs Native](/images/BasicvsNative.jpg "基础表达 vs 母语者口语对照表")
 > 这些母语者表达大多是非正式用法，适合和朋友、同事日常聊天；写邮件、正式考试时，还是用基础表达更稳妥。
 > 像 ya、yep 这类词，只出现在口语 / 短信里，正式写作中不要使用。
 > 比如 That sucks 这类带吐槽的表达，注意场合，别在严肃 / 正式场合用哦。
 
-
+---
 # Basic vs Fluent English
 ![Basic vs Fluent English](/images/BasicvsFluentEnglish.jpg "基础英语 vs 流利英语")
 
-
+---
 # Body organ
 ![Body organ](/images/body_organ.jpg "身体器官")
 * brain  /breɪn/  n.脑；聪明的人，智者；（供食用的）动物脑髓； v. <非正式>猛击……的头部
@@ -334,7 +337,7 @@ summary: English Words in Daily Life
 
 * diaphragm  /ˈdaɪəfræm/  n.隔膜；快门，[摄] 光圈；横隔膜；隔板；
 
-
+---
 # More everyday Action
 ![More everyday Action](/images/MoreeverydayAction.jpg "日常行动")
 * lather  /ˈlæðər/  n.肥皂泡；激动； vt.涂以肥皂泡；使紧张；狠狠地打； vi.起泡沫；
@@ -355,6 +358,7 @@ summary: English Words in Daily Life
 * scoop  /skuːp/  n.勺，球形勺；铲，铲斗；一勺，一铲斗（的量）；舀的动作，铲的动作； v.用勺舀，用铲子铲；挖出，挖空；（急速地）捡起，抱起；
 * hang  /hæŋ/  v.悬挂，吊；（使）挂在墙上；垂下，垂落；悬浮；绞死；贴，糊（墙纸）；安装（门）； n.悬挂方式；下垂，低垂；（画展中画作的）陈列，布局；
 
+---
 # Closing vocabulary
 ![Types of closing](/images/typesofclosing.jpg "闭合词汇、关闭类型")
 * shut  /ʃʌt/  v.关闭，合上；把……关在；<英>（使）停止运作，（使）停止营业；禁止通行，封闭； adj.关闭的，关上的；<英>打烊的，停止营业的； n.关闭；
@@ -372,7 +376,7 @@ summary: English Words in Daily Life
 * clamp  /klæmp/  v.（用夹具）夹紧，夹住；紧紧抓住，牢牢固定住；<英>给（车辆）上夹钳；保持（电信号）电压极限在规定水平； n.夹具，夹钳；车轮固定夹；钳位电路；
 > close tightly by pressing
 
-
+---
 # At the restaurant
 * chef  /ʃef/  n.厨师，主厨
 
@@ -405,7 +409,7 @@ summary: English Words in Daily Life
 
 * receipt
 
-
+---
 # At home
 * bathroom  n.浴室，盥洗室；<美>卫生间，厕所；
 * bedroom 卧室

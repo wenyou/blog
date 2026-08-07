@@ -217,6 +217,11 @@ summary: Vocabulary in Computer Science
 * incomplete  /ˌɪnkəmˈpliːt/  adj.不完整的，不完全的；不完善的，未完成的； n.<美>（学业成绩评分）未修毕，未完成；
 > This portion is incomplete.  Time to write code!
 
+* heuristic  /hjuˈrɪstɪk/  adj.（教学或教育）启发式的；（计算机程序）探试的，探索的； n.启发式步骤（或方法）；
+
+* trivial  /ˈtrɪviəl/  adj.琐碎的，不重要的；容易解决的，不费吹灰之力的；（人）务小的，浅薄的；（数学）平凡的；
+> Default to trivial solution
+> non-trivial adj.非平凡的；重大的，重要的
 
 
-
+* 

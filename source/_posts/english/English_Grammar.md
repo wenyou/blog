@@ -11,7 +11,7 @@ summary: English Grammar
 
 # grammar
 
-## parts of speech
+## parts of speech 词性
 * noun  /naʊn/  n.名词
 
 * pronoun  /ˈproʊnaʊn/  n.代词；
@@ -58,7 +58,8 @@ summary: English Grammar
 ![word class](/images/parts-of-speech.jpg "parts of speech")
 
 
-## phrasal verbs
+---
+## phrasal verbs  动词短语
 * phrasal  /ˈfreɪzl/  adj.短语的，词组的；
 > phrasal verbs  短语动词
 
@@ -66,6 +67,8 @@ summary: English Grammar
 > To organize or solve a problem.
 > Example: I will sort out the files and send them to you.
 
+
+---
 ## others
 * tone   /toʊn/    n.语气，腔调，口吻；气氛，基调，风格；（尤指乐器或电子音响设备的）音质，音色；色调，明暗；  v.使强健，使结实；与……协调，与……相配；变色；用某种调子说；
 > Tone
