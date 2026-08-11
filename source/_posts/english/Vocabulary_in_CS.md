@@ -223,5 +223,25 @@ summary: Vocabulary in Computer Science
 > Default to trivial solution
 > non-trivial adj.非平凡的；重大的，重要的
 
+* shortcut /ˈʃɔːrtkʌt/  n.近路；捷径，快捷方法；（电脑操作中的）快捷方式；（计算机）快捷键； v.通过使用捷径缩短（路线、程序等）；抄近道；
 
-* 
+* varying  /ˈveriɪŋ; ˈværiɪŋ/  v.（大小、形状等）相异；（根据情况）变化；（使）多样化；偏离；（成比例）变化；变异（vary 的现在分词）； adj.不同的；易变的；
+> Varying the Cost Function   调整成本函数
+
+* implicit  /ɪmˈplɪsɪt/  adj.含蓄的，未言明的；内含的，固有的；无疑问的，无保留的；（函数）隐式的，隐的；
+* explicit  /ɪkˈsplɪsɪt/  adj.清楚明白的，明确的，详述的；直截了当的，坦率的；赤裸裸表现性爱（或暴力）的，露骨的； n.结束语；
+> Explicit is better than implicit.
+
+* complicated  /ˈkɑːmplɪkeɪtɪd/   adj.复杂的，难处理的； v.使复杂化，使难以理解；引起并发症（complicate 的过去式和过去分词形式）；
+> complicate  /ˈkɑːmplɪkeɪt/  v.使复杂化，使难以理解；引起并发症；使卷入，使陷入
+* complex /kəmˈpleks/   adj.复杂的，难懂的；组合的，合成的；（句子）复合的；复数的，复的；配合的，络合的； n.综合大楼，建筑群；复合体，综合体；情结；强烈（或过度）的关心（或忧虑）；配合物，络合物；
+> Simple is better than complex.  Complex is better than complicated.
+
+* nested  /ˈnestɪd/  adj.嵌套的，内装的； v.筑巢；嵌入（nest 的过去分词）；
+> Flat is better than nested.
+
+* sparse /spɑːrs/  adj.稀少的，稀疏的；简朴的；
+* dense  /dens/  adj.稠密的；浓密的，浓重的；密度大的；（文字）难懂的；愚钝的，笨拙的；
+> Sparse is better than dense.
+
+* explain  /ɪkˈspleɪn/  v.解释，说明；说明（……的）原因，解释（……的）理由；

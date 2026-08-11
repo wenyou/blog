@@ -5,7 +5,7 @@ comments: false
 date: 2026-05-13 18:17:00
 updated: 2026-05-13 18:17:00
 tags: 典故,故事
-categories: [典故]
+categories: [文化,典故]
 summary: allusion, 典故,文学典故,历史典故,历史轶事,神话典故,成语典故,出处渊源
 ---
 
