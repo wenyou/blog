@@ -27,6 +27,8 @@ summary: English Words in Daily Life
 * donkey  /ˈdɑːŋki/  n.驴；<非正式>蠢人，傻瓜；
 * pigeon  /ˈpɪdʒɪn/  n.鸽子；<非正式，美>（容易）上当受骗的人；<英>（自己的）责任，分内之事；<俚>己方飞机；
 * falcon  /ˈfælkən/  n.隼，猎鹰；
+* donkey  /ˈdɑːŋki/  n.驴；<非正式>蠢人，傻瓜；<非正式>发动机；（尤指在艺术学校中供艺术家跨坐的）低凳；（儿童玩的）换牌纸牌戏；
+
 
 
 ## Plants
@@ -120,6 +122,34 @@ summary: English Words in Daily Life
 ---
 # Others
 * passion  /ˈpæʃ(ə)n/  n.爱恋，情欲；激情，热情；酷爱，热衷的爱好（或活动等）；盛怒，激愤；耶稣的受难（the Passion）；
+
+* divorced  /dɪˈvɔːrst/  adj.离婚的；脱离……的，分离的； v.与（某人）离婚；将……分离；疏远（divorce 的过去式和过去分词）；
+> divorce  /dɪˈvɔːrs/   n.离婚；离婚判决；分开，脱离；  v.与（某人）离婚；使分离，割裂；
+
+* interrupted  /ˌɪntəˈrʌptɪd/   adj.中断的；被打断的；不规则的； vt.打断；中断（interrupt 的过去分词）；
+> interrupt /ˌɪntəˈrʌpt/  v.打断，打扰；使暂停，使中断；阻断，遮挡；
+
+* Also  /ˈɔːlsoʊ/  adv.此外，而且；也，同样；  conj.另外，又；
+> Excuse me, could you place your bag all the way under the seat in front of you? 打扰一下，请您把包完全放到前方座椅底下好吗？
+> Please make sure your seat belt is fastened, your seat back is upright, and your tray table is stowed. 请确认安全带系好、座椅靠背调直、小桌板收起。
+> Also, if you're using your phone, please switch it to airplane mode.  另外，如果您在使用手机，请切换至飞行模式。
+> Got it. 知道了。
+> We'll be taking off shortly. 飞机很快就要起飞。
+> All right. 好的。
+> 
+>> place  /pleɪs/   n.地点，场所；  v.放置；使处于某种境地；以某种态度对待（或看待）；认出，想起；下指示，请求；安置；排名，归类；（赛跑）获前三/四名；定位球得分；证明……在场；
+>> all the way: 完全，彻底，完全塞进去 （ 一直到底，一路上；完全地，彻底地；达到最大程度或最高水平）
+>> seat belt  座椅安全带
+>> fastened   英 /ˈfɑːsnd/  美 /ˈfæstnd/    动词 v.（fasten 的过去式 & 过去分词）扣牢；系紧；拴牢；把… 固定；钉牢；   形容词 adj. 扣紧的、固定牢的;
+>> fasten  /ˈfæsn/   v.关紧，锁好（门窗）；（使）牢固，（使）固定；握住，咬住；盯住……不放，集中注意力于……；缠着，纠缠；系牢，扣紧;
+>> seat back  椅背：椅子或其他座位的背部。
+>> upright   adj.（人）直立的，挺直的；直立的，垂直的，立式的；正直的，诚实的；（椅子）直靠背的，没有扶手的；adv.笔直地，直立地，垂直地；平稳地； n.（起支撑作用的）直柱，立柱，直立部分；球门柱；立式钢琴；
+>> tray table  /treɪ ˈteɪbl/    托盘桌，飞机小桌板
+>> tray  /treɪ/   n.托盘，碟；文件盘，公文格；（各种用途的）浅盘子，浅塑料盒
+>> stowed  /stoʊd/   v.装填，收藏起来；存放；  adj. 收好、归位、收起（stow 的过去分词）
+>> take off （飞机）起飞
+>> shortly adv. 不久，很快
+
 
 
 * alien /ˈeɪliən/  adj.陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）； n.外国人，侨民；外星人（或生物）；（植物或动物种类）外国引进品种；   v.让渡，转让；
@@ -415,3 +445,12 @@ summary: English Words in Daily Life
 * bedroom 卧室
 * living room  客厅
 * hall /hɔːl/  n.礼堂，大厅；门厅；走廊，过道；
+
+---
+# Eating action vocabulary
+![Eating action vocabulary](/images/eatingactionvocabulary.jpg "进食动作词汇")
+* chew  /tʃuː/  v.咀嚼，嚼碎；（为了品尝或因紧张而）不停地嚼，咬；（人或动物）咬，啃； n.咀嚼；口香糖；供嚼用的烟草；咀嚼物；
+
+* bite  /baɪt/  v.咬，咬伤；叮，蜇；卡紧，咬住；产生不良影响；接受，相信；咬饵，上钩；（酸）腐蚀；（物体）刺痛，勒痛；使伤心，使痛苦； n.咬；一口的量；咬伤，叮伤；少量吃的东西，小吃；寒冷，刺骨；浓烈的味道；影响力，感染力；吞饵，上钩；咬合；简短的信息；
+
+* nibble 

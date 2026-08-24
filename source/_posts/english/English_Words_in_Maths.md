@@ -13,6 +13,10 @@ summary: English Words in Mathematics
 
 * Calculus  /ˈkælkjələs/  n.微积分；（数，逻）演算（法），计算（法）；   
 > Ex: calculus course 微积分课程, differential calculus 微分学, integral calculus 积分学；
+> Single Variable Calculus  /  Multivariable Calculus
+> The essence of calculus  微积分的本质
+> essence  /ˈes(ə)ns/  n.本质，要素；香精，香料；
+
 
 * Differential  /ˌdɪfəˈrenʃ(ə)l/  微分   n.微分；差别 adj.微分的；差别的；特异的；
 
@@ -56,6 +60,8 @@ summary: English Words in Mathematics
 * linalg : linear algebra /ˈlɪniər/ /ˈældʒɪbrə/ 线性代数 
 
 * algebra /ˈældʒɪbrə/ n.代数；代数学
+> Linear Algebra 线性代数 
+> Introduction to Linear Algebra  线性代数导论
 
 * linear  /ˈlɪniər/  adj.直线的，线性的；长度的；连续的，连贯的；（关系）直接的，明显的；
 

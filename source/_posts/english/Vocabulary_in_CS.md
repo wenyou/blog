@@ -245,3 +245,10 @@ summary: Vocabulary in Computer Science
 > Sparse is better than dense.
 
 * explain  /ɪkˈspleɪn/  v.解释，说明；说明（……的）原因，解释（……的）理由；
+
+* Information theory and Entropy  信息论与熵
+> theory  /ˈθiːəri/  n.学说，理论；（某一学科基于的）理论，原理；观点，见解；
+> entropy  /ˈentrəpi/    n.[热] 熵（热力学函数）
+
+* HugePages  大页内存
+> huge /hjuːdʒ/  adj.庞大的，极大的；<非正式>很受欢迎的，著名的
