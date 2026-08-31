@@ -2,7 +2,7 @@
 title: 计算机常用提示语programs prompt words
 date: 2014-07-21
 updated: 2014-07-21
-categories: [计算机,English]
+categories: [计算机]
 tags: [English,prompt]
 author: Zeeny
 summary: English常用提示语,English,消息,programs prompt words
