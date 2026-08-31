@@ -120,7 +120,12 @@ summary: English Words in Education
 > graduated  /ˈɡrædʒueɪtɪd/  adj.分等级的，分阶段的；递增的，递进的；（容器或设备）标有刻度的；毕业生的；  v.获得学位（尤指学士），大学毕业；毕业（尤指中学）（graduate 的过去式和过去分词形式）； 
 > graduate  /ˈɡrædʒuət; ˈgrædʒuˌeɪt/  n.大学毕业生，学士学位获得者；毕业生；   v.获得学位（尤指学士），大学毕业；毕业（尤指中学）；授予（某人）学位（或毕业文凭等）；
 
+
 * undergraduate  /ˌʌndərˈɡrædʒuət/ n.大学本科生，大学肄业生；  adj.大学本科生的，大学肄业生的；
+* undergraduates  /ˌʌndərˈɡrædʒʊɪt/   n.本科生，大学生；
+> Courses for Undergraduates  本科生课程
+* graduates  /ˈɡrædʒʊeɪts; ˈɡrædʒuəts/  n.大学毕业生，学士学位获得者；毕业生（graduate 的复数）；
+> Courses for Graduates 研究生课程
 
 
 

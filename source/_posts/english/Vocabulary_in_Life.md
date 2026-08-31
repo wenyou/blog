@@ -118,6 +118,34 @@ summary: English Words in Daily Life
 >
 > 标志性符号: 彩虹旗（Rainbow Flag）是全球 LGBTQ 群体通用象征
 
+* QTY  /ˈkwɑːntəti/  abbr.数量（quantity）
+
+* **货币缩写**
+* CNY 人民币🇨🇳   货币符号：¥
+> **CNY**：国际标准代码；日常写 RMB，单据 / 银行系统只用 CNY
+> 
+* HKD  港币🇭🇰  货币符号：HK$
+* TWD  新台币（中国台湾） NT$
+* SGD 新币 🇸🇬  新加坡元 S$
+* THB： Thai Baht   泰铢🇹🇭，  货币符号：฿
+* JPY  日元 ¥
+* KRW  韩元 ₩
+* MYR  马来西亚林吉特 RM
+* IDR  印尼盾 Rp
+* PHP  菲律宾比索 ₱
+* INR  印度卢比 ₹
+
+* USD  美元 $
+* EUR  欧元 €
+* GBP  英镑 £
+* CHF  瑞士法郎 Fr
+* CAD  加拿大元 C$
+* AUD  澳元 A$
+* NZD  新西兰元 NZ$
+
+* AED 阿联酋迪拉姆
+* SAR 沙特里亚尔
+
 
 ---
 # Others
@@ -149,7 +177,13 @@ summary: English Words in Daily Life
 >> stowed  /stoʊd/   v.装填，收藏起来；存放；  adj. 收好、归位、收起（stow 的过去分词）
 >> take off （飞机）起飞
 >> shortly adv. 不久，很快
+>
 
+* surprise and shine 惊喜与闪耀
+> surprise /sərˈpraɪz/   n.不寻常的事件，意外之事；惊奇，惊讶；令某人意外惊喜的事物（如礼物、旅行等）；出其不意（出人意料）的方法；让人大吃一惊的人； v.使（某人）吃惊；意外发现，当场抓获，突然袭击；给……惊喜，使喜出望外；  int.感到惊奇吧！  adj.令人惊奇的，意外的；
+> shine  /ʃaɪn/  v.（太阳或其他光源）发光，照耀；（用电筒等）照射；（表面）发亮；磨光，擦亮；（眼睛或脸上因快乐而）放光；表现突出，出众； n.光亮，光泽；擦亮；
+
+* theater  /ˈθiːətər/  n.电影院，戏院，剧场；戏剧；手术室；
 
 
 * alien /ˈeɪliən/  adj.陌生的；外国的，异域的；与外星人有关的，与地球外有关的；（植物或动物种类）外来的；不相容的，格格不入的 （alien to）； n.外国人，侨民；外星人（或生物）；（植物或动物种类）外国引进品种；   v.让渡，转让；
@@ -440,11 +474,80 @@ summary: English Words in Daily Life
 * receipt
 
 ---
+# Food
+* Egg and cheese breakfast sub  鸡蛋奶酪早餐三明治
+> sub  /sʌb/  n.<非正式>潜艇；<非正式>替补者，代替者；<非正式>捐赠款，会费；<英，非正式>预支，借支；<美，非正式>代课教师；<美，非正式>潜艇（大型）三明治；<英，非正式>助理编辑，审校人；地铁（sub.）；  v.代替，替补；<英，非正式>预支，借支；<非正式>审校（文稿），对（稿件）作文字加工；分包，转包；
+
+* pork chop
+> chop  /tʃɑːp/  v.剁，砍，劈；大幅削减；强行废止，取消；削（球）； n.（羊或猪）排；剁，砍，劈；掌劈；（人或动物）嘴周围的地方；碎浪；动物饲料；
+
+
+* **fine dining**
+* alcohol  /ˈælkəhɔːl/  n.含酒精饮品，酒；酒精，乙醇；醇
+* alcoholic  /ˌælkəˈhɑːlɪk/  adj.酒精的，含酒精的；酒精中毒的，酗酒的；喝酒引起的，由酒精引起的； n.酗酒者，酒鬼
+> non-alcohol pairing 无酒精搭配  （完整写法：non‑alcoholic pairing）  无酒精餐酒搭配 / 无酒精饮品配餐
+>> fine dining（米其林 / 高级餐厅）术语，代替葡萄酒配餐，整套多道无酒精饮品跟菜品一一匹配，不是简单给一杯果汁、汽水。
+>
+> non‑alcoholic  /ˌnɒnˌælkəˈhɒlɪk/  adj. 不含酒精的
+> pairing n.（餐饮）风味搭配、配餐组合
+>
+> 同义说法（菜单常见）:
+> zero‑proof pairing 零酒精配餐（北美高频）
+> non‑alc pairing（菜单简写）
+> alcohol‑free pairing 无酒精配餐
+>
+> 小背景:
+>> 高级餐厅过去只做葡萄酒 pairing；现在专门做一套无酒精 flight，价格也不便宜，面向开车、不饮酒、孕妇食客。
+
+* PRU Experiences DN   中文： PRU 品鉴套餐・Discovery（探索版）葡萄酒配餐
+> 背景：**PRU** = 普吉岛 Trisara 酒店旗下米其林一星餐厅 PRU（Plant‑Raise‑Understand）
+> 完整原词：**PRU Experience, Discovery Night（DN）**，预订 / 系统内部简写：**PRU Experiences DN**PRU
+>> **PRU Experience**：餐厅核心 tasting menu，整套厨师发办品鉴套餐（晚餐 7 道 / 午餐 5 道）
+>> **DN = Discovery Night** → **Discovery Pairing（探索配餐）**，PRU 两套酒饮配对里的基础葡萄酒套餐（DN 是后台缩写，菜单打印写全称 Discovery Pairing）
+>
+> PRU 3 套配餐（完整对照）
+> **DN｜Discovery Pairing** 【探索配餐】  ： 主打新世界、小众产区，性价比款，6 杯葡萄酒，适合初次到访客人PRU
+> **CS｜Cellar Selection Pairing** 【酒窖甄选配餐】  ： 老酒、名庄、欧洲经典，价格更高的高端酒单PRU
+> **NAP｜Non‑Alcoholic Pairing** 【无酒精配餐】：   non‑alcohol pairing，厨房自制萃取、发酵果汁、草本茶饮，不含酒精
+>
+> 例句（预订系统里的行话）
+> Booking: PRU Experiences DN ×2    => 预订：PRU 品鉴晚餐，选择 Discovery 葡萄酒配餐，2 位
+
+* Sai‑Yok Water 
+> PRU / Trisara 酒店单据、订单 PDF 里的水，**Sai‑Yok = 泰国赛约克矿泉水**
+> **正确名称：Sai‑Yok Mineral Water**    中文：**赛约克天然矿泉水（泰国本土高端矿泉水）**
+> Sai‑Yok /saɪ jɔːk/    赛约克
+> Mineral /ˈmɪnərəl/  n.矿物质；矿物；<英>汽水，苏打水；无机物；矿泉水；  adj.（与）矿物（有关）的；
+> 分两种：
+> **Sai‑Yok Still** 无气矿泉水
+> **Sai‑Yok Sparkling** 气泡矿泉水
+
+* Evian  /ˌeɪˈvjɑːn/  n.法国依云矿泉水；埃维昂（法国小镇）
+
+* **账单字段**
+* sub total — 小计（菜品 + 酒水，未算折扣、服务费、增值税）
+* disc = discount — 折扣
+* service = service charge — 服务费
+* VAT — 增值税
+* total amount — 账单应付总额
+* deposit — 已付定金 / 预收款
+* over deposit — 多付金额、溢缴款（定金付多了，可抵扣或退款）
+* total amount − deposit = 现场还需要补付的钱
+* 如果 deposit ＞ total amount → 产生 over deposit（多付）
+* **DPS = Deposit** 预付定金 / 预收款  ，预先支付定金
+* TIPS  /tɪps/  是小费栏，自愿填写，额外给。
+* cashier /kæˈʃɪr/  n.收银员，出纳员； v.开除，革除（军职）；
+
+
+---
 # At home
 * bathroom  n.浴室，盥洗室；<美>卫生间，厕所；
 * bedroom 卧室
 * living room  客厅
 * hall /hɔːl/  n.礼堂，大厅；门厅；走廊，过道；
+
+* homemade  /ˌhoʊmˈmeɪd/  adj.自制的，家里做的；国产的; 
+
 
 ---
 # Eating action vocabulary
@@ -453,4 +556,6 @@ summary: English Words in Daily Life
 
 * bite  /baɪt/  v.咬，咬伤；叮，蜇；卡紧，咬住；产生不良影响；接受，相信；咬饵，上钩；（酸）腐蚀；（物体）刺痛，勒痛；使伤心，使痛苦； n.咬；一口的量；咬伤，叮伤；少量吃的东西，小吃；寒冷，刺骨；浓烈的味道；影响力，感染力；吞饵，上钩；咬合；简短的信息；
 
-* nibble 
+* nibble /ˈnɪb(ə)l/  v.啃，小口咬；反复轻咬；（对提议或想法）略显兴趣；蚕食；（动物）小口地啃； n.一小口；<非正式>（常为聚会上提供的）点心，小吃（nibbles）；<非正式>对商业机会感兴趣的表示；
+
+

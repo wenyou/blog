@@ -251,4 +251,21 @@ summary: Vocabulary in Computer Science
 > entropy  /ˈentrəpi/    n.[热] 熵（热力学函数）
 
 * HugePages  大页内存
-> huge /hjuːdʒ/  adj.庞大的，极大的；<非正式>很受欢迎的，著名的
+> huge /hjuːdʒ/  adj.庞大的，极大的；<非正式>很受欢迎的，著名的；
+
+* retrieval  /rɪˈtriːv(ə)l/   n.找回，取回；（计算机系统信息的）检索；恢复，挽回；
+* efficient  /ɪˈfɪʃ(ə)nt/   adj.生效的，效率高的；（人）有能力的，能胜任的；
+> efficient retrieval  高效检索
+
+* WPS -> WPS Office
+> W‑Writer（文字）、P‑Presentation（演示 PPT）、S‑Spreadsheet（表格）
+> 旧全称：Word Processing System 文字处理系统
+* spreadsheet  /ˈspredʃiːt/  n.电子制表软件；电子数据表；试算表；
+* presentation  /ˌpriːz(ə)nˈteɪʃ(ə)n/  n.（颁奖等）仪式，典礼；授予，颁发；（在仪式上接受的）奖项，赠予物；展示会，介绍会，发布会；陈述，报告，说明；（事物的）呈现方式；（证件等的）出示；（证物的）提交，提供；（戏剧的）演出；
+
+
+* snapshot  /ˈsnæpʃɑːt/   n.快照；简要说明，大致印象；（计算机）抽点打印；（足球、曲棍球中的）急射，快射；（足球、曲棍球中的）急射，快射； v.拍摄快照，随拍
+
+* piece  /piːs/  n.块，张，片，段；碎片，零件；（成套物品的）部件，部分；（艺术、音乐、戏剧、文学的）一部作品；（报道、新闻、广播的）一篇；份额，一份股权；桩，项，条，件； 一点；（土地的）一块；一段距离；硬币；枪；<苏格兰>（三明治等）小吃； v.拼合，拼装；慢慢理解； 
+
+* scenario /səˈnærioʊ/    n.设想，可能发生的情况 ；（电影、戏剧等的）剧情梗概；（艺术或文学作品中的）场景;
