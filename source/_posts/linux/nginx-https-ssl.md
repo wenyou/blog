@@ -5,7 +5,7 @@ comments: false
 date: 2023-10-21
 updated: 2023-10-21
 tags: [linux,centos,https,ssl,nginx]
-categories: [linux,centos,nginx]
+categories: [nginx]
 summary: centos nginx 配置https 配置SSL证书
 ---
 

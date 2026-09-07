@@ -2,8 +2,8 @@
 title: 常用算法与函数汇总
 date: 2014-10-17
 updated: 2014-10-17
-categories: [计算机,算法]
-tags: [算法,函数]
+categories: [算法]
+tags: [算法,函数,计算机]
 author: Zeeny
 summary: 常用算法与函数汇总
 comments: false

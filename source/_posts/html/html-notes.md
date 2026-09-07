@@ -5,7 +5,7 @@ comments: false
 date: 2023-11-23
 updated: 2023-11-23
 tags: [Html]
-categories: [HTML]
+categories: [Web]
 summary: HTML笔记
 ---
 

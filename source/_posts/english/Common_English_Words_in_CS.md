@@ -5,7 +5,7 @@ comments: false
 date: 2026-03-19 16:25
 updated: 2026-04-09 15:55
 tags: [English,计算机]
-categories: [English,计算机]
+categories: [English]
 summary: Common English Words in Computer Science
 ---
 

@@ -5,7 +5,7 @@ comments: false
 date: 2012-05-30
 updated: 2012-11-08
 tags: [php,静态方法,json,错误处理,中文乱码,验证码]
-categories: [php,错误处理,验证码]
+categories: [php]
 summary: PHP问题与错误处理，出错解决方案。静态方法和实例方法的小漏洞-PHP Strict Standards解决方案
 ---
 

@@ -5,7 +5,7 @@ comments: false
 date: 2020-02-11
 updated: 2020-02-11
 tags: [Html,CSS]
-categories: [HTML,CSS]
+categories: [Web]
 summary: Flex 布局
 ---
 

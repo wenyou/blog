@@ -5,8 +5,8 @@ author: Zeeny
 comments: false
 date: 2026-04-27 10:46:59
 updated: 2026-04-27 11:00:00
-tags: [认知偏差,常见效应,非理性,偏见,非理性]
-categories: [认知,科普,心理]
+tags: [科普,心理,认知偏差,常见效应,非理性,偏见,非理性]
+categories: [认知]
 summary: Some common psychological effects in life,生活中常见的一些心理学效应,社会和认知心理现象、顶级思维
 ---
 

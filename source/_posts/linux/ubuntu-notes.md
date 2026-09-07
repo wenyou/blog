@@ -5,7 +5,7 @@ comments: false
 date: 2015-09-01
 updated: 2015-09-01
 tags: [linux,Ubuntu]
-categories: [linux,Ubuntu]
+categories: [Linux]
 summary: Ubuntu笔记
 ---
 

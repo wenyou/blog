@@ -4,8 +4,8 @@ author: Zeeny
 comments: false
 date: 2024-09-04
 updated: 2024-09-04
-tags: [Web,HTML]
-categories: [Web,HTML]
+tags: [Web,Html]
+categories: [Web]
 summary: Web网页打印多一张空白页问题
 ---
 

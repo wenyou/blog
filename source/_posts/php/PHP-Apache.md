@@ -5,7 +5,7 @@ comments: false
 date: 2009-08-03
 updated: 2009-08-18
 tags: [url重写,apache,php,泛域名,web]
-categories: [php,apache,web]
+categories: [php]
 summary: PHP Apache配置 泛域名应用 Apache php URL重写
 ---
 # PHP Apache  URL 重写

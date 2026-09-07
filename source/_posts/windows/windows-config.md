@@ -5,7 +5,7 @@ comments: false
 date: 2015-05-15 22:47:05
 updated: 2015-05-15 22:47:05
 tags: [windows,cmd,route]
-categories: windows
+categories: Windows
 summary: Windows常用配置、开发配置
 ---
 

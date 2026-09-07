@@ -5,7 +5,7 @@ comments: false
 date: 2013-01-11
 updated: 2013-01-11
 tags: [Html,IE兼容]
-categories: [HTML]
+categories: [Web]
 summary: ie6、7、8下innerHTML获取html内容属性值上的双引号丢失了
 ---
 

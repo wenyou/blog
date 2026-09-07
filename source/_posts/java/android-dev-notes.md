@@ -4,8 +4,8 @@ author: Zeeny
 comments: false
 date: 2014-01-27
 updated: 2014-05-30
-tags: [Android]
-categories: [Java,Android]
+tags: [Android,Java]
+categories: [Android]
 summary: Android开发笔记
 ---
 

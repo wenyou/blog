@@ -5,7 +5,7 @@ comments: false
 date: 2014-12-18
 updated: 2014-12-18
 tags: [Samba,linux,centos]
-categories: [linux,centos]
+categories: [Linux]
 summary: Centos安装Samba服务
 ---
 

@@ -4,8 +4,8 @@ author: Zeeny
 comments: false
 date: 2008-09-01 19:52:32
 updated: 2017-11-24 09:52:32
-tags: 常识
-categories: [物理,科普]
+tags: [物理,常识,科普]
+categories: [科普]
 summary: Entropy熵
 ---
 

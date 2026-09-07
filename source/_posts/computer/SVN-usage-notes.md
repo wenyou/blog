@@ -2,8 +2,8 @@
 title: SVN使用记录
 date: 2015-03-02
 updated: 2015-03-02
-categories: [计算机,开发工具]
-tags: [SVN]
+categories: [开发工具]
+tags: [计算机,SVN]
 author: Zeeny
 summary: SVN使用记录
 comments: false

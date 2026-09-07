@@ -5,7 +5,7 @@ comments: false
 date: 2015-11-21
 updated: 2015-11-21
 tags: [Java,Web,Tomcat]
-categories: [Java,Web]
+categories: [Java]
 summary: 网站最大并发连接数、新建数配置调优
 ---
 

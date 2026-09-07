@@ -5,7 +5,7 @@ comments: false
 date: 2009-07-07
 updated: 2009-07-07
 tags: [Web,JS,Javascript]
-categories: [Web,Javascript]
+categories: [Web]
 summary: firefox、IE的本地图片预览
 ---
 

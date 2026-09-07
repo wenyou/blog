@@ -5,7 +5,7 @@ comments: false
 date: 2014-07-31
 updated: 2014-07-31
 tags: [php,linux,htop,top]
-categories: [php,linux]
+categories: [php]
 summary: 使用htop监控PHP的实时动作
 ---
 

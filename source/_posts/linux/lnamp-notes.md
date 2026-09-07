@@ -5,7 +5,7 @@ comments: false
 date: 2014-09-29
 updated: 2014-09-29
 tags: [lnmp,lamp,php,nignx,apache,linux,centos]
-categories: [linux,php]
+categories: [php]
 summary: LNAMP杂记
 ---
 

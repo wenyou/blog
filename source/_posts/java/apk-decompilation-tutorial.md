@@ -4,8 +4,8 @@ author: Zeeny
 comments: false
 date: 2015-11-14
 updated: 2015-11-14
-tags: [Java,Android,APK]
-categories: [Java,Tomcat]
+tags: [Java,Android,APK,Tomcat]
+categories: [Java]
 summary: APK反编译源码教程
 ---
 

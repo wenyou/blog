@@ -5,7 +5,7 @@ comments: false
 date: 2010-05-13
 updated: 2014-05-13
 tags: [C,C++]
-categories: [C,C++]
+categories: [C]
 summary: C语言学习笔记
 ---
 

@@ -2,8 +2,8 @@
 title: Eclipse使用与常用插件
 date: 2014-12-09
 updated: 2014-12-09
-categories: [计算机,开发工具]
-tags: [Eclipse]
+categories: [开发工具]
+tags: [Eclipse,计算机]
 author: Zeeny
 summary: Eclipse使用：快捷键与常用插件
 comments: false

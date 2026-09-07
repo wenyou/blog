@@ -4,8 +4,8 @@ author: Arun
 comments: false
 date: 2026-08-11 12:17:00
 updated: 2026-08-11 17:30:00
-tags: 典故,故事
-categories: [文化,典故]
+tags: [典故,故事,文化]
+categories: [文化]
 summary: epic,allusion, 史诗,典故,文学典故,历史典故,历史轶事,神话典故,成语典故,出处渊源
 ---
 

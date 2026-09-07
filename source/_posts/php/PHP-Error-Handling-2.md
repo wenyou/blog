@@ -4,8 +4,8 @@ author: Zeeny
 comments: false
 date: 2014-03-14
 updated: 2015-07-21
-tags: [php,错误处理,PGP加密,php函数]
-categories: [php,错误处理,加密]
+tags: [php,错误处理,PGP加密,php函数,加密]
+categories: [php]
 summary: PHP问题与错误处理，出错解决方案。PHP调用gpg加密命令不执行；解决PHP里fopen、file_get_content、get_headers不能解析域名问题
 ---
 

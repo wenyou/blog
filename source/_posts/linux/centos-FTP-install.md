@@ -5,7 +5,7 @@ comments: false
 date: 2015-03-24
 updated: 2015-03-24
 tags: [FTP,linux,centos]
-categories: [linux,centos]
+categories: [Linux]
 summary: Centos安装FTP服务
 ---
 

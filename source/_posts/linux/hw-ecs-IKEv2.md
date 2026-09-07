@@ -5,7 +5,7 @@ comments: false
 date: 2022-03-28
 updated: 2022-03-28
 tags: [linux,centos,ecs,云主机,vpn]
-categories: [linux,centos]
+categories: [Linux]
 summary: 华为ecs云服务器IKEv2 IPSec VPN配置
 ---
 

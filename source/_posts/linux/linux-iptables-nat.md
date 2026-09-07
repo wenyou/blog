@@ -5,7 +5,7 @@ comments: false
 date: 2015-11-23
 updated: 2015-11-23
 tags: [linux,iptables]
-categories: [linux]
+categories: [Linux]
 summary: iptables配置NAT转发
 ---
 

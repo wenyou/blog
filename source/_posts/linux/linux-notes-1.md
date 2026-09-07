@@ -5,7 +5,7 @@ comments: false
 date: 2014-04-15
 updated: 2014-04-15
 tags: [linux,centos]
-categories: [linux]
+categories: [Linux]
 summary: Linux笔记
 ---
 

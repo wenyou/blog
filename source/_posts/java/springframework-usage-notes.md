@@ -5,7 +5,7 @@ comments: false
 date: 2014-12-02
 updated: 2014-12-02
 tags: [Java,Spring]
-categories: [Java,Spring]
+categories: [Java]
 summary: Spring-framework-4.1.2使用
 ---
 

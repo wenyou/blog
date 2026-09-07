@@ -5,7 +5,7 @@ comments: false
 date: 2016-07-08
 updated: 2016-07-08
 tags: [linux,centos]
-categories: [linux,centos]
+categories: [Linux]
 summary: CentOS服务器调优
 ---
 

@@ -5,7 +5,7 @@ comments: false
 date: 2016-01-21
 updated: 2016-01-21
 tags: [linux,centos]
-categories: [linux,centos]
+categories: [Linux]
 summary: CentOS通用系统需要安装的软件
 ---
 

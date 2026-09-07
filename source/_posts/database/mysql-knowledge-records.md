@@ -4,7 +4,7 @@ author: Zeeny
 comments: false
 date: 2015-03-05
 updated: 2015-03-05
-tags: [Mysql]
+tags: [Mysql,数据库]
 categories: 数据库
 summary: Mysql使用知识点记录
 ---

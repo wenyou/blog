@@ -5,7 +5,7 @@ comments: false
 date: 2022-03-27
 updated: 2022-03-27
 tags: [linux,centos,ecs,云主机,vpn]
-categories: [linux,centos]
+categories: [Linux]
 summary: 华为ecs云服务器 l2tp 配置
 ---
 

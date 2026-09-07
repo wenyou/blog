@@ -5,7 +5,7 @@ comments: false
 date: 2016-03-28
 updated: 2016-03-28
 tags: [linux,centos]
-categories: [linux]
+categories: [Linux]
 summary: 装好系统后增加两块500G硬盘扩展/home目录空间
 ---
 

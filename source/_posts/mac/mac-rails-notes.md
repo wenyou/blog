@@ -5,7 +5,7 @@ comments: false
 date: 2014-03-23
 updated: 2014-03-23
 tags: [Mac,ruby]
-categories: [Mac,ruby]
+categories: [Mac]
 summary: Mac调用sudo gem install rails安装rails失败解决办法
 ---
 

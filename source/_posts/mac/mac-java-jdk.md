@@ -5,7 +5,7 @@ comments: false
 date: 2014-12-03
 updated: 2014-12-03
 tags: [Mac,Java,JDK]
-categories: [Mac,Java]
+categories: [Mac]
 summary: Mac Java JDK使用,MACBOOKPro Eclipse Maven Web配置
 ---
 

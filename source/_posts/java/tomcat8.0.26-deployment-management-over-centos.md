@@ -4,8 +4,8 @@ author: Zeeny
 comments: false
 date: 2015-09-01
 updated: 2015-09-01
-tags: [Tomcat,Centos]
-categories: [Java,Tomcat]
+tags: [Java,Tomcat,Centos]
+categories: [Java]
 summary: Tomcat8.0.26 over Centos部署与管理
 ---
 

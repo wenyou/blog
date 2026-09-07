@@ -5,7 +5,7 @@ comments: false
 date: 2015-07-10
 updated: 2015-07-10
 tags: [linux,centos]
-categories: [linux,centos]
+categories: [Linux]
 summary: Centos笔记一
 ---
 

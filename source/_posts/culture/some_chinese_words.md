@@ -5,7 +5,7 @@ author: Arun
 comments: false
 date: 2019-06-05 12:06:02
 updated: 2026-05-14 09:39:00
-tags: 汉语,成语,俗语,网络词
+tags: [汉语,成语,俗语,网络词,文化]
 categories: [汉语]
 summary: Some Chinese words, 汉语词汇，成语，俗语，网络词，新词，网络梗，一些语句拾遗
 ---

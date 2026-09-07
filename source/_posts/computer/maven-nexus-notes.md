@@ -4,8 +4,8 @@ author: Zeeny
 comments: false
 date: 2015-05-06
 updated: 2015-05-06
-tags: [Nexus,Maven]
-categories: [计算机,开发工具]
+tags: [Nexus,Maven,计算机]
+categories: [开发工具]
 summary: Maven Nexus，Maven常见问题，maven私服与eclipse配置
 ---
 

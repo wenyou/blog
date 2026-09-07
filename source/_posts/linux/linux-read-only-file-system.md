@@ -5,7 +5,7 @@ comments: false
 date: 2015-09-07
 updated: 2015-09-07
 tags: [linux,centos]
-categories: [linux]
+categories: [Linux]
 summary: 出现只读文件系统问题
 ---
 

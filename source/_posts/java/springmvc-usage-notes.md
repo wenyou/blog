@@ -5,7 +5,7 @@ comments: false
 date: 2015-02-12
 updated: 2015-02-12
 tags: [Java,Spring,SpringMvc]
-categories: [Java,Spring]
+categories: [Java]
 summary: SpringMVC使用笔记
 ---
 

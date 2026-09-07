@@ -5,7 +5,7 @@ comments: false
 date: 2022-04-25
 updated: 2022-04-25
 tags: [C,C++]
-categories: [C,C++]
+categories: [C]
 summary: VSCode C开发配置
 ---
 

@@ -5,8 +5,8 @@ author: Zeeny
 comments: false
 date: 2023-08-28 15:51:59
 updated: 2023-11-23 15:51:59
-tags: [认知偏差,常见效应,非理性,偏见,非理性]
-categories: [认知,科普,心理]
+tags: [科普,心理,认知偏差,常见效应,非理性,偏见,非理性]
+categories: [认知]
 summary: cognitive bias，认知偏差、认知偏误、认知偏见、常见效应与心理现象，生活中的非理性。
 toc: true
 ---

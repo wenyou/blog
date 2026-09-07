@@ -5,7 +5,7 @@ comments: false
 date: 2018-01-24 11:46:45
 updated: 2023-11-10 11:46:45
 tags: [windows,cmd]
-categories: windows
+categories: Windows
 summary: windows常用命令,windows common commands#
 ---
 

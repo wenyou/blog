@@ -22,3 +22,6 @@ summary: Some phrases and sentences
 >> VP Vance says he feels a little like Macaulay Culkin in "Home Alone" with Trump out of country. The @VP doesn't travel with president outside US. 副总统万斯说，特朗普出国期间，他感觉自己有点像电影《小鬼当家》里的麦考利·卡尔金。副总统不会随总统出访美国境外。
 
 * LIVE UPDATES 实时更新
+
+* What makes you distinguished?  是什么让你与众不同 / 脱颖而出？
+> distinguished  /dɪˈstɪŋɡwɪʃt/   adj.卓越的，杰出的；高贵的，尊贵的；  v.区别，分清；使有别于；看清，认出（distinguish 的过去式和过去分词形式）。

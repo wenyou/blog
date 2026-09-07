@@ -5,7 +5,7 @@ comments: false
 date: 2007-04-13
 updated: 2014-04-13
 tags: [C,C++]
-categories: [C,C++]
+categories: [C++]
 summary: C C++笔记
 ---
 

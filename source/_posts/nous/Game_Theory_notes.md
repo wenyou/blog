@@ -5,8 +5,8 @@ author: Zeeny
 comments: false
 date: 2026-06-12 15:30:59
 updated: 2026-06-12 16:00:00
-tags: [博弈论,认知]
-categories: [博弈论,认知]
+tags: [博弈论,科普,心理,认知]
+categories: [认知]
 summary: 博弈论，研究多方互动、决策相互影响的理论，每个人做选择时，都会预判他人行为、权衡利弊，最终追求自身最优结果。
 ---
 

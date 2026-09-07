@@ -5,7 +5,7 @@ comments: false
 date: 2014-10-10
 updated: 2014-10-10
 tags: [Java,Javaweb,Web,Tomcat]
-categories: [Java,Web]
+categories: [Java]
 summary: Java Web运行环境配置
 ---
 

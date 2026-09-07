@@ -4,8 +4,8 @@ author: Arun
 comments: false
 date: 2024-08-13 22:50:00
 updated: 2024-08-13 22:50:00
-tags: 唐诗
-categories: [诗词,唐诗]
+tags: [唐诗,诗词]
+categories: [诗词]
 summary: 小学生学习用余秋雨推荐50首必读唐诗
 ---
 

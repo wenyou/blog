@@ -5,7 +5,7 @@ comments: false
 date: 2024-03-02
 updated: 2024-03-02
 tags: [Html,CSS]
-categories: [HTML,CSS]
+categories: [Web]
 summary: CSS笔记
 ---
 

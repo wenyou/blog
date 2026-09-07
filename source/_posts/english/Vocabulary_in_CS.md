@@ -6,7 +6,7 @@ comments: false
 date: 2026-06-03 14:44
 updated: 2026-06-03 14:45
 tags: [English,计算机]
-categories: [English,计算机]
+categories: [English]
 summary: Vocabulary in Computer Science
 ---
 
@@ -269,3 +269,38 @@ summary: Vocabulary in Computer Science
 * piece  /piːs/  n.块，张，片，段；碎片，零件；（成套物品的）部件，部分；（艺术、音乐、戏剧、文学的）一部作品；（报道、新闻、广播的）一篇；份额，一份股权；桩，项，条，件； 一点；（土地的）一块；一段距离；硬币；枪；<苏格兰>（三明治等）小吃； v.拼合，拼装；慢慢理解； 
 
 * scenario /səˈnærioʊ/    n.设想，可能发生的情况 ；（电影、戏剧等的）剧情梗概；（艺术或文学作品中的）场景;
+
+* scaling  /ˈskeɪlɪŋ/   n. 名词；v‑ing（scale 的现在分词）
+> 1）通用 / 数学 
+>> **scaling** 缩放；比例变换 
+>> scaling up 放大
+>> scaling down 缩小
+>> scaling transformation 比例变换、缩放变换
+>
+> 2）计算机、IT
+>> **水平扩展 horizontal scaling**：加更多机器 / 服务器（横向扩容）
+>> **垂直扩展 vertical scaling**：给单台机器升级 CPU 内存（纵向扩容）
+>> system scaling 系统扩容、系统可伸缩
+>> scalability  /ˌskeɪləˈbɪləti/   n. 可伸缩性，可扩展性
+> 
+> 3）机器学习 ML
+>> **feature scaling** 特征缩放（数据预处理）
+>> min‑max scaling 最小‑最大归一化
+>> standard scaling 标准化
+>
+> 4）工程 
+>> scaling 结垢；水垢（管道、设备）
+>
+> scale  /skeɪl/   n.刻度；规模；天平；  v.缩放；攀升；
+>
+
+* principle  /ˈprɪnsəp(ə)l/   n.（行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素；
+
+* parallel  /ˈpærəlel/   adj.平行的；相似的，同时发生的；（计算机）并行的；并联的；   n.（人或事物的）相似的手法，共同点；相似的人（或物）；（地球的）纬线，纬圈；（印刷）平行符号； v.与……相似；与……同时发生；与……并行；与……相当，比得上； adv.与……平行； 
+> Parallel and Distributed Database Systems (PDDS)  并行与分布式数据库系统（PDDS）
+
+* consensus  /kənˈsensəs/   n.一致看法，共识；
+
+* consistency  /kənˈsɪstənsi/   n.一致性，连贯性；黏稠度，平滑度；
+
+* durability  /ˌdʊrəˈbɪləti/  n.持久性，耐用性；

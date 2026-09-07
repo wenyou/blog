@@ -5,8 +5,8 @@ author: Zeeny
 comments: false
 date: 2026-05-15 10:30:00
 updated: 2026-05-15 10:30:00
-tags: [经济学,陷阱]
-categories: [认知,科普,经济学]
+tags: [科普,经济学,陷阱]
+categories: [认知]
 summary: The traps in economics,社会生活、国际关系的规律、经济学中常见的一些现象、陷阱、规律、顶级思维
 ---
 

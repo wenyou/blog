@@ -5,7 +5,7 @@ comments: false
 date: 2022-12-02 12:48:15
 updated: 2022-12-02 12:48:15
 tags: [windows]
-categories: windows
+categories: Windows
 summary: Windows使用记录，windows usages
 ---
 

@@ -5,7 +5,7 @@ comments: false
 date: 2019-08-04
 updated: 2019-08-04
 tags: [C,C++]
-categories: [C,C++]
+categories: [C]
 summary: linux C编译运行测试
 ---
 

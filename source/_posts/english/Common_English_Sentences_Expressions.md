@@ -20,3 +20,4 @@ summary: Common English Sentences, Common Expressions, Common Spoken Language
 > Long time no see.  (当面见面专用) 
 > Long time no talk. 好久没联系了（适合微信 / 聊天）  线上好久没聊天、没联系
 > Too long! 好久不见！（极简打招呼）
+
