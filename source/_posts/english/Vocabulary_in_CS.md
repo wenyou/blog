@@ -304,3 +304,26 @@ summary: Vocabulary in Computer Science
 * consistency  /kənˈsɪstənsi/   n.一致性，连贯性；黏稠度，平滑度；
 
 * durability  /ˌdʊrəˈbɪləti/  n.持久性，耐用性；
+
+* infinite  /ˈɪnfɪnət/  adj.无限的，无穷尽的；（数量或程度上）极大的，无穷大的；非限定的； n.（空间或数量的）无穷大（the infinite）；上帝（the infinite）；
+
+* kernel  /ˈkɜːrn(ə)l/  n.（坚果可食用的）仁，核；玉米粒；（陈述、观点、计划等的）核心，要点；（某物的）极小一部分，微量；（计算机操作系统的）核心程序；（语言学）核心句；
+
+* container  /kənˈteɪnər/  n.容器；集装箱，货柜；
+
+* infra  /ˈɪnfrə/   adv.（文书用语）在下；下文；
+> 基础网（Infra）：由很多AP组成的无线网络，整个网络的中心就是由AP，网络中所有的通讯都是由ap进行数据的转换。
+> infra 是 infrastructure 的缩写，中文通常翻译成： 基础设施 / 基础架构；
+> IT 里的 infra 是什么？ 简单说： Infra = 支撑业务软件运行的底层东西。
+> infrastructure  /ˈɪnfrəstrʌktʃər/    n.下面结构；永久性军事设施；基础设施，基础建设；
+> infra team  基础架构团队 / 基础设施团队
+> infra engineer  基础架构工程师
+> IT infrastructure  IT 基础设施
+> cloud infrastructure 云基础设施
+> infrastructure as code（IaC） 基础设施即代码
+> We need to improve our infra.  我们需要改进我们的基础设施/基础架构。
+> AI Infra  支撑 AI 训练、推理和部署的底层基础设施。
+
+
+
+
