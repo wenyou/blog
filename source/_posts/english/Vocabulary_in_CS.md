@@ -324,6 +324,3 @@ summary: Vocabulary in Computer Science
 > We need to improve our infra.  我们需要改进我们的基础设施/基础架构。
 > AI Infra  支撑 AI 训练、推理和部署的底层基础设施。
 
-
-
-
