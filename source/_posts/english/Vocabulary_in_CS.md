@@ -324,3 +324,5 @@ summary: Vocabulary in Computer Science
 > We need to improve our infra.  我们需要改进我们的基础设施/基础架构。
 > AI Infra  支撑 AI 训练、推理和部署的底层基础设施。
 
+
+* duo  /ˈdjuːəʊ/  /ˈduːoʊ/  n.二人表演组合；二人组，一对搭档；二重奏（曲）；二重唱（曲）；
