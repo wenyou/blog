@@ -22,6 +22,17 @@ summary: Common English Sentences, Common Expressions, Common Spoken Language
 > Too long! 好久不见！（极简打招呼）
 
 
+* 不用谢如何表达？
+> No problem.  		（随和） 别放心上
+> No worries.		（洒脱） 这算啥呀
+> Anytime.			（热情） 下次还帮你
+> Happy to help.	（专业） 很乐意帮忙
+> Sure thing.		（轻松） 包我身上
+> My pleasure. 		（优雅） 为您服务是我的荣幸
+>> pleasure  /ˈpleʒər/ n.快乐，满足，欣慰；乐事，趣事；（尤指工作、职责之外的）娱乐，消遣；  adj.游乐的，非公务的；  v.从……中获得乐趣；（使）高兴；
+
+
+
 
 # Others
 * from scratch   adv.从零开始，白手起家
