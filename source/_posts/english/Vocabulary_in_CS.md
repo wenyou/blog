@@ -60,6 +60,9 @@ summary: Vocabulary in Computer Science
 > A language empowering everyone to build reliable and efficient software.  一种能让每个人都能构建出可靠且高效的软件的语言。
 
 * spam  /spæm/  n.垃圾电邮；（斯帕姆）午餐肉（Spam）； v.向……群发垃圾邮件；
+> show probable spam  显示可能的垃圾信息
+> probable  /ˈprɑːbəb(ə)l/  adj.很可能发生（或存在等）的，大概的；  n.可能获胜的人（或动物），可能入选者；
+
 
 * construct /kənˈstrʌkt/ 构造（函数） v.建造，修建；组成，创立，构思；绘制，作图； n.构想，观念；建筑物，创造物；结构体；
 
@@ -326,3 +329,8 @@ summary: Vocabulary in Computer Science
 
 
 * duo  /ˈdjuːəʊ/  /ˈduːoʊ/  n.二人表演组合；二人组，一对搭档；二重奏（曲）；二重唱（曲）；
+
+* architectural  /ˌɑːrkɪˈtektʃərəl/  adj.建筑学的，建筑方面的；与建筑物相似的；
+> API architectural Styles  API 架构风格
+
+* cabinet  /ˈkæbɪnət/  n.内阁；储藏柜，陈列柜；机箱，机壳；  adj.内阁的；

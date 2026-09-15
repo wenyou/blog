@@ -286,6 +286,4 @@ summary: English Words in Mathematics
 > $d_{manhattan}$ = |x₁ - x₂| + |y₁ - y₂|
 > 只能沿横竖网格移动，不能斜着走，像在城市街区走路，所以叫曼哈顿距离。
 
-* 
-
-
+* infinite /ˈɪnfɪnət/   adj.无限的，无穷尽的；（数量或程度上）极大的，无穷大的；非限定的；  n.（空间或数量的）无穷大（the infinite）；上帝（the infinite）
