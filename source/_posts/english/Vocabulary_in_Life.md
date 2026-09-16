@@ -28,6 +28,7 @@ summary: English Words in Daily Life
 * pigeon  /ˈpɪdʒɪn/  n.鸽子；<非正式，美>（容易）上当受骗的人；<英>（自己的）责任，分内之事；<俚>己方飞机；
 * falcon  /ˈfælkən/  n.隼，猎鹰；
 * donkey  /ˈdɑːŋki/  n.驴；<非正式>蠢人，傻瓜；<非正式>发动机；（尤指在艺术学校中供艺术家跨坐的）低凳；（儿童玩的）换牌纸牌戏；
+* beaver  /ˈbiːvər/  n.河狸，海狸；海狸毛皮；勤劳的人；
 
 
 
@@ -362,7 +363,7 @@ summary: English Words in Daily Life
 
 
 ---
-# Basic vs Native*
+# Basic vs Native
 ![Basic vs Native](/images/BasicvsNative.jpg "基础表达 vs 母语者口语对照表")
 > 这些母语者表达大多是非正式用法，适合和朋友、同事日常聊天；写邮件、正式考试时，还是用基础表达更稳妥。
 > 像 ya、yep 这类词，只出现在口语 / 短信里，正式写作中不要使用。
