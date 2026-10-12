@@ -17,6 +17,17 @@ summary: English Words in Daily Life
 > express  /ɪkˈspres/  v.表达，表露；表现，体现；（用数学方法）表示；压榨，挤压出（空气或液体）；特快发运； n.快车；快递；初速大的猎枪；专使；捷运公司； adj.快递的，特快的；明确的；特意的； adv.用快递寄送；
 > Panda Express   熊猫快餐，是一家以美式中餐为主的美国连锁快餐品牌，提供炒饭、炒面、橙皮鸡等适合快速点餐的菜品。
 
+* trait  /treɪt/ n.（人的个性的）特征，特点；遗传特征；一点，少许； 
+> traits  /treɪts/  n.特性，特质，性格（trait 的复数）；（生物学）性状，遗传特征； 
+> traits of a difficult person
+
+* YoE
+> Years of Experience  工作经验年限，海外 / 互联网 / 技术圈简历、招聘 JD 高频缩写
+> 3 YOE = 3 年工作经验 
+> 5+ YOE = 5 年以上经验
+> 2 relevant YOE = 2 年相关工作经验
+
+
 * **Movement mode verb**
 * stroll, stride, jog, sprint, tiptoe, stomp, crouch, leap, crawl
 > 1. **stroll** /strəʊl/  悠闲漫步、闲逛（慢、放松）
