@@ -109,8 +109,17 @@ summary: Vocabulary in Computer Science
 
 * diode   /ˈdaɪoʊd/  n.[电子] 二极管
 * circuit  /ˈsɜːrkɪt/    n.电路，回路；巡回活动，巡回地；环道，环线；巡回赛；赛车道； v.（绕……）环行；
-* simulator  /ˈsɪmjuleɪtər/  n.模拟器；假装者，模拟者；
+* simulator  /ˈsɪmjuleɪtər/  n.模拟器，模拟装置；仿真器；假装者，模拟者；
 > Diode Circuit Simulator   二极管电路模拟器
+
+* emulator  /ˈemjuleɪtər/  n.（计算机）仿真器，模拟器；竞争者，模仿者；
+> embedded board emulator 嵌入式板卡模拟器
+* emulation  /ˌemjuˈleɪʃn/  n.仿效，模仿；仿真；
+
+* firmware  /ˈfɜːrmwer/  n.固件，韧体，韧件（嵌入硬件设备中用于控制设备运行的程序，通常存储在只读存储器或闪存中）；
+
+* silicon  /ˈsɪlɪkən/  n.硅（一种化学元素，符号为 Si）；
+
 
 * mute  /mjuːt/   adj.缄默的，沉默的；哑的，不会说话的；无声的，宁静的；（字母）哑音的，无音的； n.弱音器；哑巴；闭锁音；  v.消音，减音；减弱，缓和；关闭声音；
 
@@ -363,3 +372,192 @@ summary: Vocabulary in Computer Science
 
 * dongle  /ˈdɑːŋɡl/  n.（计算机、消费电子）插入电脑、电视等设备的小型电子装置，用于实现蓝牙、Wi‑Fi 连接、移动上网或媒体播放等功能；（计算机）插在计算机上防止软件被非法复制的加密硬件，又称加密狗、电子狗、软件狗。
 
+* iburst  爆发
+> burst /bɜːrst/  v.爆炸，爆裂，胀开；冲，闯，突然出现；猛然打开；充满，满怀（be bursting with）；决堤；突然活跃起来；突然发生，突然发作；分页，断纸； n.突发，迸发；爆裂，裂口；一阵短促的射击；
+> iburst（NTP /chrony 里的参数，运维常用）, Ex: server ntp.aliyun.com iburst
+> iburst = 启动瞬间快速爆发发包，加速初次时间同步
+> 不加 iburst：按默认轮询间隔（minpoll，默认 6=64 秒）慢慢发包，刚开机要很久才能对齐时间
+> 加 iburst：**服务可达时，立刻连续快速发送 4 个数据包（间隔约 2s）**，短时间拿到时间，开机快速校时；**一旦完成首次同步，后续就恢复正常轮询策略，不会一直高频发包**
+> `iburst`：**只在启动 / 首次同步时爆发发包**，推荐绝大多数场景使用，安全
+> `burst`：**正常运行期间也会批量发包**，会增加 NTP 服务器压力，**公网 NTP 池一般禁止使用 burst**，内网服务器才考虑
+> iburst：开机快同步；burst：平时也狂发包，公网慎用。
+
+* apex  /ˈeɪpeks/  n.顶点，最高点；（几何）顶点；（植）芽苗的顶端；最高职位，最高地位；巅峰，全盛时期；（赛车）拐弯时离赛道边缘最近的点； v.达到顶峰（或高潮）；（赛车）近边缘拐弯；
+
+* psychology  /saɪˈkɑːlədʒi/  n.心理学；心理特点，心理状态；心理影响；心计，善解人意；
+
+* enhance  /ɪnˈhæns/   v.增强，提高，改善；
+
+* strict  /strɪkt/ adj.要求严格的，严厉的；（命令或规则）必须严格遵守的；严谨的，精确的，严密的；恪守教规的，严格的；完全的，彻底的，绝对的;
+> Strict Mode  严格模式
+
+* elastic  /ɪˈlæstɪk/  adj.有弹性的；灵活的；  n.弹性织物，松紧带；
+> Elasticsearch   一种基于 Apache Lucene 的分布式搜索与分析引擎
+
+* animation  /ˌænɪˈmeɪʃ(ə)n/   n.活力，生气，热烈；动画片，动画游戏；动画制作；
+
+* energy  /ˈenərdʒi/  n.能力，力气；精力，活力；能源；能，能量；
+* panel  /ˈpæn(ə)l/  n.专家咨询组，专题讨论小组；（门等的）镶板，嵌板；控制板，仪表盘；（车身的）金属板；（衣服上的）镶条，饰片；画板； v.用（木板、金属板等）覆盖，镶；
+> energy panel 能源板：指能够产生、储存或转换能源的面板状装置
+> Touch-LCD-4B energy panel 触摸屏LCD-4B电源面板
+
+* vent  /vent/  n.通风孔，排气口；（衣物的）开衩，衩口；(鸟、鱼等小动物的）肛门；（强烈情绪或能量的）发泄，表达；火山口； v.表达，发泄（强烈感情）；排放（烟、煤气等）；给……一个出口，给……提供排放口；
+> **通风口；排气孔；通气孔**（机械 / 设备最常用）
+>> an air vent 通风口 
+>> The vent is blocked. 排气孔堵了。
+>
+> （西装、裙子的）开衩，背衩
+>> a jacket with a rear vent 后开衩外套
+>
+> （情绪）发泄出口
+>> give vent to anger 发泄怒火
+
+
+* series  /ˈsɪriːz/  n.连续，一系列（事件）；（电视、广播等的）系列片，系列节目；丛书，系列出版物；（两队之间的）系列比赛；（电路的）串联；（同时发行的）一套邮票（或货币、硬币）；（由某一公司推出的）系列产品，（尤指）汽车系列；（年代地层学用语）统；（元素的）系；级数，序列项的总和；有共同特征的一组语音，系列（音）；音列；
+> Emulator for ESP32 Series SoCs  ESP32系列SoC模拟器
+
+* repo  /ˈriːpoʊ/  代码仓库（code repository，常简称 repo）是用于集中存放项目代码、文档、配置文件和版本历史，并支持协作开发的项目空间。repo 是 repository 的非正式简称，尤其常见于 Git、GitHub、GitLab 等开发语境；它有时也可泛指其他资源仓库，但程序员交流中通常默认指代码仓库。
+> repository  /rɪˈpɑːzətɔːri/  n.贮藏室，仓库；自然资源丰富的地区；（电脑）数据库；喻为知识宝库的人（或物）
+> 常译为“存储库”或“仓库”，可指集中保存资料的地方或系统；在软件开发中集中存放和管理代码及相关文件的仓库。
+
+* distribute  /dɪˈstrɪbjuːt/  v.分发，分配；配送，分销；散布，使分布；（印刷）拆（版）还字；周延；
+> distribute 作动词，常译为“分发、分配；使分布、散布”。
+
+* inject  /ɪnˈdʒekt/  v.注射；（给……）添加，增加（某品质）；投入（金钱或资源）；（往物质、装置中）注入或射入（电流、粒子束等）；将（宇宙飞船等）射入轨道（或弹道）；
+
+* PSRAM : Pseudo Static Random Access Memory，伪静态随机存储器
+> 一句话概括：**内核是 DRAM，但芯片内部自带自刷新电路，对外表现成 SRAM**，MCU 不用管刷新，直接读写
+
+* thumbnails  /ˈθʌmˌneɪlz/   n.（计算机）缩略图；拇指甲（均为 thumbnail 的复数形式）；
+* thumbnail  /ˈθʌmneɪl/  n.拇指指甲，拇指甲；（计算机）缩略图，略图，缩图；极小的东西；短文，概述；  adj.（作定语）极小的，极短的；简要的，概括的；
+
+* alarm  /əˈlɑːrm/  n.警报；警报器；闹钟；惊恐，担忧；  v.使不安，使恐慌；给（门等）安装警报器；
+
+* reveal  /rɪˈviːl/  v.揭示，透露；表明，证明；展示，显示； n.（电视节目最后的）揭示；门侧，窗侧；
+> Your photos reveal a lot of private information. 你的照片泄露了大量私人信息。
+
+* grok  /ɡrɒk/  /ɡrɑːk/   vt.<非正式>凭直觉深刻了解，心领神会；欣赏；神交；  vi.心意相通，与……神交；
+
+* annual  /ˈænjuəl/  adj.一年一度的；年度的；（植物）一年生的；  n.一年生植物；年刊，年鉴；
+* monthly  /ˈmʌnθli/  adj.每月的，每月一次的；按月支付的，按月计算的；（票、通行证等）有效期为一个月的；  n.月刊；  adv.每个月，每月一次；
+
+* experiment  /ɪkˈsperɪmənt/   n.实验，试验；尝试，实践；  v.进行实验，做试验；试，尝试；
+
+* inferred  /ɪnˈfɜːrd/  adj.推论的，推测出的；  v.推测（infer 的过去式和过去分词）；
+> infer  /ɪnˈfɜːr/  v.推断，推论；暗示，暗指；
+
+* advisory  /ədˈvaɪzəri/   adj.顾问的，咨询的；  n.官方警告；警报；
+* critical  /ˈkrɪtɪk(ə)l/  adj.批判的，爱挑剔的；极其重要的，关键的；严重的，危急的；病重的，重伤的；评论性的，评论家的；临界的；
+* vulnerabilities  /ˌvʌlnərəˈbɪlɪtiz/  n.弱点，缺陷，脆弱点（vulnerability 的复数形式）；（计算机及信息安全）系统漏洞，安全缺陷；
+* vulnerability  /ˌvʌlnərəˈbɪləti/  n.易损性，弱点；（桥牌）局况；
+> Security advisory: Critical remote code execution vulnerabilities, update now
+
+* obsidian   /əbˈsɪdiən/  n.黑曜石，黑曜岩（由熔岩迅速冷却形成的天然火山玻璃质岩石，多为黑色或深色，断口锋利）；黑曜石娱乐（Obsidian Entertainment 的简称，美国电子游戏开发公司）
+> Obsidian 笔记软件是一款以本地 Markdown 文件为基础、用于记笔记和组织知识的软件。
+
+* expose  /ɪkˈspoʊz/   v.暴露，使显露；使面临，使遭受（危险或不快）；揭露，揭发；接触，体验；露出，显露（感情）；使（胶卷）曝光；  n.揭露，曝光；
+> expose_php 确定是否向外界公开服务器上安装了 PHP，在 HTTP 标头中包含 PHP 版本号（例如：X-Powered-By: PHP/5.3.7）。
+
+* patient   /ˈpeɪʃ(ə)nt/   adj.能忍耐的，有耐心的；  n.病人，患者；（语言学）受动者，承受者；
+> Be patient  保持耐心
+
+* tray  /treɪ/  n.托盘，碟；文件盘，公文格；（各种用途的）浅盘子，浅塑料盒；
+> tray menu manager for Wampserver   WampServer 的托盘菜单管理器
+> tray menu 托盘菜单：计算机软件中，位于系统托盘区域的一个下拉菜单，用户可以通过点击或右键点击托盘图标来访问。
+
+* patch  /pætʃ/  n.补丁，补片；（保护受伤眼睛的）眼罩；药膏，胶布；小片，碎片；（软件的）补丁程序； vt.修补，缝补；（计算机）（用补丁对程序进行）修正，打补丁；解决；拼凑，匆匆制成；
+
+* bailout  /ˈbeɪlaʊt/  n.紧急救助，纾困，紧急财政援助；跳伞，弃机跳伞；
+
+* corruption  /kəˈrʌpʃ(ə)n/  n.贪污，腐败；堕落，腐蚀；（电脑上资讯的）破坏，损坏；（语言）变体；
+
+* OOM  /um/  abbr. OOM（out of memory，计算机）内存不足，内存溢出；OOM（out of mana，游戏）魔法耗尽，空蓝；
+
+* CVE = Common Vulnerabilities and Exposures，通用漏洞与披露编号
+> 由 MITRE 主导的全球统一漏洞编号体系，**一个漏洞一个 CVE 编号**，方便所有人统一称呼同一个漏洞。
+> 编号格式: 
+>	`CVE-年份-序列号`
+> 	示例：`CVE-2021-41773`（Apache 路径穿越）、`CVE-2024-21762`（Fortinet RCE）、CVE-2026-109618  （php RCE via OOM corruption）
+> 	年份 = **编号预留 / 公开的年份**，不一定是漏洞被挖到的年份；序列号现在可以超过 4 位（CVE-2025-123456）
+> 
+> CNA（CVE 编号机构）
+> CNA = CVE Numbering Authority
+>	厂商、安全团队、漏洞平台（微软、谷歌、阿里云等）都是 CNA，负责申请、分配 CVE 并提交漏洞详情。、
+> 
+> 三种状态:
+> 	1. **Reserved（预留）**：拿到号，但细节暂不公开（漏洞协调阶段）
+> 	2. **Published（已发布）**：公开漏洞描述、受影响版本、参考链接
+> 	3. **Rejected（驳回）**：不是漏洞、重复上报、误报，作废这个 CVE 号
+>
+
+* RCE = Remote Code Execution，远程代码执行
+> **攻击者通过网络，在目标机器上跑任意自己的代码**，属于漏洞的最终结果（不是内存 bug 本身）。
+> 区分两个细分叫法：
+> 	RCE（代码执行）：执行目标进程架构的原生代码（机器码 /shellcode），PWN 里常说的 RCE 就是这个
+> 	RCE（命令执行，有时简写为 CMD 注入）：调用系统 shell 命令，比如 `ls`、`whoami`，Web 里多见
+>
+
+* UAF： use-after-free 释放后重用
+> UAF = Use-After-Free（释放后重用漏洞，CWE-416）
+> 一句话：**内存已经 free 释放了，但程序还拿着悬空指针（dangling pointer）去读写这块内存**，C/C++ 最常见的堆漏洞。
+> dangling  /ˈdæŋɡlɪŋ/  adj.悬挂的；摇摆的；<喻>悬而未决的，使人心神不定的； v.悬挂；摇晃（dangle 的现在分词）；
+> dangle  /ˈdæŋɡ(ə)l/  v.（使）悬垂，（使）悬荡；用（诱惑物）来诱惑（或激励）某人；
+>> **简单流程**
+>> 1. `malloc` 分配内存，拿到指针 `p`
+>> 2. `free(p)`，内存归还分配器，但**指针 p 没有置 NULL，还保留原来地址** → 悬空指针
+>> 3. 后续代码继续用 `*p` 读 / 写 / 调用函数，就是 UAF
+>> 4. 这块内存可能已经被别的对象占用；攻击者可以堆喷（heap grooming），把可控数据放到这里，实现代码执行、提权、信息泄露
+>>
+>> **危害**
+>>	- 轻则程序崩溃
+>> - 重则远程代码执行 RCE，是 PWN、浏览器漏洞里高频的洞
+>>
+>> **最简示例**
+>> ```char *p = malloc(8);```
+>> ```free(p);```
+>> ```*p = 0x1234;   // ✅ 这里就是UAF！```
+>> 
+> 
+
+* fatal /ˈfeɪt(ə)l/  adj.致命的；导致失败的，灾难性的；
+
+* destructor   /dɪˈstrʌktər/  n.垃圾焚毁炉；（军事）爆炸装置（导弹、火箭等的自毁装置）；（计算机）析构函数；
+
+* gadget  /ˈɡædʒɪt/  n.小器具，小玩意儿；
+> gadget 是名词，常译为“小工具”“小装置”或“小玩意儿”，指小巧、实用或新奇的装置，尤其常指便携式电子产品。
+
+* harness  /ˈhɑːrnɪs/  v.控制并利用；（把动物）拴在一起（或拴到某物上）；给（马）套上挽具；连接，串联； n.（马的）挽具，马具；系带，吊带；日常工作；
+> 在 AI 和软件开发语境中，harness 常可理解为“测试框架、运行框架”或“编排层”，通常作名词，指围绕模型、智能体或程序搭建，用来提供输入、连接工具或运行环境，并记录、测试和评估其输出的外部框架。
+
+* fallible  /ˈfæləb(ə)l/  adj.易犯错误的，可能出错的；不可靠的；
+
+* ragebait（也写作 rage bait /rage-bait） /ˈreɪdʒ beɪt/   n.愤怒诱饵：指蓄意激发愤怒以博取流量的网络内容。
+> 中文：**愤怒诱饵**（2025 牛津年度词汇）
+> 定义： 刻意设计出来、用来激怒 / 冒犯观众、挑起争吵的网络内容；目的是靠愤怒带来的评论、转发、对线拉高互动、赚流量收益。
+> 牛津原文：online content deliberately designed to elicit anger or outrage by being frustrating, provocative, or offensive, typically posted in order to increase traffic or engagement.
+>
+
+* deprecated /ˈdeprəkeɪtɪd/  vt. deprecate 的过去式和过去分词：强烈反对，抨击，对……表示不赞成；贬低，轻视； adj.（计算机）已弃用的，不推荐使用的；
+> Deprecated: Optional parameter $pagesize declared before required parameter $list_num is implicitly treated as a required parameter in test.php on line 1570  已弃用：在 test.php 第 1570 行中，可选参数 $pagesize 在必需参数 $list_num 之前声明，会被隐式视为必需参数
+
+* optional  /ˈɑːpʃən(ə)l/   adj. 可选择的，选修的，非必需的； 
+
+* declared /dɪˈklerd/  adj. 正式宣布的，公开声明的；  v. 公布，宣告；声称，宣称；申报（declare 的过去式和过去分词形式）；
+> declare  /dɪˈkler/  v.宣布，声明；断言，宣称；申报；放弃击球，宣布结束赛局；
+
+* implicitly  /ɪmˈplɪsɪtli/  adv. 含蓄地，暗中地；绝对地；
+
+* treated  /ˈtriːtɪd/  v. treat 的过去式和过去分词：治疗；对待、看待；处理、加工；款待、招待；  adj. treat 的过去分词作形容词：经治疗的；已处理过的；
+> treat  /triːt/  v.对待，看待；治疗，医治；请客，招待；（利用化学物质或反应）处理，保护；把……看作，把……视为；处理，探讨，论述；做使自己快乐的事；把（某物）给某人以示好感；提供（娱乐）；（尤指与对手）商谈，谈判；  n.（不同一般的）乐事，享受；款待，招待；请客，做东；零食；
+
+
+* Fatal /ˈfeɪt(ə)l/  adj. 致命的；导致失败的，灾难性的；
+> Fatal error: Array and string offset access syntax with curly braces is no longer supported in test.php on line 2653  致命错误：在 test.php 第 2653 行中，使用花括号访问数组和字符串偏移量的语法已不再被支持
+* syntax  /ˈsɪntæks/  n. 句法，句法规则；（计算机语言的）句法，语构；句子结构分析法；句法学；
+* curly  /ˈkɜːrli/  adj. （头发）卷曲的，鬈曲的；弧形的，螺旋形的；（木材）有皱状纹理的；
+* braces  /ˈbreɪsɪz/  n. <英>背带，吊带；牙齿矫正器，牙箍，牙套；（医学）腿部支架，矫形支架；（建筑或工程）加固用支撑件，支架；（计算机、数学和排版）花括号，大括号；
+> curly braces n.花括号，大括号
+
+* uncaught  adj.没被抓住的，没被捕获的；
+* assign  /əˈsaɪn/ v.分派，布置（工作、任务）；分配（某物）；指派，派遣；确定（价值、功能、时间、地点）；转让（财产、权利）；
+> Fatal error: Uncaught TypeError: Cannot assign null to property Exception::$file of type string in test.php on line 2184 致命错误：未捕获的类型错误：在 test.php 第 2184 行，无法将 null 赋值给类型为 string 的 Exception::$file 属性

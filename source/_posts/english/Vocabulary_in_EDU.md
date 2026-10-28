@@ -29,6 +29,9 @@ summary: English Words in Education
 
 * proficiency  /prəˈfɪʃ(ə)nsi/  n.熟练，精通；
 
+* physics  /ˈfɪzɪks/  n.物理学；物理特性，物理现象；
+* canvas  /ˈkænvəs/  n.帆布；画布，油画； v.用帆布覆盖；
+
 
 
 # Institutions and Academic System (Institutions & Academic Calendar)

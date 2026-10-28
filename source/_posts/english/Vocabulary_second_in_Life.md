@@ -10,6 +10,12 @@ categories: [English]
 summary: English Words in Daily Life
 ---
 
+* ESL Learners : English as a Second Language Learners  英语作为第二语言的学习者
+> **ESL**：English as a Second Language   通常指身在英语国家、在当地学习英语的人（移民、留学生等），英语是第二语言
+> **EFL**：English as a Foreign Language  英语作为外语学习者（比如国内学生，日常环境不用英语）
+> The textbook is designed for ESL learners. 这本教材是为英语二语学习者编写的。
+
+
 * fairy   /ˈferi/  n.仙子，小精灵；兔子（对男同性恋者的蔑称）；仙蜂鸟； adj.仙女的；
 > a fairy story 一个童话故事
 
@@ -20,6 +26,21 @@ summary: English Words in Daily Life
 * trait  /treɪt/ n.（人的个性的）特征，特点；遗传特征；一点，少许； 
 > traits  /treɪts/  n.特性，特质，性格（trait 的复数）；（生物学）性状，遗传特征； 
 > traits of a difficult person
+
+* lush  /lʌʃ/  adj.茂盛的，郁郁葱葱的；豪华的，奢侈的；性感的，迷人的；（色彩，音乐）非常华丽的，赏心悦目的； n.酒； v.喝（酒等液体）； 
+> a lush tree  茂盛的树
+
+* boost  /buːst/  v.使增长，推动；<美，非正式>偷窃；宣扬，推广；  n.推动，促进；广告，宣扬；
+
+* soil  /sɔɪl/  n.泥土，土壤；（可供某物发展的）土壤，温床；国土，领土；<文>耕作，务农（the soil）；粪便；  v.弄脏，玷污；
+> loamy soil   壤土：一种肥沃的土壤，由粘土、沙子和腐殖质混合而成，适合种植各种植物。
+> loamy  /ˈloʊmi/  adj.肥沃的；
+> clay soil  黏土土壤：含有高比例细颗粒和胶质物质的土壤，在湿润时变得黏滞。
+> clay /kleɪ/  n.黏土，陶土；（网球场的）硬固泥地，红土网球场；<文>肉体；似黏土的东西； v.用黏土处理；
+> sandy soil  沙质土壤：由于含有大量的沙粒而呈现出疏松、透气、排水性好的特点。
+
+
+
 
 * YoE
 > Years of Experience  工作经验年限，海外 / 互联网 / 技术圈简历、招聘 JD 高频缩写
