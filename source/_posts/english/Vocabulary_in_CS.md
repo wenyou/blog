@@ -557,7 +557,13 @@ summary: Vocabulary in Computer Science
 * curly  /ˈkɜːrli/  adj. （头发）卷曲的，鬈曲的；弧形的，螺旋形的；（木材）有皱状纹理的；
 * braces  /ˈbreɪsɪz/  n. <英>背带，吊带；牙齿矫正器，牙箍，牙套；（医学）腿部支架，矫形支架；（建筑或工程）加固用支撑件，支架；（计算机、数学和排版）花括号，大括号；
 > curly braces n.花括号，大括号
+>
+> declaration /ˌdekləˈreɪʃn/ n.声明，表白；申报（单）；（板球）对一赛局结束的宣布；公告，宣告；
+> compatible  /kəmˈpætəb(ə)l/  adj. 兼容的；可共存的；可和睦相处的；与……一致的；   n.兼容性计算机；
+> Fatal error: Declaration of ezSQL_mysql::connect($dbuser, $dbpassword, $dbhost, $pconnect) must be compatible with ezSQL_core::connect() in ez_sql_mysql.php on line 83 致命错误：在 ez_sql_mysql.php 第 83 行，ezSQL_mysql：：connect($dbuser， $dbpassword， $dbhost， $pconnect) 的声明必须与 ezSQL_core：：connect() 兼容
+>
 
 * uncaught  adj.没被抓住的，没被捕获的；
 * assign  /əˈsaɪn/ v.分派，布置（工作、任务）；分配（某物）；指派，派遣；确定（价值、功能、时间、地点）；转让（财产、权利）；
 > Fatal error: Uncaught TypeError: Cannot assign null to property Exception::$file of type string in test.php on line 2184 致命错误：未捕获的类型错误：在 test.php 第 2184 行，无法将 null 赋值给类型为 string 的 Exception::$file 属性
+>
