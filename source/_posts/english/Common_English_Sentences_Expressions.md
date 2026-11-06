@@ -39,3 +39,6 @@ summary: Common English Sentences, Common Expressions, Common Spoken Language
 
 * right in 就在
 > Right in your browser.  就在你的浏览器里。
+
+* in deep shit  陷入麻烦：处于非常困难或麻烦的境地，通常是由于自己的错误或不幸的事件。
+> I'd have been in deep shit.

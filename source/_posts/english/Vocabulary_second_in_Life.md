@@ -38,6 +38,15 @@ summary: English Words in Daily Life
 > clay soil  黏土土壤：含有高比例细颗粒和胶质物质的土壤，在湿润时变得黏滞。
 > clay /kleɪ/  n.黏土，陶土；（网球场的）硬固泥地，红土网球场；<文>肉体；似黏土的东西； v.用黏土处理；
 > sandy soil  沙质土壤：由于含有大量的沙粒而呈现出疏松、透气、排水性好的特点。
+>
+
+* EQ 
+> abbr. 情商（Emotional Quotient）
+> abbr. Erotic Quotient  情欲指数
+> emotional  /ɪˈmoʊʃən(ə)l/  adj.情感的，情绪的；激动人心的，有感染力的；情绪激动的（尤指哭泣），情感流露的；（人）易动感情的，感情用事的；
+> erotic  /ɪˈrɑːtɪk/ adj. 色情的；性爱的；性欲的；   n. 好色之徒；
+> quotient  /ˈkwoʊʃ(ə)nt/  n.程度，系数；（数学中的）商；份额；
+>
 
 
 

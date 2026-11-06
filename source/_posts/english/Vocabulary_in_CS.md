@@ -460,6 +460,8 @@ summary: Vocabulary in Computer Science
 
 * patient   /ˈpeɪʃ(ə)nt/   adj.能忍耐的，有耐心的；  n.病人，患者；（语言学）受动者，承受者；
 > Be patient  保持耐心
+> be patient with sb. 对...有耐心
+> to be patient 要忍耐
 
 * tray  /treɪ/  n.托盘，碟；文件盘，公文格；（各种用途的）浅盘子，浅塑料盒；
 > tray menu manager for Wampserver   WampServer 的托盘菜单管理器
