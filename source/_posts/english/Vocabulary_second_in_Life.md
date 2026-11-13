@@ -48,6 +48,20 @@ summary: English Words in Daily Life
 > quotient  /ˈkwoʊʃ(ə)nt/  n.程度，系数；（数学中的）商；份额；
 >
 
+* apology  /əˈpɑːlədʒi/  n.道歉；（因不能赴会的）道歉信；辩护，辩解；勉强（或不适当的）替代物；
+> I owe my family and all of you a apology.
+> owe  /əʊ/  /oʊ/  v.欠（钱），负账；应该做，应给予；欠（人情），应该感激；归因于，归功于；
+>
+
+* victim  /ˈvɪktɪm/  n.受害者，罹难者；（面对不幸事件或虐待时的）无助者，患病者；牺牲品，祭品；受骗者；
+* honeypot  /ˈhʌnipɑːt/   n.装蜜的罐子，贮蜜罐；极有吸引力的事物或地方；（网络安全）蜜罐，指故意暴露以诱捕、监测攻击者的系统或资源；
+> victim of honeypot  蜜罐受害者
+
+* spy  /spaɪ/  n.间谍，密探；暗中监视者； v.从事间谍活动；突然看见，认出；秘密监视；探明，查明； adj.（卫星、飞机）执行间谍任务的；
+
+* insane  /ɪnˈseɪn/  adj. 疯癫的，精神失常的；蠢极的，荒唐的；
+> fucking insane  简直疯狂到不行
+
 
 
 

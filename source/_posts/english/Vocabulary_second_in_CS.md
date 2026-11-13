@@ -58,3 +58,23 @@ summary: Vocabulary in Computer Science
 * verified  /ˈverɪfaɪd/ adj.已查清的，已证实的；  v.证明，核实，证实（verify 的过去式和过去分词）；
 > verify  /ˈverɪfaɪ/  v. 核实，查证；证明，证实；
 
+* poly  /ˈpɑːli/   n.（非正式）理工院校，工艺专科学校（polytechnic 的简称）；聚乙烯（polythene 的简称）；涤纶，聚酯纤维（polyester 的简称）
+> low-poly 低多边形：一种计算机图形学中的技术，通过减少模型的多边形数量来降低模型的复杂度，从而提高渲染效率。
+
+* HDR: High Dynamic Range, 高动态范围
+> 更大亮度区间、更多色彩层次，更贴近人眼真实观感。  手机拍照界面的 HDR 开关, 相册里的 HDR 标识。 拍照时的 HDR, 是相机对着同一个场景拍几张曝光不同的照片. 欠曝的留住亮部细节, 过曝的留住暗部细节, 再合成一张明暗都看得见的照片。
+> dynamic  /daɪˈnæmɪk/  adj.充满活力的，精力充沛的；动态的，发展变化的；力的，动力的；  n.动力，活力；相互作用，动态；动力学；
+> SDR：Standard Dynamic Range，标准动态范围，传统老标准，早年 CRT 电视沿用至今。
+> **HDR 效果 = HDR 片源 + 支持 HDR 的屏幕 + 系统 / 播放器开启 HDR**。 只有片源是 HDR、屏幕硬件支持 HDR，才能看到提升；普通 SDR 屏强行播放 HDR，画面会发灰、偏色、白茫茫。
+> 4K 是分辨率，HDR/SDR 是光影色彩标准，二者互不绑定：可以 4K SDR，也可以 1080P HDR。
+> SDR 是老的 “压缩版光影”；HDR 是能同时看清亮处云彩、暗处阴影的完整版光影。
+> 常见 HDR 格式：
+>> 1. **HDR10**：免费开源，静态元数据，最通用
+>> 2. **Dolby Vision（杜比视界）**：动态元数据，逐帧优化，效果上限最高，需要授权
+>> 3. **HLG**：广电直播用，向下兼容 SDR 设备
+>
+> 光的亮度单位: nit(尼特)。 尼特（亮度单位，1 尼特等于每平方米 1 坎德拉）。
+>> 一根蜡烛的火焰大概是 0.5 nit, 阴天的天空大概是 200 nit, 而太阳表面是 16 亿 nit。
+>
+
+* CUDA:  Compute Unified Device Architecture
