@@ -77,4 +77,24 @@ summary: Vocabulary in Computer Science
 >> 一根蜡烛的火焰大概是 0.5 nit, 阴天的天空大概是 200 nit, 而太阳表面是 16 亿 nit。
 >
 
-* CUDA:  Compute Unified Device Architecture
+* CUDA:  Compute Unified Device Architecture, 是 NVIDIA 推出的**GPU 通用并行计算平台 + 编程模型**，2006 年发布，只支持 NVIDIA 显卡。
+> 单一句话：让显卡不再只用来渲染画面，而是跑大规模并行计算，是现在 AI、深度学习的底层基石。
+>> 核心模型：Host / Device
+>> - **Host（主机）**：CPU + 内存，负责串行逻辑、数据准备、调度任务
+>> - **Device（设备）**：GPU + 显存，负责海量并行计算
+>> 
+>> 异构编程：CPU 管流程，GPU 管重计算
+>>
+> CUDA = NVIDIA GPU 并行编程框架，异构计算；CPU (host) 调度，GPU (device) 跑 kernel；线程层级 Grid/Block/Thread，SIMT；AI 大模型、深度学习依赖它。
+>
+
+
+* biometric   /ˌbaɪoʊˈmetrɪk/  adj. 生物统计的，生物计量的（与生物统计学或生物数据测量、统计处理有关的）；生物特征识别的，生物识别的（利用指纹、虹膜、人脸、声纹等生理或行为特征进行身份识别或认证的）;
+> Your biometric data is never sent to X or stored after verification. 您的生物识别数据在验证后绝不会被发送至X或存储。
+> verification  /ˌverɪfɪˈkeɪʃ(ə)n/  n.证实，证明，核实；（哲）（通过实证方法对命题）证实；（确保裁减武器协议所规定程序得以执行的）核查； 
+
+* clamp  /klæmp/  v.（用夹具）夹紧，夹住；紧紧抓住，牢牢固定住； n. 夹具，夹钳；车轮固定夹；钳位电路；
+
+* duration  /duˈreɪʃn/  n. 持续，持续时间；
+
+* poll /poʊl/  n. 民意调查，民意测验；选举投票，计票；投票数；投票点（the polls）；头顶，头皮；无角动物（尤指无角牛）；  v. 对……进行民意测验（调查）；获得（票数）；（电信，计算机）轮询，探询；截掉（动物，尤指小牛）的角；

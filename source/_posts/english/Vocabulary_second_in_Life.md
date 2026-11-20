@@ -62,7 +62,28 @@ summary: English Words in Daily Life
 * insane  /ɪnˈseɪn/  adj. 疯癫的，精神失常的；蠢极的，荒唐的；
 > fucking insane  简直疯狂到不行
 
+* societal  /səˈsaɪətl/  adj. <正式>社会的，社会层面的；
+* complexity  /kəmˈpleksəti/  n. 复杂性，错综复杂；复杂之处，费解之处；
+* comprehension  /ˌkɑːmprɪˈhenʃ(ə)n/  n. 理解力，领悟力；（听力或阅读）理解测试；包括，包含；
+> societal complexity and the problem of comprehension  社会复杂性与理解问题
 
+* resign  /rɪˈzaɪn/   v.辞（职），放弃（工作或职位）；（使）听任，（使）顺从（~ oneself to）；（国际象棋）放弃，投子认输；
+
+* boundary  /ˈbaʊndri/  n. 分界线，边界；界限，范围；（板球）击球超过边界线得分；
+* cognition  /kɑːɡˈnɪʃ(ə)n/  n.认识，认知；认识（或认知）的结果；
+> The boundary of your cognition is the boundary of your world. 认知的边界，就是你世界的边界。
+> You cannot possess what lies beyond your cognition. How far a person can go depends not on their feet, but on their vision. 你无法拥有你认知之外的东西。一个人能走多远，不取决于他的双脚，而取决于他的视野。
+> possess  /pəˈzes/  v. <正式> 拥有，持有；具有（品质或能力）；（尤指邪恶的鬼魅或精灵）缠住，迷住；受（感情）支配，受（感情）影响；了解，懂得;
+> lies /laɪz/  v.（lie 的第三人称单数形式）躺卧或平放；位于，坐落；在于；说谎;  n. 谎言，谎话（lie 的复数）；
+
+* APEC:  Asia-Pacific Economic Cooperation 亚太经合组织
+> - 成立：1989 年 11 月，澳大利亚堪培拉
+> - 性质：亚太最高层级的经济合作论坛，不是条约型国际组织
+> - 核心特点：自愿、协商一致、成果无法律强制约束力，成员叫经济体而非国家（包含中国香港、中国台北）
+> - 成员：一共21 个经济体；3 个观察员（东盟秘书处、太平洋经济合作理事会、太平洋岛国论坛秘书处）
+> - 秘书处：新加坡
+> 宗旨: 推动亚太可持续增长繁荣、开放贸易投资、区域一体化、经济技术合作、互联互通、创新发展。
+> 领导人非正式会议（最知名，每年一次，标志性的特色服装合影）
 
 
 * YoE
